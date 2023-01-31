@@ -1,0 +1,9 @@
+.block a.zzz {
+    color: red;
+}
+.block a.zzz:hover {
+    text-decoration: none;
+}
+div h2:last-of-type{
+    color: red;
+}
