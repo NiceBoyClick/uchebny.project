@@ -1,5 +1,8 @@
-"use strict";
-let num = 38947
-let num2 = 987998
-let num3 = String(num)+String(num2)
-alert( String(true) + Number(true) );
+"use strict"
+let num1 = 3;
+num1++;
+let num2 = num1--;
+alert(num1++);
+alert(--num2);
+
+
