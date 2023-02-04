@@ -1,7 +1,3 @@
 "use strict"
-let num1 = prompt('Введите первую сторону прямоугольника');
-let num2 = prompt('введите вторую сторону прямоугольника');
-let per = 2*(+num1 + +num2)
-alert('периметр прямоугольника: ' + per);
-
+document.write('<i>text</i>');
 
