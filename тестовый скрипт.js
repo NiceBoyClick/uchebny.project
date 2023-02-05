@@ -1,6 +1,5 @@
 "use strict"
-let arr = [];
-
-arr[3] = 'a';
-arr[8] = 'b';
-console.log(arr.length)
+let arr = [1, 2, 3];
+arr.push(4);
+arr.push(5);
+console.log(arr)
