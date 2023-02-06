@@ -1,5 +1,3 @@
 "use strict"
-let arr = ['a', 'b', 'c', 'd', 'e'];
-delete arr[0];
-delete arr[2];
-console.log(arr.length)
+let obj = {1: 'понедельник', 2: 'вторник', 3: 'среда', 4: "четверг", 5: "пятница", 6: "суббота", 7: "воскресенье"};
+console.log(obj[1], obj[2], obj[3], obj[4], obj[5], obj[6], obj[7]);
