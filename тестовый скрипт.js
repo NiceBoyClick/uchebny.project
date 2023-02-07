@@ -1,5 +1,3 @@
 "use strict"
-let obj = {};
-obj.name = 'Константин';
-obj.surname = 'Королёв';
+let obj = {name: 'Константин', surname: 'Королёв' };
 console.log(obj)
