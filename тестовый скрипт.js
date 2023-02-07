@@ -1,3 +1,3 @@
 "use strict"
-let user = {name: 'Константин', surname: 'Королёв', patronymic: 'Сергеевич'};
-alert(user["name"] + ' ' + user["surname"] + ' ' + user["patronymic"])
+let date = {year: 2023, month: 2, day: 7};
+alert(date.year + "-" +  date.month + "-" + date.day)
