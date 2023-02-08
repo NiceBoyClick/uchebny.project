@@ -1,7 +1,5 @@
 "use strict"
-let key = 'x';
-let obj = {
-    [key]: 1,
-    y: 2,
-    z: 3
-};
+let obj = {x: 1, y: 2, z: 3};
+
+console.log('x' in obj);
+console.log('w' in obj);
