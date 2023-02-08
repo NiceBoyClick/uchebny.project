@@ -1,3 +1,3 @@
 "use strict"
-let obj = {x: 1, y: 2, z: 3};
-console.log( typeof obj['x'] );
+let arr = [1, 2, 3];
+console.log( typeof arr );
