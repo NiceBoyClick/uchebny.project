@@ -1,3 +1,2 @@
 "use strict"
-let arr = [1, 2, 3];
-console.log( typeof arr );
+console.log( Array.isArray({x: 1, y: 2, z: 3}) );
