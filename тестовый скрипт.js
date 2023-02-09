@@ -1,5 +1,3 @@
 "use strict"
-const arr = [1, 2, 3, 4, 5];
-const res = arr[1] + arr[2];
-
-console.log(res);
+let obj = {x: 1, y: 2, z: 3};
+console.log(Object.keys(obj).length);
