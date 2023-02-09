@@ -1,7 +1,6 @@
-let test1 = '3';
-let test2 = '3';
-
-if (test1 != test2) {
+"use strict"
+let num = 11;
+if (num >= 10 && num <= 20) {
     console.log('+++');
 } else {
     console.log('---');
