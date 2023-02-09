@@ -1,3 +1,8 @@
 "use strict"
-let obj = {x: 1, y: 2, z: 3};
-console.log(Object.keys(obj).length);
+let test = 14;
+
+if (test > 10) {
+    console.log('+++');
+} else {
+    console.log('---');
+}
