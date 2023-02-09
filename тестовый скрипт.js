@@ -1,7 +1,9 @@
 "use strict"
-let test = 11;
-if (test != 10) {
+let test1 = 21;
+let test2 = 32;
+
+if (test2 == test1) {
     console.log('+++');
 } else {
-    console.log('---');
+    console.log('---')
 }
