@@ -1,7 +1,7 @@
 "use strict"
-let num1 = 0;
-let num2 = 11;
-if (!(num1 >= 0 || num2 <= 10)) {
+let test = false;
+
+if (test === false) {
     console.log('+++');
 } else {
     console.log('---');
