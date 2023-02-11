@@ -1,10 +1,6 @@
 "use strict"
-let test1 = true;
-let test2 = true;
-let test3 = true;
+let test = 10;
 
-if (test1 || !test2 && !test3) {
+if (test == 10) {
     console.log('+++');
-} else {
-    console.log('---');
 }
