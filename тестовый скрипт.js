@@ -1,9 +1,8 @@
 "use strict"
 let test = true;
 
-if (test) {
+if (!test) {
     console.log('+++');
 } else {
     console.log('---');
 }
-
