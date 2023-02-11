@@ -1,7 +1,7 @@
 "use strict"
-let test = 3 * 'a';
+let test = true;
 
-if (test == true) {
+if (test) {
     console.log('+++');
 } else {
     console.log('---');
