@@ -1,12 +1,13 @@
 "use strict"
-let day = 19;
+let num = 0;
 
-if (day >= 1 && day <= 10) {
-    console.log('value1');
-} else if (day >= 11 && day <= 20) {
-    console.log('value2');
-} else if (day >= 21 && day <= 31) {
-    console.log('value3');
+if (num >= 10 && num <= 99) {
+    let sum = (num % 10) + (num / 10 | 0);
+    if (sum <= 9) {
+        console.log("Сумма цифр однозначна");
+    } else {
+        console.log("Сумма цифр двухзначна");
+    }
 } else {
-    console.log('неверное значение переменной  day');
+    console.log('недопустимое значение')
 }
