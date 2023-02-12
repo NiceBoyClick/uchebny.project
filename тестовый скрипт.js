@@ -1,13 +1,15 @@
 "use strict"
-let num = 0;
+let lang = 'ru';
 
-if (num >= 10 && num <= 99) {
-    let sum = (num % 10) + (num / 10 | 0);
-    if (sum <= 9) {
-        console.log("Сумма цифр однозначна");
-    } else {
-        console.log("Сумма цифр двухзначна");
-    }
-} else {
-    console.log('недопустимое значение')
+switch (lang) {
+    case 'ru':
+    console.log('рус');
+    break;
+    case 'en':
+    console.log('анг');
+    case 'de':
+    console.log('нем');
+    break;
+    default:
+    console.log('язык не поддерживается');
 }
