@@ -1,15 +1,11 @@
 "use strict"
-let lang = 'ru';
+let num = 1; // пусть здесь число 1
 
-switch (lang) {
-    case 'ru':
-    console.log('рус');
-    break;
-    case 'en':
-    console.log('анг');
-    case 'de':
-    console.log('нем');
-    break;
-    default:
-    console.log('язык не поддерживается');
+switch (num) {
+    case 1:
+        console.log(1);
+    case 2:
+        console.log(2);
+    case 3:
+        console.log(3);
 }
