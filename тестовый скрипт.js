@@ -1,10 +1,9 @@
 "use strict"
-let arr = [34, 67, 89];
-let sum;
+let str = 'gabba';
+let first = str[0];
 
-if (arr.length === 3) {
-    if (sum = arr[0] + arr[1] + arr[2]);
-     console.log(sum);
+if (first == 'a') {
+     console.log('+');
 } else {
-     console.log('error');
+     console.log('-')
 }
