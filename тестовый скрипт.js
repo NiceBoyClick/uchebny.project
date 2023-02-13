@@ -1,14 +1,10 @@
 "use strict"
-let min = 44;
+let arr = [34, 67, 89];
+let sum;
 
-if (min >= 0 && min <= 19) {
-     console.log('1 треть');
-}
-
-if (min >= 20 && min <= 39) {
-     console.log('2 треть');
-}
-
-if (min >= 40 && min <= 60) {
-     console.log('3 треть');
+if (arr.length === 3) {
+    if (sum = arr[0] + arr[1] + arr[2]);
+     console.log(sum);
+} else {
+     console.log('error');
 }
