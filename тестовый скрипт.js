@@ -1,8 +1,9 @@
 "use strict"
-let ok = confirm('вам есть 18 лет?');
-
-if (ok) {
-    alert('доступ разрешён');
+let age = 17;
+let adult;
+if (age >= 18) {
+     adult = true;
 } else {
-    alert('доступ запрещён');
+     adult = false;
 }
+console.log(adult);
