@@ -1,4 +1,8 @@
 "use strict"
-let a = 2 ** 4;
-let b = 4 ** 2;
-console.log(a != b);
+let ok = confirm('вам есть 18 лет?');
+
+if (ok) {
+    alert('доступ разрешён');
+} else {
+    alert('доступ запрещён');
+}
