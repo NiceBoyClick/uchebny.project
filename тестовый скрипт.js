@@ -1,9 +1,11 @@
 "use strict"
-let num1 = '1';
-let num2 = '2';
+let num = '123033'; // берем в кавычки, чтобы обращаться к цифрам
 
-if (Number(num1) + Number(num2) === 3) {
-     console.log('+++');
+let sum1 = Number(num[0]) + Number(num[1]) + Number(num[2]);
+let sum2 = Number(num[3]) + Number(num[4]) + Number(num[5]);
+
+if (sum1 == sum2) {
+     console.log('суммы равны');
 } else {
-     console.log('---');
+     console.log('суммы не равны');
 }
