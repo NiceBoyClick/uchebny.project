@@ -1,9 +1,10 @@
 "use strict"
-let str = 'gabba';
-let first = str[0];
+let num = 287409;
+let str = String(num);
+let last = str[str.length - 2]
 
-if (first == 'a') {
-     console.log('+');
+if (last == 0) {
+     console.log('+++');
 } else {
-     console.log('-')
+     console.log('---');
 }
