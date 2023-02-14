@@ -1,10 +1,10 @@
 "use strict"
-let num = 287409;
-let str = String(num);
-let last = str[str.length - 2]
+let num = 83;
+let num2 = 2;
+let rest = num % num2;
 
-if (last == 0) {
-     console.log('+++');
+if (rest == 0) {
+     console.log('чётное');
 } else {
-     console.log('---');
+     console.log('нечётное');
 }
