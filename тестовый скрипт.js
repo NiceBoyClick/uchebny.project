@@ -1,10 +1,10 @@
 "use strict"
-let num = 83;
-let num2 = 2;
+let num = 90;
+let num2 = 3;
 let rest = num % num2;
 
-if (rest == 0) {
-     console.log('чётное');
+if (rest === 0) {
+     console.log('делится нацело');
 } else {
-     console.log('нечётное');
+     console.log('делится с остатком');
 }
