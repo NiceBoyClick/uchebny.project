@@ -1,8 +1,5 @@
 "use strict"
-let num = 12345;
+let num = 433;
 let str = String(num)
-if (str[0] == 1 || str[0] == 2 || str[0] == 3) {
-     console.log('да');
-} else {
-     console.log('нет')
-}
+let sum = Number(str[0]) +  Number(str[1]) + Number(str[2]);
+alert(sum);
