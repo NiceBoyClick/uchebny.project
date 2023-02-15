@@ -1,11 +1,14 @@
 "use strict"
-let num = '123033'; // берем в кавычки, чтобы обращаться к цифрам
-
-let sum1 = Number(num[0]) + Number(num[1]) + Number(num[2]);
-let sum2 = Number(num[3]) + Number(num[4]) + Number(num[5]);
-
-if (sum1 == sum2) {
-     console.log('суммы равны');
-} else {
-     console.log('суммы не равны');
+let month = 7;
+if (month == 1 || month == 2 || month == 12) {
+     console.log('зима');
+}
+if (month >= 3 && month <= 5 ) {
+     console.log('весна');
+}
+if (month >=6 && month <=8) {
+     console.log('лето');
+}
+if (month >=9 && month <= 11) {
+     console.log('осень');
 }
