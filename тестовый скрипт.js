@@ -1,9 +1,9 @@
 "use strict"
-let res = 0;
+let res = 1;
 
-for (let i = 1; i <= 99; i += 1) {
-    res += (i % 2 !== 0);
+for (let i = 1; i <= 20; i++) {
+    console.log(res);
+    res *= i;
 }
 
-console.log(res);
 
