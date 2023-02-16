@@ -1,5 +1,9 @@
 "use strict"
-let obj = {x: 1, y: 2, z: 3};
-for (let key in obj) {
-    console.log(obj[key]);
+let num = 1;
+
+while (num < 1000) {
+    console.log(num);
+    num = num * 3;
 }
+
+
