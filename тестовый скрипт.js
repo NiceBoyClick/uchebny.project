@@ -1,9 +1,15 @@
 "use strict"
-let res = 1;
+let res = 0;
+let arr = [2, 5, 9, 3, 1, 4];
 
-for (let i = 1; i <= 20; i++) {
+for (let elem of arr) {
     console.log(res);
-    res *= i;
+    res += elem ** 2 ;
 }
+console.log(res);
+
+
+
+
 
 
