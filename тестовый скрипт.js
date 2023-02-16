@@ -1,9 +1,6 @@
 "use strict"
-let num = 1;
-
-while (num < 1000) {
-    console.log(num);
-    num = num * 3;
+let arr = ['a', 'b', 'c', 'd', 'e'];
+for (let i = 0; i < arr.length; i++) {
+    console.log(arr[i]);
 }
-
 
