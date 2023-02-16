@@ -1,6 +1,8 @@
 "use strict"
-let arr = ['a', 'b', 'c', 'd', 'e'];
-for (let i = arr.length - 1; i >= 0; i--) {
-    console.log(arr[i]);
+let arr = [2, 5, 9, 15, 1, 4];
+for (let elem of arr) {
+    if (elem > 3 && elem < 10) {
+        console.log(elem);
+    }
 }
 
