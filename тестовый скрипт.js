@@ -1,10 +1,8 @@
 "use strict"
-let str = '';
-
-for (let i = 1; i <= 9; i++) {
-    str += i;
+for (let i = 10; i <= 1000; i++) {
+    let str = String(i);
+    console.log(str[0]);
 }
-console.log(str);
 
 
 
