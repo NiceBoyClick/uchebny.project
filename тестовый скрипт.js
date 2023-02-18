@@ -1,11 +1,13 @@
 "use strict"
-let res = 1;
-let arr = [2, 5, 9, 3, 1, 4];
+let str = '';
 
-for (let elem of arr) {
-    res *= elem;
+for (let i = 1; i <= 9; i++) {
+    str += i;
 }
-console.log(res);
+console.log(str);
+
+
+
 
 
 
