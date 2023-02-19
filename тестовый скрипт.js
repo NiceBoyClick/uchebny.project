@@ -1,15 +1,14 @@
 "use strict"
-let sum = 0;
-let res = 0;
-for (let i = 1; i < 100; i++) {
-    sum = sum + i;
-    res = res + 1;
-    if (sum > 100) {
+let pos = 0;
+let arr = [6, 7, 5, 3, 4, 1, 9];
+for (let elem of arr) {
+    pos += 1;
+    if (elem === 3) {
+        console.log(pos)
         break;
     }
-    console.log(i)
 }
-console.log(res)
+
 
 
 
