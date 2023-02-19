@@ -1,13 +1,11 @@
 "use strict"
-let arr = [1, -2, 8, -4 ,-7, 5, -2, 3, 0, -5, -7, -8, -9];
-let arr2 = [];
+let arr = [1, 2, 3, 4, 5];
 
-for (let i = 0; i <= arr.length; i++) {
-    if (arr[i] >= 0) {
-        arr2.push(arr[i]);
-    }
+for (let i = 0; i < arr.length; i++) {
+    arr[i] = arr[i] ** 2;
 }
-console.log(arr2);
+
+console.log(arr);
 
 
 
