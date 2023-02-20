@@ -1,13 +1,9 @@
 "use strict"
-let obj = {a: 1, b: 2, c: 3, d: 4, e: 5};
-let obj2 = {};
-
+let obj = {x: 1, y: 2, z: 3};
 for (let key in obj) {
-    obj2[obj[key]] = key;
+    obj[key] = obj[key] + 1;
 }
-console.log(obj2);
-
-
+console.log(obj);
 
 
 
