@@ -1,17 +1,16 @@
 "use strict"
-let arr = [1, 2, 3, 2, 4, 3, 5, 6, 3, 2, 3];
-let counter3 = 0;
-let counter2 = 0;
+let arr = 'ddihhtyymeeeerll';
+let count = {};
+
 for (let elem of arr) {
-    if (elem == 3) {
-        counter3++;
-    }
-    if (elem == 2) {
-      counter2++;
+    if (count[elem] === undefined) {
+        count[elem] = 1;
+    } else {
+        count[elem]++;
     }
 }
-console.log(`количество двоек: ${counter2}`);
-console.log(`количество троек: ${counter3}`);
+
+console.log(count);
 
 
 
