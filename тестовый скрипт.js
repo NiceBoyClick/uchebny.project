@@ -1,19 +1,12 @@
 "use strict"
-let arr = 13;
-let flag = true;
-for (let i = 2; i <= arr / 2; i++) {
-    console.log(i)
-    if (arr % i == 0) {
-        flag = false;
-        break;
+let arr = [1, 2, 3, 2, 4, 3, 5, 6, 3, 2, 3];
+let counter = 0;
+for (let elem of arr) {
+    if (elem == 3) {
+        counter++;
     }
 }
-if (flag == true) {
-    console.log('+++');
-} else {
-    console.log('---');
-}
-
+console.log(counter);
 
 
 
