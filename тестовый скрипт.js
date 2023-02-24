@@ -1,20 +1,19 @@
 "use strict"
-let arr = [1, 2, 3, 4, 5];
+let num = [2, 13, 7, 18, 5 , 4, 0];
 let flag = false;
-
-for (let elem of arr) {
-    if (elem === 3) {
+for (let i = 0; i <= num.length; i++) {
+    if (num[i] === 5) {
         flag = true;
         break;
+    } else {
+        flag = false;
     }
 }
 if (flag === true) {
-    console.log('+++');
+    console.log('+++')
 } else {
-    console.log('---');
+    console.log('---')
 }
-
-
 
 
 
