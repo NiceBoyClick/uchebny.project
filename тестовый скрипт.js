@@ -1,5 +1,5 @@
 "use strict"
-let num = [2, 13, 7, 18, 5 , 4, 0];
+let num = [2, 13, 7, 18, 5, 3, 0];
 let flag = false;
 for (let i = 0; i <= num.length; i++) {
     if (num[i] === 5) {
