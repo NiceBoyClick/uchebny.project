@@ -1,12 +1,20 @@
 "use strict"
-let obj = {a: 1, b: 2, c: 3};
-let sum = 0;
+let arr = [1, 2, 3, 4, 5];
+let flag = false;
 
-for (let elem in obj) {
-    sum += obj[elem];
+for (let elem of arr) {
+    if (elem === 3) {
+        flag = true;
+        break;
+    }
+}
+if (flag === true) {
+    console.log('+++');
+} else {
+    console.log('---');
 }
 
-console.log(sum);
+
 
 
 
