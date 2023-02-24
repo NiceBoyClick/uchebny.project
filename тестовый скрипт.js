@@ -1,10 +1,12 @@
 "use strict"
-let arr = [1, 2, 3, 4, 5];
+let obj = {a: 1, b: 2, c: 3};
+let sum = 0;
 
-for (let i = 0; i < arr.length; i++) {
-    arr[i] = arr[i] ** 2;
+for (let elem in obj) {
+    sum += obj[elem];
 }
-console.log(arr);
+
+console.log(sum);
 
 
 
