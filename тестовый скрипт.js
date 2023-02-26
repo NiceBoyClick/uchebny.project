@@ -1,6 +1,6 @@
 "use strict"
-let sum = 1;
-for (let i = 1; i <= 5; i++) {
-    sum *= i;
+let arr = [];
+for (let i = 10; i >= 1; i--) {
+    arr.push(i);
 }
-console.log(sum)
+console.log(arr);
