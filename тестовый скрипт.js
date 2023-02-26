@@ -1,6 +1,9 @@
 "use strict"
-let arr = [10, 1, 2, 50, 235, 3000];
+let arr = ['понедельник', 'вторник', 'среда', 'четверг', 'пятница', 'суббота', 'воскресенье'];
 for (let i = 0; i <= arr.length - 1; i++) {
-    document.write(`<p>${arr[i]}</p>`);
-    document.write('<br>');
+    if (i == arr.length - 1 || i == arr.length - 2) {
+        document.write(`<br><b>${arr[i]}</b><br>`)
+    } else {
+        document.write(`<br>${arr[i]}<br>`)
+    }
 }
