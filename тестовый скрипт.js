@@ -1,16 +1,8 @@
 "use strict"
-let obj = {
-    employee1: 100,
-    employee2: 200,
-    employee3: 300,
-    employee4: 400,
-    employee5: 500,
-    employee6: 600,
-    employee7: 700,
-};
-for (let elem in obj) {
-    if (obj[elem] <= 400) {
-        obj[elem] += obj[elem] * 0.1;
-    }
+let arr1 = [1, 2, 3, 4, 5];
+let arr2 = [6, 7, 8, 9, 10];
+let obj = {};
+for (let i = 0; i <= 4; i++) {
+    obj[arr1[i]] = arr2[i];
 }
 console.log(obj)
