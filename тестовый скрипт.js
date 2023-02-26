@@ -1,5 +1,8 @@
 "use strict"
-let arr = [10, 20, 30, 50, 235, 3000];
-for (let i = arr.length - 1; i >= 0; i--) {
-    console.log(arr[i])
+let arr = [10, 1, 2, 50, 235, 3000];
+let num = 0;
+for (let i = 0; i <= arr.length - 1; i++) {
+    if (i == arr[i]){
+        console.log(arr[i])
+    }
 }
