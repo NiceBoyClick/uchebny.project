@@ -9,6 +9,8 @@ let obj = {
     employee7: 700,
 };
 for (let elem in obj) {
-    obj[elem] += obj[elem] * 0.1;
+    if (obj[elem] <= 400) {
+        obj[elem] += obj[elem] * 0.1;
+    }
 }
 console.log(obj)
