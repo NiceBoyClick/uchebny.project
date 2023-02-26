@@ -1,10 +1,14 @@
 "use strict"
-let arr = ['понедельник', 'вторник', 'среда', 'четверг', 'пятница', 'суббота', 'воскресенье'];
-let day = 6;
-for (let i = 0; i <= arr.length - 1; i++) {
-    if (i == day) {
-        document.write(`<br><i>${arr[i]}</i><br>`)
-    } else {
-        document.write(`<br>${arr[i]}<br>`)
-    }
+let obj = {
+    employee1: 100,
+    employee2: 200,
+    employee3: 300,
+    employee4: 400,
+    employee5: 500,
+    employee6: 600,
+    employee7: 700,
+};
+for (let elem in obj) {
+    obj[elem] += obj[elem] * 0.1;
 }
+console.log(obj)
