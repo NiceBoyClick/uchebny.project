@@ -1,8 +1,12 @@
 "use strict"
-let arr1 = [1, 2, 3, 4, 5];
-let arr2 = [6, 7, 8, 9, 10];
-let obj = {};
-for (let i = 0; i <= 4; i++) {
-    obj[arr1[i]] = arr2[i];
+let obj = {1: 6, 2: 7, 3: 8, 4: 9, 5: 10};
+let keysum = 0;
+let keyelem = 0;
+let result = 0;
+for (let elem in obj) {
+    keysum += +elem;
+    keyelem += obj[elem];
+    result = keysum / keyelem;
 }
-console.log(obj)
+console.log(result);
+
