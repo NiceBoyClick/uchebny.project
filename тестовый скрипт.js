@@ -1,11 +1,20 @@
 "use strict"
-let obj = {'a': 1, 'b': 2, 'c': 3, 'd': 4, 'e': 5};
-let key = [];
-let elements = [];
+let obj = {
+    1: 125,
+    2: 225,
+    3: 128,
+    4: 356,
+    5: 145,
+    6: 281,
+    7: 452,
+};
+let mass = [];
 for (let elem in obj) {
-    key.push(elem);
-    elements.push(obj[elem])
+    let i = obj[elem];
+    i = String(obj[elem]);
+    if (i[0] == 1 || i[0] == 2) {
+        mass.push(+i);
+    }
 }
-console.log(key);
-console.log(elements)
+console.log(mass);
 
