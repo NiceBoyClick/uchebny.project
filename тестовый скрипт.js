@@ -1,12 +1,11 @@
 "use strict"
-let obj = {1: 6, 2: 7, 3: 8, 4: 9, 5: 10};
-let keysum = 0;
-let keyelem = 0;
-let result = 0;
+let obj = {'a': 1, 'b': 2, 'c': 3, 'd': 4, 'e': 5};
+let key = [];
+let elements = [];
 for (let elem in obj) {
-    keysum += +elem;
-    keyelem += obj[elem];
-    result = keysum / keyelem;
+    key.push(elem);
+    elements.push(obj[elem])
 }
-console.log(result);
+console.log(key);
+console.log(elements)
 
