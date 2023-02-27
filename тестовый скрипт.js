@@ -1,7 +1,19 @@
 "use strict"
-let arr = [[1, 2], [3, 4], [5, 6]];
-let sum = 0;
-for (let elem of arr) {
-    sum += elem[0] + elem[1]
-}
-console.log(sum)
+let arr = [
+    [
+        [1, 2],
+        [3, 4],
+    ],
+    [
+        [5, 6],
+        [7, 8],
+    ],
+];
+console.log(arr[0][0][0]
+    + arr[0][0][1]
+    + arr[0][1][0]
+    + arr[0][1][1]
+    + arr[1][0][0]
+    + arr[1][0][1]
+    + arr[1][1][0]
+    + arr[1][1][1]);
