@@ -1,20 +1,27 @@
 "use strict"
 let obj = {
-    key1: {
-        a: 1, b: 2, c: {
-            d: 3,
-            e: 4,
-        }, f: 5,
+    1: {
+        1: 11,
+        2: 12,
+        3: 13,
     },
-    key2: {
-        g: 6, h: 7,
+    2: {
+        1: 21,
+        2: 22,
+        3: 23,
+    },
+    3: {
+        1: 24,
+        2: 25,
+        3: 26,
     },
 }
-console.log(obj["key1"]["a"]
-    + obj["key1"]["b"]
-    + obj["key1"]["c"]["d"]
-    + obj["key1"]["c"]["e"]
-    + obj["key1"]["f"]
-    + obj["key2"]["g"]
-    + obj["key2"]["h"]);
+let sum = 0;
+for (let key in obj) {
+    let subObj = obj[key];
 
+    for (let subKey in subObj) {
+        sum += subObj[subKey];
+    }
+}
+console.log(sum);
