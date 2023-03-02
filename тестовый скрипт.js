@@ -1,11 +1,11 @@
 "use strict"
 let arr = [];
 
-for (let i = 0; i < 3; i++) {
+for (let i = 0, k = 1; i < 4; i++) {
     arr[i] = [];
 
-    for (let j = 1; j <= 5; j++) {
-        arr[i].push(j);
+    for (let j = 0; j < 2; j++) {
+        arr[i].push(k++);
     }
 }
 
