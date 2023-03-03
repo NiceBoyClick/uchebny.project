@@ -1,8 +1,30 @@
 "use strict"
-let students = {
-    'group1': ['name11', 'name12', 'name13'],
-    'group2': ['name21', 'name22', 'name23'],
-    'group3': ['name31', 'name32', 'name33'],
+let data = {
+    1: [
+        'data11',
+        'data12',
+        'data13',
+    ],
+    2: [
+        'data21',
+        'data22',
+        'data23',
+    ],
+    3: [
+        'data31',
+        'data32',
+        'data33',
+    ],
+    4: [
+        'data41',
+        'data42',
+        'data43',
+    ],
 };
-console.log(students['group3'][0]);
+for (let number in data) {
+    for (let name of data[number]) {
+       console.log(name);
+    }
+}
+
 
