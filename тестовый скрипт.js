@@ -1,16 +1,26 @@
 "use strict"
-let obj = {
-    key1: {
-        key2: '12',
-        key3: '13',
+let employees = [
+    {
+        name: 'name1',
+        salary: 300,
+        age: 28,
     },
-    key2: {
-        key4: '24',
-        key5: '25',
+    {
+        name: 'name2',
+        salary: 400,
+        age: 29,
     },
-}
+    {
+        name: 'name3',
+        salary: 500,
+        age: 30,
+    },
+];
+employees.push({
+    name: 'name4',
+    salary: 600,
+    age: 40,
+});
+console.log(employees);
 
-let key1 = 'key2';
-let key2 = 'key4';
-console.log(obj[key1][key2]);
 
