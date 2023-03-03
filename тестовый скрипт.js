@@ -13,7 +13,9 @@ let employees = [
         salary: 500,
     },
 ];
+let sum = 0;
 for (let employee of employees) {
-    console.log(employee.name + ' - ' + employee.salary);
+    sum += employee.salary
 }
+console.log(sum);
 
