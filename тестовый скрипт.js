@@ -1,49 +1,19 @@
 "use strict"
-let data = [
+let employees = [
     {
-        1: [
-            'data111',
-            'data112',
-            'data113',
-        ],
-        2: [
-            'data121',
-            'data122',
-            'data123',
-        ],
+        name: 'name1',
+        salary: 300,
     },
     {
-        1: [
-            'data211',
-            'data212',
-            'data213',
-        ],
-        2: [
-            'data221',
-            'data222',
-            'data223',
-        ],
+        name: 'name2',
+        salary: 400,
     },
     {
-        1: [
-            'data411',
-            'data412',
-            'data413',
-        ],
-        2: [
-            'data421',
-            'data422',
-            'data423',
-        ],
+        name: 'name3',
+        salary: 500,
     },
 ];
-for (let obj of data) {
-    for (let arr in obj) {
-        let subarr = obj[arr];
-        for (let name of subarr) {
-            console.log(name);
-        }
-    }
+for (let employee of employees) {
+    console.log(employee.name + ' - ' + employee.salary);
 }
-
 
