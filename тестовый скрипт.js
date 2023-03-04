@@ -15,6 +15,7 @@ let students = {
 };
 
 students['group1']['subgroup11'].push('student114');
+students['group1']['subgroup13'] = [];
 console.log(students);
 
 
