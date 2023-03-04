@@ -1,4 +1,4 @@
 "use strict"
-console.log(Math.pow(2, 10));
+console.log(Math.sqrt(245));
 
 
