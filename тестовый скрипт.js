@@ -1,7 +1,3 @@
 "use strict"
-let sqr = Math.sqrt(587);
-let obj = {};
-obj['floor'] = Math.floor(sqr);
-obj['ceil'] = Math.ceil(sqr);
-console.log(obj);
-
+console.log(Math.max(4, -2, 5, 19, -130, 0, 10));
+console.log(Math.min(4, -2, 5, 19, -130, 0, 10));
