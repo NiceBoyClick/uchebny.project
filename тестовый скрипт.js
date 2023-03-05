@@ -1,6 +1,7 @@
 "use strict"
-let sqr = Math.sqrt(379);
-console.log(Math.round(sqr));
-console.log(+sqr.toFixed(1));
-console.log(+sqr.toFixed(2));
+let sqr = Math.sqrt(587);
+let obj = {};
+obj['floor'] = Math.floor(sqr);
+obj['ceil'] = Math.ceil(sqr);
+console.log(obj);
 
