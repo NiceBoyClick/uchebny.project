@@ -1,3 +1,3 @@
 "use strict"
-let str =  'js';
-console.log(str.toUpperCase());
+let str =  'JS';
+console.log(str.toLowerCase());
