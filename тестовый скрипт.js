@@ -1,5 +1,3 @@
 "use strict"
-let a = -6;
-let b = -2;
-let res = Math.abs(a) - Math.abs(b);
-console.log(res);
+let str =  'js';
+console.log(str.toUpperCase());
