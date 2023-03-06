@@ -1,3 +1,6 @@
 "use strict"
-console.log(Math.max(4, -2, 5, 19, -130, 0, 10));
-console.log(Math.min(4, -2, 5, 19, -130, 0, 10));
+function getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+console.log(getRandomInt(1, 100));
