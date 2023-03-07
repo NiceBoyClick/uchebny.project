@@ -1,3 +1,3 @@
 "use strict"
 let str =  'abcde';
-console.log(str.indexOf('.html'));
+console.log(str.startsWith('http://'));
