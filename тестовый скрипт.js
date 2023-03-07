@@ -1,3 +1,3 @@
 "use strict"
-let str =  '12345';
-console.log(str.split(''));
+let arr = [1, 2, 3, 4, 5];
+console.log(arr.join('-'));
