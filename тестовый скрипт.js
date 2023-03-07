@@ -1,3 +1,3 @@
 "use strict"
-let str =  'abcde';
-console.log(str.startsWith('http://'));
+let str =  'abcde.html';
+console.log(str.endsWith('.html'));
