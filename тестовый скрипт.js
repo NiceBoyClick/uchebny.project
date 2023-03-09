@@ -1,12 +1,9 @@
 "use strict"
-
-
 let num = 12345;
 let arr = String(num).split('');
 
-let sum = 0;
+let prod = 1;
 for (let digit of arr) {
-    sum += Number(digit);
+    prod *= digit;
 }
-
-console.log(sum);
+console.log(prod);
