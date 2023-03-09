@@ -1,4 +1,5 @@
 "use strict"
-let arr = [1, 2, 3, 4, 5];
-let num = arr.includes(3);
-console.log(num);
+let str = 'london';
+
+let result = str.slice(0, 5) + str.slice(5).toUpperCase();
+console.log(result);
