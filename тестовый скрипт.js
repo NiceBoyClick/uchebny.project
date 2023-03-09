@@ -6,4 +6,5 @@ let prod = 1;
 for (let digit of arr) {
     prod *= digit;
 }
+
 console.log(prod);
