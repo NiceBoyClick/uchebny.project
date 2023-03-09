@@ -1,5 +1,5 @@
 "use strict"
-let str = 'london';
+let str = 'London';
 
-let result = str.slice(0, 2).toUpperCase() + str.slice(2);
+let result = str.slice(0, 1).toLowerCase() + str.slice(1);
 console.log(result);
