@@ -1,10 +1,11 @@
 "use strict"
-let num = 12345;
-let str = String(num);
-let arr = str.split('');
-let sum = 0;
-for (let digit of arr) {
-    sum += +digit;
+let num1 = 12345;
+let arr1 = String(num1).split('');
+
+let sum1 = 0;
+for (let digit of arr1) {
+    sum1 += +digit;
 }
-console.log(sum);
+
+console.log(sum1);
 
