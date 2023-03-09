@@ -1,4 +1,6 @@
 "use strict"
+
+
 let num = 12345;
 let arr = String(num).split('');
 
@@ -7,5 +9,4 @@ for (let digit of arr) {
     sum += Number(digit);
 }
 
-console.log(sum)
-
+console.log(sum);
