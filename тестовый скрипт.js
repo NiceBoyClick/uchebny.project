@@ -1,10 +1,9 @@
 "use strict"
-let num = 12345;
-let arr = String(num).split('');
-
-let prod = 1;
-for (let digit of arr) {
-    prod *= digit;
+function func() {
+    let sum = 0;
+    for (let i = 1; i <= 100; i++) {
+        sum += i;
+    }
+    console.log(sum);
 }
-
-console.log(prod);
+func();
