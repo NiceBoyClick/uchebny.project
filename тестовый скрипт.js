@@ -1,5 +1,6 @@
 "use strict"
-function func(num1 = 0, num2 = 0) {
-    console.log(num1 + num2);
+function func(num) {
+    return num ** 3;
 }
-func();
+let res = func(3)
+console.log(res);
