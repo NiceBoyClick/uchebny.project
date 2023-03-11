@@ -1,8 +1,5 @@
 "use strict"
-function func(num1, num2, num3) {
-    console.log(num1 + num2 + num3);
+function func(num1 = 0, num2 = 0) {
+    console.log(num1 + num2);
 }
-let param1 = 1;
-let param2 = 2;
-let param3 = 3;
-func(param1, param2, param3);
+func();
