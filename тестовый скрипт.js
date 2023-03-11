@@ -1,9 +1,5 @@
 "use strict"
-function func(num) {
-    if (num < 0) {
-        console.log('---');
-    } else {
-        console.log('+++');
-    }
+function func(num1, num2, num3) {
+    console.log(num1 + num2 + num3);
 }
-func(1);
+func(5, 2, 3);
