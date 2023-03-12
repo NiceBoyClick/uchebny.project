@@ -1,13 +1,11 @@
 "use strict"
-function sqrt(num) {
-    return Math.sqrt(num);
+function func(num) {
+    let sum = 0;
+
+    for (let i = 1; i <= num; i++) {
+        sum += i;
+    }
+    return sum;
 }
 
-function sum(num1, num2, num3) {
-    return num1 + num2 + num3;
-}
-function round(num) {
-    return num.toFixed(3);
-}
-let res = round(sum(sqrt(2), sqrt(3), sqrt(4)));
-console.log(res);
+console.log( func(5) );
