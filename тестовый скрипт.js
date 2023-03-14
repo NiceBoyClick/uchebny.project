@@ -1,12 +1,10 @@
 "use strict"
-function func(num) {
-    let i = 0;
-    while (true) {
-        num /= 2;
-        if (num < 10) {
-            return i + 1;
-        }
-        i++;
+function func(num1, num2) {
+    if (num1 > 0 && num2 > 0) {
+        return num1 * num2;
+    } else {
+        return num1 - num2;
     }
 }
-console.log( func(60) );
+
+console.log(func(3, 4));
