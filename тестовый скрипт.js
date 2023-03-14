@@ -1,11 +1,12 @@
 "use strict"
 function func(num) {
-    let sum = 0;
-
-    for (let i = 1; i <= num; i++) {
-        sum += i;
+    let i = 0;
+    while (true) {
+        num /= 2;
+        if (num < 10) {
+            return i + 1;
+        }
+        i++;
     }
-    return sum;
 }
-
-console.log( func(5) );
+console.log( func(60) );
