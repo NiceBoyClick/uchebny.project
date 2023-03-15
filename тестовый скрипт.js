@@ -1,11 +1,9 @@
 "use strict"
-function func(arr) {
-    for (let elem of arr) {
-        if (elem % 2 != 0) {
-            return false;
+function func(num) {
+    let str = String(num);
+    if (str[0] % 2 != 0 && str[1] % 2 != 0) {
+            return true;
         }
-    }
-    return true;
+    return false;
 }
-let arr = func([2, 4, 6, 8, 10]);
-console.log(arr);
+console.log(func(23));
