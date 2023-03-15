@@ -1,10 +1,11 @@
 "use strict"
-function func(num1, num2) {
-    if (num1 > 0 && num2 > 0) {
-        return num1 * num2;
-    } else {
-        return num1 - num2;
+function func(arr) {
+    for (let elem of arr) {
+        if (elem % 2 != 0) {
+            return false;
+        }
     }
+    return true;
 }
-
-console.log(func(3, 4));
+let arr = func([2, 4, 6, 8, 10]);
+console.log(arr);
