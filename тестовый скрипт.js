@@ -1,5 +1,5 @@
 "use strict"
-function func(a, b) {
-    return a + b >= 10;
-}
-console.log(func());
+function func(num) {
+    return  num >= 0;
+    }
+console.log(func(1));
