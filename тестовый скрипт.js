@@ -1,5 +1,9 @@
 "use strict"
-function func(num) {
-    return  num >= 0;
-    }
-console.log(func(1));
+function func1() {
+    return 3;
+}
+function func2(num) {
+    return 5;
+}
+
+console.log( func1() + func2() );
