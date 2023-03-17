@@ -1,9 +1,11 @@
 "use strict"
-function func1() {
-    return 3;
-}
-function func2(num) {
-    return 5;
+function sum(arr) {
+    let res = 0;
+
+    for (let elem of arr) {
+        res += elem;
+    }
+    return res;
 }
 
-console.log( func1() + func2() );
+console.log(sum([1, 2, 3, 4, 5]));
