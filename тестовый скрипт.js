@@ -1,14 +1,14 @@
 "use strict"
-let arr = [1, 2, 3, 4, 5];
-let res = sum(arr);
+let num = '12345';
+let res = getDigitsSum(num);
+console.log(res);
 
-function sum(arr) {
-    let res = 0;
+function getDigitsSum(num) {
+    let arr = num.split('');
+    let sum = 0;
 
     for (let elem of arr) {
-        res += elem;
+        sum += +elem;
     }
-
-    return res;
+    return sum;
 }
-console.log(res);
