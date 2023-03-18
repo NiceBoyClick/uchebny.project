@@ -1,8 +1,14 @@
 "use strict"
-function add(num) {
-    if (num <= 9) {
-        return '0' + num;
+let arr = [1, 2, 3, 4, 5];
+let res = sum(arr);
+
+function sum(arr) {
+    let res = 0;
+
+    for (let elem of arr) {
+        res += elem;
     }
-    return num;
+
+    return res;
 }
-console.log(add(10));
+console.log(res);
