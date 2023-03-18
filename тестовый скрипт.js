@@ -1,14 +1,12 @@
 "use strict"
-let num = '12345';
-let res = getDigitsSum(num);
-console.log(res);
 
-function getDigitsSum(num) {
-    let arr = num.split('');
-    let sum = 0;
-
-    for (let elem of arr) {
-        sum += +elem;
+function isPrime(num) {
+    for (let i = 2; i < num; i++) {
+        if (num % i !== 0) {
+            return true;
+        }
+        return false;
     }
-    return sum;
 }
+console.log(isPrime(13)); // должен вывести true
+
