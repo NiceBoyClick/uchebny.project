@@ -1,12 +1,11 @@
 "use strict"
-
-function isPrime(num) {
-    for (let i = 2; i < num; i++) {
-        if (num % i !== 0) {
-            return true;
-        }
-        return false;
+let arr1 = getsum([1, 2, 3, 4, 5]);
+function getsum(arr) {
+    let sum = 0;
+    for (let elem of arr) {
+        sum += elem;
     }
+    return sum;
 }
-console.log(isPrime(13)); // должен вывести true
+console.log(arr1);
 
