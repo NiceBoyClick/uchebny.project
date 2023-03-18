@@ -1,11 +1,11 @@
 "use strict"
-let arr1 = getsum([1, 2, 3, 4, 5]);
-function getsum(arr) {
-    let sum = 0;
-    for (let elem of arr) {
-        sum += elem;
+function findDivisors(num){
+    let arr = [];
+    for (let i = 1; i < num; i++) {
+        if (num % i == 0) {
+            arr.push(i);
+        }
     }
-    return sum;
+    return arr;
 }
-console.log(arr1);
-
+console.log(findDivisors(24));
