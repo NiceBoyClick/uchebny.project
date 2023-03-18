@@ -1,13 +1,12 @@
 "use strict"
-let arr = sum([1, 2, 3, 4, 5]);
+let res = sum([1, 2, 3, 4, 5]);
 
 function sum(arr) {
-    let num = 0;
+    let sum = 0;
 
     for (let elem of arr) {
-        num += elem;
+        sum += elem;
     }
-
-    return num;
+    return sum
 }
-console.log(arr);
+console.log(res);
