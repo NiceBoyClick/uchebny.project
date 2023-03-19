@@ -1,9 +1,6 @@
 "use strict"
-function addNumber(num) {
-    let arr = [];
-    for (let i = 1; i <= num; i++) {
-      arr.push(i)
-    }
-    return arr;
+function returnRandom(arr) {
+return arr[Math.floor(Math.random() * arr.length)];
 }
-console.log(addNumber(8));
+let arr = returnRandom([1, 'r', 4, 6, 7, 'y', 't']);
+console.log(arr);
