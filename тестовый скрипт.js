@@ -1,6 +1,10 @@
 "use strict"
-function returnRandom(arr) {
-return arr[Math.floor(Math.random() * arr.length)];
+function getPrime(num) {
+    for (let i = 2; i < num; i++) {
+        if(num % i === 0) {
+            return false;
+        }
+    }
+    return true;
 }
-let arr = returnRandom([1, 'r', 4, 6, 7, 'y', 't']);
-console.log(arr);
+console.log(getPrime(20));
