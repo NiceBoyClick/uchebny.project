@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="171 урок (Практика на функции)№12">
-      <change afterPath="$PROJECT_DIR$/test.ts" afterDir="false" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="создание и запуск TypeScript файла">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,14 +126,7 @@
       <workItem from="1679551434327" duration="3045000" />
       <workItem from="1679558760276" duration="7000" />
       <workItem from="1679641320498" duration="854000" />
-      <workItem from="1679642192825" duration="1490000" />
-    </task>
-    <task id="LOCAL-00237" summary="155 урок (Поиск ошибок в коде со стандартными методами)№3">
-      <created>1678381708173</created>
-      <option name="number" value="00237" />
-      <option name="presentableId" value="LOCAL-00237" />
-      <option name="project" value="LOCAL" />
-      <updated>1678381708173</updated>
+      <workItem from="1679642192825" duration="2350000" />
     </task>
     <task id="LOCAL-00238" summary="155 урок (Поиск ошибок в коде со стандартными методами)№4">
       <created>1678381999703</created>
@@ -472,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679554447215</updated>
     </task>
-    <option name="localTasksCounter" value="286" />
+    <task id="LOCAL-00286" summary="создание и запуск TypeScript файла">
+      <created>1679643820745</created>
+      <option name="number" value="00286" />
+      <option name="presentableId" value="LOCAL-00286" />
+      <option name="project" value="LOCAL" />
+      <updated>1679643820746</updated>
+    </task>
+    <option name="localTasksCounter" value="287" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,7 +506,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="168 урок (Логические операторы без if в функциях)№2" />
     <MESSAGE value="168 урок (Логические операторы без if в функциях)№3" />
     <MESSAGE value="168 урок (Логические операторы без if в функциях)№4" />
     <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№1" />
@@ -532,6 +530,7 @@
     <MESSAGE value="171 урок (Практика на функции)№10" />
     <MESSAGE value="171 урок (Практика на функции)№11" />
     <MESSAGE value="171 урок (Практика на функции)№12" />
-    <option name="LAST_COMMIT_MESSAGE" value="171 урок (Практика на функции)№12" />
+    <MESSAGE value="создание и запуск TypeScript файла" />
+    <option name="LAST_COMMIT_MESSAGE" value="создание и запуск TypeScript файла" />
   </component>
 </project>
