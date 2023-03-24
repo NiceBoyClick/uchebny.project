@@ -1,51 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="31урок(инкременты и дискременты)">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="171 урок (Практика на функции)№12">
+      <change afterPath="$PROJECT_DIR$/test.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/тестовый скрипт.js" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2L8HxbYPiEGLOpbqCeY6y2USmgz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Костя/WebstormProjects/test-project/test.js",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="24урок(Преобразование к строке в JavaScript) 49урокCSS(Выборка по позиции и типу элементов на CSS)">
-      <created>1675168603911</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1675168603911</updated>
-    </task>
-    <task id="LOCAL-00002" summary="24урокJS 49урокCSS">
-      <created>1675169371425</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1675169371425</updated>
-    </task>
     <task active="true" id="Default" summary="Default task">
       <changelist id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="24урокJS 49урокCSS" />
       <created>1675246040318</created>
@@ -54,36 +58,480 @@
       <updated>1675246040318</updated>
       <workItem from="1675246042621" duration="3660000" />
       <workItem from="1675415627892" duration="2211000" />
-      <workItem from="1675430652143" duration="5300000" />
+      <workItem from="1675430652143" duration="7931000" />
+      <workItem from="1675443655633" duration="510000" />
+      <workItem from="1675525304061" duration="3334000" />
+      <workItem from="1675589662778" duration="1903000" />
+      <workItem from="1675609739777" duration="4499000" />
+      <workItem from="1675680056876" duration="938000" />
+      <workItem from="1675696529062" duration="2916000" />
+      <workItem from="1675764848224" duration="5579000" />
+      <workItem from="1675780271233" duration="5250000" />
+      <workItem from="1675848562367" duration="8877000" />
+      <workItem from="1675932184999" duration="5141000" />
+      <workItem from="1675956029427" duration="5518000" />
+      <workItem from="1676105155830" duration="2080000" />
+      <workItem from="1676110206586" duration="2428000" />
+      <workItem from="1676125019706" duration="5414000" />
+      <workItem from="1676203668832" duration="10431000" />
+      <workItem from="1676282031255" duration="4233000" />
+      <workItem from="1676303357441" duration="6053000" />
+      <workItem from="1676356381958" duration="11551000" />
+      <workItem from="1676453993187" duration="4502000" />
+      <workItem from="1676478258842" duration="6718000" />
+      <workItem from="1676537264446" duration="12354000" />
+      <workItem from="1676567975249" duration="2268000" />
+      <workItem from="1676710044750" duration="14487000" />
+      <workItem from="1676793873025" duration="11271000" />
+      <workItem from="1676880917915" duration="8985000" />
+      <workItem from="1676910929281" duration="3119000" />
+      <workItem from="1676975075114" duration="11030000" />
+      <workItem from="1677062317420" duration="8527000" />
+      <workItem from="1677093927663" duration="917000" />
+      <workItem from="1677148141364" duration="12605000" />
+      <workItem from="1677231154057" duration="6694000" />
+      <workItem from="1677252523561" duration="7336000" />
+      <workItem from="1677407822285" duration="4261000" />
+      <workItem from="1677428023665" duration="7844000" />
+      <workItem from="1677490244092" duration="5622000" />
+      <workItem from="1677513537163" duration="4491000" />
+      <workItem from="1677578507285" duration="9745000" />
+      <workItem from="1677754590837" duration="11686000" />
+      <workItem from="1677835297345" duration="6863000" />
+      <workItem from="1677858189879" duration="5837000" />
+      <workItem from="1677923898731" duration="6866000" />
+      <workItem from="1678011632461" duration="2870000" />
+      <workItem from="1678092471502" duration="4676000" />
+      <workItem from="1678112605823" duration="2047000" />
+      <workItem from="1678189932246" duration="3932000" />
+      <workItem from="1678211158370" duration="1937000" />
+      <workItem from="1678270830540" duration="6074000" />
+      <workItem from="1678354735308" duration="5633000" />
+      <workItem from="1678379135260" duration="4534000" />
+      <workItem from="1678529489074" duration="5285000" />
+      <workItem from="1678611591699" duration="6344000" />
+      <workItem from="1678700424656" duration="2142000" />
+      <workItem from="1678704055130" duration="24000" />
+      <workItem from="1678716100303" duration="5303000" />
+      <workItem from="1678781853800" duration="8569000" />
+      <workItem from="1678888770349" duration="4161000" />
+      <workItem from="1678962348224" duration="2426000" />
+      <workItem from="1679033697763" duration="3599000" />
+      <workItem from="1679040542897" duration="131000" />
+      <workItem from="1679047030709" duration="1455000" />
+      <workItem from="1679124803923" duration="12202000" />
+      <workItem from="1679241477461" duration="3954000" />
+      <workItem from="1679293651700" duration="3486000" />
+      <workItem from="1679466018681" duration="4531000" />
+      <workItem from="1679480591725" duration="10000" />
+      <workItem from="1679551434327" duration="3045000" />
+      <workItem from="1679558760276" duration="7000" />
+      <workItem from="1679641320498" duration="854000" />
+      <workItem from="1679642192825" duration="1490000" />
     </task>
-    <task id="LOCAL-00003" summary="31урок(инкременты и дискременты)">
-      <created>1675439825259</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+    <task id="LOCAL-00237" summary="155 урок (Поиск ошибок в коде со стандартными методами)№3">
+      <created>1678381708173</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
       <option name="project" value="LOCAL" />
-      <updated>1675439825259</updated>
+      <updated>1678381708173</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00238" summary="155 урок (Поиск ошибок в коде со стандартными методами)№4">
+      <created>1678381999703</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1678381999703</updated>
+    </task>
+    <task id="LOCAL-00239" summary="155 урок (Поиск ошибок в коде со стандартными методами)№4">
+      <created>1678382045859</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1678382045860</updated>
+    </task>
+    <task id="LOCAL-00240" summary="155 урок (Поиск ошибок в коде со стандартными методами)№5">
+      <created>1678382084581</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1678382084581</updated>
+    </task>
+    <task id="LOCAL-00241" summary="156 урок Основы работы с пользовательскими функциями)№1">
+      <created>1678383656684</created>
+      <option name="number" value="00241" />
+      <option name="presentableId" value="LOCAL-00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1678383656684</updated>
+    </task>
+    <task id="LOCAL-00242" summary="156 урок Основы работы с пользовательскими функциями)№1">
+      <created>1678383680020</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1678383680020</updated>
+    </task>
+    <task id="LOCAL-00243" summary="157 урок (Параметры функций)№1">
+      <created>1678384105670</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1678384105670</updated>
+    </task>
+    <task id="LOCAL-00244" summary="157 урок (Параметры функций)№2">
+      <created>1678384328969</created>
+      <option name="number" value="00244" />
+      <option name="presentableId" value="LOCAL-00244" />
+      <option name="project" value="LOCAL" />
+      <updated>1678384328969</updated>
+    </task>
+    <task id="LOCAL-00245" summary="158 урок (Несколько параметров функций)№1">
+      <created>1678533637503</created>
+      <option name="number" value="00245" />
+      <option name="presentableId" value="LOCAL-00245" />
+      <option name="project" value="LOCAL" />
+      <updated>1678533637503</updated>
+    </task>
+    <task id="LOCAL-00246" summary="159 урок (Параметры-переменные функций)№1">
+      <created>1678535144247</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1678535144247</updated>
+    </task>
+    <task id="LOCAL-00247" summary="160 урок (Необязательные параметры)№2">
+      <created>1678536182275</created>
+      <option name="number" value="00247" />
+      <option name="presentableId" value="LOCAL-00247" />
+      <option name="project" value="LOCAL" />
+      <updated>1678536182276</updated>
+    </task>
+    <task id="LOCAL-00248" summary="161 урок (Инструкция return)№1">
+      <created>1678548120654</created>
+      <option name="number" value="00248" />
+      <option name="presentableId" value="LOCAL-00248" />
+      <option name="project" value="LOCAL" />
+      <updated>1678548120654</updated>
+    </task>
+    <task id="LOCAL-00249" summary="161 урок (Инструкция return)№2">
+      <created>1678550551115</created>
+      <option name="number" value="00249" />
+      <option name="presentableId" value="LOCAL-00249" />
+      <option name="project" value="LOCAL" />
+      <updated>1678550551115</updated>
+    </task>
+    <task id="LOCAL-00250" summary="162 урок (Последовательный вызов функций)№1">
+      <created>1678616054545</created>
+      <option name="number" value="00250" />
+      <option name="presentableId" value="LOCAL-00250" />
+      <option name="project" value="LOCAL" />
+      <updated>1678616054545</updated>
+    </task>
+    <task id="LOCAL-00251" summary="162 урок (Последовательный вызов функций)№2">
+      <created>1678616489091</created>
+      <option name="number" value="00251" />
+      <option name="presentableId" value="LOCAL-00251" />
+      <option name="project" value="LOCAL" />
+      <updated>1678616489091</updated>
+    </task>
+    <task id="LOCAL-00252" summary="162 урок (Последовательный вызов функций)№3">
+      <created>1678616890332</created>
+      <option name="number" value="00252" />
+      <option name="presentableId" value="LOCAL-00252" />
+      <option name="project" value="LOCAL" />
+      <updated>1678616890332</updated>
+    </task>
+    <task id="LOCAL-00253" summary="164 урок (Цикл и return)№1">
+      <created>1678639069557</created>
+      <option name="number" value="00253" />
+      <option name="presentableId" value="LOCAL-00253" />
+      <option name="project" value="LOCAL" />
+      <updated>1678639069557</updated>
+    </task>
+    <task id="LOCAL-00254" summary="165 урок (Применение return в циклах)№1">
+      <created>1678788664362</created>
+      <option name="number" value="00254" />
+      <option name="presentableId" value="LOCAL-00254" />
+      <option name="project" value="LOCAL" />
+      <updated>1678788664362</updated>
+    </task>
+    <task id="LOCAL-00255" summary="166 урок (Прием работы с return)№1">
+      <created>1678793079436</created>
+      <option name="number" value="00255" />
+      <option name="presentableId" value="LOCAL-00255" />
+      <option name="project" value="LOCAL" />
+      <updated>1678793079436</updated>
+    </task>
+    <task id="LOCAL-00256" summary="167 урок (Флаги в функциях)№1">
+      <created>1678890223288</created>
+      <option name="number" value="00256" />
+      <option name="presentableId" value="LOCAL-00256" />
+      <option name="project" value="LOCAL" />
+      <updated>1678890223289</updated>
+    </task>
+    <task id="LOCAL-00257" summary="167 урок (Флаги в функциях)№2">
+      <created>1678892295696</created>
+      <option name="number" value="00257" />
+      <option name="presentableId" value="LOCAL-00257" />
+      <option name="project" value="LOCAL" />
+      <updated>1678892295696</updated>
+    </task>
+    <task id="LOCAL-00258" summary="167 урок (Флаги в функциях)№3">
+      <created>1678894712584</created>
+      <option name="number" value="00258" />
+      <option name="presentableId" value="LOCAL-00258" />
+      <option name="project" value="LOCAL" />
+      <updated>1678894712585</updated>
+    </task>
+    <task id="LOCAL-00259" summary="168 урок (Флаги в функциях)№1">
+      <created>1678962947229</created>
+      <option name="number" value="00259" />
+      <option name="presentableId" value="LOCAL-00259" />
+      <option name="project" value="LOCAL" />
+      <updated>1678962947229</updated>
+    </task>
+    <task id="LOCAL-00260" summary="168 урок (Логические операторы без if в функциях)№2">
+      <created>1678963179803</created>
+      <option name="number" value="00260" />
+      <option name="presentableId" value="LOCAL-00260" />
+      <option name="project" value="LOCAL" />
+      <updated>1678963179803</updated>
+    </task>
+    <task id="LOCAL-00261" summary="168 урок (Логические операторы без if в функциях)№3">
+      <created>1678963449358</created>
+      <option name="number" value="00261" />
+      <option name="presentableId" value="LOCAL-00261" />
+      <option name="project" value="LOCAL" />
+      <updated>1678963449358</updated>
+    </task>
+    <task id="LOCAL-00262" summary="168 урок (Логические операторы без if в функциях)№4">
+      <created>1678963577374</created>
+      <option name="number" value="00262" />
+      <option name="presentableId" value="LOCAL-00262" />
+      <option name="project" value="LOCAL" />
+      <updated>1678963577374</updated>
+    </task>
+    <task id="LOCAL-00263" summary="170 урок (Поиск ошибок в коде с функциями)№1">
+      <created>1679039444451</created>
+      <option name="number" value="00263" />
+      <option name="presentableId" value="LOCAL-00263" />
+      <option name="project" value="LOCAL" />
+      <updated>1679039444452</updated>
+    </task>
+    <task id="LOCAL-00264" summary="170 урок (Поиск ошибок в коде с функциями)№2">
+      <created>1679047319802</created>
+      <option name="number" value="00264" />
+      <option name="presentableId" value="LOCAL-00264" />
+      <option name="project" value="LOCAL" />
+      <updated>1679047319802</updated>
+    </task>
+    <task id="LOCAL-00265" summary="170 урок (Поиск ошибок в коде с функциями)№3">
+      <created>1679048385496</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1679048385496</updated>
+    </task>
+    <task id="LOCAL-00266" summary="170 урок (Поиск ошибок в коде с функциями)№4">
+      <created>1679125232502</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1679125232502</updated>
+    </task>
+    <task id="LOCAL-00267" summary="170 урок (Поиск ошибок в коде с функциями)№5">
+      <created>1679125532545</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1679125532545</updated>
+    </task>
+    <task id="LOCAL-00268" summary="170 урок (Поиск ошибок в коде с функциями)№6">
+      <created>1679125700135</created>
+      <option name="number" value="00268" />
+      <option name="presentableId" value="LOCAL-00268" />
+      <option name="project" value="LOCAL" />
+      <updated>1679125700135</updated>
+    </task>
+    <task id="LOCAL-00269" summary="170 урок (Поиск ошибок в коде с функциями)№7">
+      <created>1679126121808</created>
+      <option name="number" value="00269" />
+      <option name="presentableId" value="LOCAL-00269" />
+      <option name="project" value="LOCAL" />
+      <updated>1679126121808</updated>
+    </task>
+    <task id="LOCAL-00270" summary="170 урок (Поиск ошибок в коде с функциями)№8">
+      <created>1679126406882</created>
+      <option name="number" value="00270" />
+      <option name="presentableId" value="LOCAL-00270" />
+      <option name="project" value="LOCAL" />
+      <updated>1679126406882</updated>
+    </task>
+    <task id="LOCAL-00271" summary="170 урок (Поиск ошибок в коде с функциями)№9">
+      <created>1679127539276</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1679127539276</updated>
+    </task>
+    <task id="LOCAL-00272" summary="170 урок (Поиск ошибок в коде с функциями)№10">
+      <created>1679128813194</created>
+      <option name="number" value="00272" />
+      <option name="presentableId" value="LOCAL-00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1679128813194</updated>
+    </task>
+    <task id="LOCAL-00273" summary="171 урок (Практика на функции)№1">
+      <created>1679129727378</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1679129727378</updated>
+    </task>
+    <task id="LOCAL-00274" summary="171 урок (Практика на функции)№2">
+      <created>1679143874972</created>
+      <option name="number" value="00274" />
+      <option name="presentableId" value="LOCAL-00274" />
+      <option name="project" value="LOCAL" />
+      <updated>1679143874972</updated>
+    </task>
+    <task id="LOCAL-00275" summary="171 урок (Практика на функции)№3">
+      <created>1679144297699</created>
+      <option name="number" value="00275" />
+      <option name="presentableId" value="LOCAL-00275" />
+      <option name="project" value="LOCAL" />
+      <updated>1679144297700</updated>
+    </task>
+    <task id="LOCAL-00276" summary="171 урок (Практика на функции)№4">
+      <created>1679145061864</created>
+      <option name="number" value="00276" />
+      <option name="presentableId" value="LOCAL-00276" />
+      <option name="project" value="LOCAL" />
+      <updated>1679145061864</updated>
+    </task>
+    <task id="LOCAL-00277" summary="171 урок (Практика на функции)№4">
+      <created>1679145341739</created>
+      <option name="number" value="00277" />
+      <option name="presentableId" value="LOCAL-00277" />
+      <option name="project" value="LOCAL" />
+      <updated>1679145341739</updated>
+    </task>
+    <task id="LOCAL-00278" summary="171 урок (Практика на функции)№5">
+      <created>1679145370544</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1679145370545</updated>
+    </task>
+    <task id="LOCAL-00279" summary="171 урок (Практика на функции)№6">
+      <created>1679148445616</created>
+      <option name="number" value="00279" />
+      <option name="presentableId" value="LOCAL-00279" />
+      <option name="project" value="LOCAL" />
+      <updated>1679148445616</updated>
+    </task>
+    <task id="LOCAL-00280" summary="171 урок (Практика на функции)№7">
+      <created>1679244210728</created>
+      <option name="number" value="00280" />
+      <option name="presentableId" value="LOCAL-00280" />
+      <option name="project" value="LOCAL" />
+      <updated>1679244210728</updated>
+    </task>
+    <task id="LOCAL-00281" summary="171 урок (Практика на функции)№8">
+      <created>1679245484321</created>
+      <option name="number" value="00281" />
+      <option name="presentableId" value="LOCAL-00281" />
+      <option name="project" value="LOCAL" />
+      <updated>1679245484321</updated>
+    </task>
+    <task id="LOCAL-00282" summary="171 урок (Практика на функции)№9">
+      <created>1679295236959</created>
+      <option name="number" value="00282" />
+      <option name="presentableId" value="LOCAL-00282" />
+      <option name="project" value="LOCAL" />
+      <updated>1679295236959</updated>
+    </task>
+    <task id="LOCAL-00283" summary="171 урок (Практика на функции)№10">
+      <created>1679469211911</created>
+      <option name="number" value="00283" />
+      <option name="presentableId" value="LOCAL-00283" />
+      <option name="project" value="LOCAL" />
+      <updated>1679469211912</updated>
+    </task>
+    <task id="LOCAL-00284" summary="171 урок (Практика на функции)№11">
+      <created>1679470377490</created>
+      <option name="number" value="00284" />
+      <option name="presentableId" value="LOCAL-00284" />
+      <option name="project" value="LOCAL" />
+      <updated>1679470377490</updated>
+    </task>
+    <task id="LOCAL-00285" summary="171 урок (Практика на функции)№12">
+      <created>1679554447214</created>
+      <option name="number" value="00285" />
+      <option name="presentableId" value="LOCAL-00285" />
+      <option name="project" value="LOCAL" />
+      <updated>1679554447215</updated>
+    </task>
+    <option name="localTasksCounter" value="286" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/test.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="24урок(Преобразование к строке в JavaScript) 49урокCSS(Выборка по позиции и типу элементов на CSS)" />
-    <MESSAGE value="24урокJS 49урокCSS" />
-    <MESSAGE value="31урок(инкременты и дискременты)" />
-    <option name="LAST_COMMIT_MESSAGE" value="31урок(инкременты и дискременты)" />
+    <MESSAGE value="168 урок (Логические операторы без if в функциях)№2" />
+    <MESSAGE value="168 урок (Логические операторы без if в функциях)№3" />
+    <MESSAGE value="168 урок (Логические операторы без if в функциях)№4" />
+    <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№1" />
+    <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№2" />
+    <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№3" />
+    <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№4" />
+    <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№5" />
+    <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№6" />
+    <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№7" />
+    <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№8" />
+    <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№9" />
+    <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№10" />
+    <MESSAGE value="171 урок (Практика на функции)№1" />
+    <MESSAGE value="171 урок (Практика на функции)№2" />
+    <MESSAGE value="171 урок (Практика на функции)№3" />
+    <MESSAGE value="171 урок (Практика на функции)№4" />
+    <MESSAGE value="171 урок (Практика на функции)№5" />
+    <MESSAGE value="171 урок (Практика на функции)№6" />
+    <MESSAGE value="171 урок (Практика на функции)№7" />
+    <MESSAGE value="171 урок (Практика на функции)№8" />
+    <MESSAGE value="171 урок (Практика на функции)№9" />
+    <MESSAGE value="171 урок (Практика на функции)№10" />
+    <MESSAGE value="171 урок (Практика на функции)№11" />
+    <MESSAGE value="171 урок (Практика на функции)№12" />
+    <option name="LAST_COMMIT_MESSAGE" value="171 урок (Практика на функции)№12" />
   </component>
 </project>
