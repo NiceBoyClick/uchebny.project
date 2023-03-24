@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="создание и запуск TypeScript файла">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="171 урок (Практика на функции)№13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Костя/WebstormProjects/test-project/test.js",
+    "last_opened_file_path": "C:/Users/Костя/WebstormProjects/test-project",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
@@ -126,21 +125,8 @@
       <workItem from="1679551434327" duration="3045000" />
       <workItem from="1679558760276" duration="7000" />
       <workItem from="1679641320498" duration="854000" />
-      <workItem from="1679642192825" duration="2350000" />
-    </task>
-    <task id="LOCAL-00238" summary="155 урок (Поиск ошибок в коде со стандартными методами)№4">
-      <created>1678381999703</created>
-      <option name="number" value="00238" />
-      <option name="presentableId" value="LOCAL-00238" />
-      <option name="project" value="LOCAL" />
-      <updated>1678381999703</updated>
-    </task>
-    <task id="LOCAL-00239" summary="155 урок (Поиск ошибок в коде со стандартными методами)№4">
-      <created>1678382045859</created>
-      <option name="number" value="00239" />
-      <option name="presentableId" value="LOCAL-00239" />
-      <option name="project" value="LOCAL" />
-      <updated>1678382045860</updated>
+      <workItem from="1679642192825" duration="3162000" />
+      <workItem from="1679652358334" duration="299000" />
     </task>
     <task id="LOCAL-00240" summary="155 урок (Поиск ошибок в коде со стандартными методами)№5">
       <created>1678382084581</created>
@@ -471,7 +457,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679643820746</updated>
     </task>
-    <option name="localTasksCounter" value="287" />
+    <task id="LOCAL-00287" summary="урок 2(Типы данных в TypeScript)">
+      <created>1679647129105</created>
+      <option name="number" value="00287" />
+      <option name="presentableId" value="LOCAL-00287" />
+      <option name="project" value="LOCAL" />
+      <updated>1679647129105</updated>
+    </task>
+    <task id="LOCAL-00288" summary="171 урок (Практика на функции)№13">
+      <created>1679647352341</created>
+      <option name="number" value="00288" />
+      <option name="presentableId" value="LOCAL-00288" />
+      <option name="project" value="LOCAL" />
+      <updated>1679647352341</updated>
+    </task>
+    <option name="localTasksCounter" value="289" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,8 +506,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="168 урок (Логические операторы без if в функциях)№3" />
-    <MESSAGE value="168 урок (Логические операторы без if в функциях)№4" />
     <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№1" />
     <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№2" />
     <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№3" />
@@ -531,6 +529,8 @@
     <MESSAGE value="171 урок (Практика на функции)№11" />
     <MESSAGE value="171 урок (Практика на функции)№12" />
     <MESSAGE value="создание и запуск TypeScript файла" />
-    <option name="LAST_COMMIT_MESSAGE" value="создание и запуск TypeScript файла" />
+    <MESSAGE value="урок 2(Типы данных в TypeScript)" />
+    <MESSAGE value="171 урок (Практика на функции)№13" />
+    <option name="LAST_COMMIT_MESSAGE" value="171 урок (Практика на функции)№13" />
   </component>
 </project>
