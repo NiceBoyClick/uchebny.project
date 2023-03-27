@@ -1,3 +1,4 @@
-let year: [number, string] = [23, 'march'];
+let year: [number, number, number] = [23, 3, 27];
 console.log(year[0]);
 console.log(year[1]);
+console.log(year[2]);
