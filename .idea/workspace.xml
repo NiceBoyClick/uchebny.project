@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="7 урок (Функции в TypeScript)№2" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="7 урок (Пустой результат в TypeScript)№3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,21 +134,7 @@
       <workItem from="1679642192825" duration="3162000" />
       <workItem from="1679652358334" duration="685000" />
       <workItem from="1679745919682" duration="1821000" />
-      <workItem from="1679898580279" duration="1918000" />
-    </task>
-    <task id="LOCAL-00247" summary="160 урок (Необязательные параметры)№2">
-      <created>1678536182275</created>
-      <option name="number" value="00247" />
-      <option name="presentableId" value="LOCAL-00247" />
-      <option name="project" value="LOCAL" />
-      <updated>1678536182276</updated>
-    </task>
-    <task id="LOCAL-00248" summary="161 урок (Инструкция return)№1">
-      <created>1678548120654</created>
-      <option name="number" value="00248" />
-      <option name="presentableId" value="LOCAL-00248" />
-      <option name="project" value="LOCAL" />
-      <updated>1678548120654</updated>
+      <workItem from="1679898580279" duration="3314000" />
     </task>
     <task id="LOCAL-00249" summary="161 урок (Инструкция return)№2">
       <created>1678550551115</created>
@@ -475,7 +465,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679900397002</updated>
     </task>
-    <option name="localTasksCounter" value="296" />
+    <task id="LOCAL-00296" summary="7 урок (Функции в TypeScript)№2">
+      <created>1679900648131</created>
+      <option name="number" value="00296" />
+      <option name="presentableId" value="LOCAL-00296" />
+      <option name="project" value="LOCAL" />
+      <updated>1679900648131</updated>
+    </task>
+    <task id="LOCAL-00297" summary="7 урок (Пустой результат в TypeScript)№3">
+      <created>1679900677568</created>
+      <option name="number" value="00297" />
+      <option name="presentableId" value="LOCAL-00297" />
+      <option name="project" value="LOCAL" />
+      <updated>1679900677568</updated>
+    </task>
+    <option name="localTasksCounter" value="298" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,7 +514,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№6" />
     <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№7" />
     <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№8" />
     <MESSAGE value="170 урок (Поиск ошибок в коде с функциями)№9" />
@@ -535,6 +538,7 @@
     <MESSAGE value="171 урок (Практика на функции)№13" />
     <MESSAGE value="7 урок (Функции в TypeScript)№1" />
     <MESSAGE value="7 урок (Функции в TypeScript)№2" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 урок (Функции в TypeScript)№2" />
+    <MESSAGE value="7 урок (Пустой результат в TypeScript)№3" />
+    <option name="LAST_COMMIT_MESSAGE" value="7 урок (Пустой результат в TypeScript)№3" />
   </component>
 </project>

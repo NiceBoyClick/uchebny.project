@@ -1,3 +1,3 @@
-function func(elem: HTMLElement, text: string): void {
-  elem.textContent = text;
-}
+let year: [number, string] = [23, 'march'];
+console.log(year[0]);
+console.log(year[1]);
