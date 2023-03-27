@@ -1,4 +1,3 @@
-let year: [number, number, number] = [23, 3, 27];
-console.log(year[0]);
-console.log(year[1]);
-console.log(year[2]);
+let date: [number, number?, number?];
+date = [27, 3];
+console.log(date);

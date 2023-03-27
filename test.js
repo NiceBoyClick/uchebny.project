@@ -1,4 +1,3 @@
-var year = [23, 3, 27];
-console.log(year[0]);
-console.log(year[1]);
-console.log(year[2]);
+var date;
+date = [27, 3];
+console.log(date);
