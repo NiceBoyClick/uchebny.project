@@ -1,3 +1,9 @@
-function sum(x: number, y: number): number {
-  return x + y;
+function sum(arr: number[]) {
+  let res: number;
+
+  for (let num of arr) {
+    res += num;
+  }
+
+  return res;
 }
