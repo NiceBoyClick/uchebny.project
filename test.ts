@@ -1,3 +1,5 @@
-let date: [number, number?, number?];
-date = [27, 3];
-console.log(date);
+let time: [number, number, number] = [12, 59, 59];
+let [hour, minute, second] = time;
+console.log(hour);
+console.log(minute);
+console.log(second);
