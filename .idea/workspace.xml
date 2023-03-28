@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="9 урок (Перечисления в TypeScript)№1">
-      <change beforePath="$PROJECT_DIR$/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test.ts" afterDir="false" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="9 урок (Перечисления в TypeScript)№2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,18 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Костя/WebstormProjects/test-project&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Костя/WebstormProjects/test-project/my-app/src/App.js",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -135,14 +135,7 @@
       <workItem from="1679898580279" duration="4961000" />
       <workItem from="1679904361643" duration="8000" />
       <workItem from="1679984204028" duration="38000" />
-      <workItem from="1679984258710" duration="3264000" />
-    </task>
-    <task id="LOCAL-00258" summary="167 урок (Флаги в функциях)№3">
-      <created>1678894712584</created>
-      <option name="number" value="00258" />
-      <option name="presentableId" value="LOCAL-00258" />
-      <option name="project" value="LOCAL" />
-      <updated>1678894712585</updated>
+      <workItem from="1679984258710" duration="4260000" />
     </task>
     <task id="LOCAL-00259" summary="168 урок (Флаги в функциях)№1">
       <created>1678962947229</created>
@@ -480,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679988087102</updated>
     </task>
-    <option name="localTasksCounter" value="307" />
+    <task id="LOCAL-00307" summary="9 урок (Перечисления в TypeScript)№2">
+      <created>1679988323161</created>
+      <option name="number" value="00307" />
+      <option name="presentableId" value="LOCAL-00307" />
+      <option name="project" value="LOCAL" />
+      <updated>1679988323161</updated>
+    </task>
+    <option name="localTasksCounter" value="308" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="171 урок (Практика на функции)№6" />
     <MESSAGE value="171 урок (Практика на функции)№7" />
     <MESSAGE value="171 урок (Практика на функции)№8" />
     <MESSAGE value="171 урок (Практика на функции)№9" />
@@ -540,6 +539,7 @@
     <MESSAGE value="8 урок (Заполнение кортежа)№9" />
     <MESSAGE value="8 урок (Заполнение кортежа)№10" />
     <MESSAGE value="9 урок (Перечисления в TypeScript)№1" />
-    <option name="LAST_COMMIT_MESSAGE" value="9 урок (Перечисления в TypeScript)№1" />
+    <MESSAGE value="9 урок (Перечисления в TypeScript)№2" />
+    <option name="LAST_COMMIT_MESSAGE" value="9 урок (Перечисления в TypeScript)№2" />
   </component>
 </project>
