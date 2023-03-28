@@ -1,3 +1,11 @@
-let tpl: [number, boolean, ...string[]];
-tpl = [45, true, 'Morgana', 'Jax', 'Kindred', 'Volibear'];
-console.log(tpl);
+enum week {
+  monday,
+  Tuesday,
+  Wednesday,
+  Thursday,
+  Friday ,
+  Saturday,
+  Sunday
+}
+let day: string = week[3];
+console.log(day);
