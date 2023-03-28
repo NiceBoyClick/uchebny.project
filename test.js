@@ -1,5 +1,3 @@
-var time = [12, 59, 59];
-var hour = time[0], minute = time[1], second = time[2];
-console.log(hour);
-console.log(minute);
-console.log(second);
+var tpl;
+tpl = ['Poro', 'Kayle', 1, 2, 3, 4, 5, 6];
+console.log(tpl);
