@@ -1,11 +1,16 @@
-enum week {
-  monday,
-  Tuesday,
-  Wednesday,
-  Thursday,
-  Friday ,
-  Saturday,
-  Sunday
+enum year {
+  январь,
+  февраль,
+  март,
+  апрель,
+  май ,
+  июнь,
+  июль,
+  август,
+  сентябрь,
+  октябрь,
+  ноябрь,
+  декабрь,
 }
-let day: string = week[3];
-console.log(day);
+let month: string = year[11];
+console.log(month);
