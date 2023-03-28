@@ -1,3 +1,3 @@
-let tpl: [string, string, ...number[]];
-tpl = ['Poro', 'Kayle', 1, 2, 3, 4, 5, 6];
+let tpl: [number, boolean, ...string[]];
+tpl = [45, true, 'Morgana', 'Jax', 'Kindred', 'Volibear'];
 console.log(tpl);

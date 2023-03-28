@@ -1,3 +1,3 @@
 var tpl;
-tpl = ['Poro', 'Kayle', 1, 2, 3, 4, 5, 6];
+tpl = [45, true, 'Morgana', 'Jax', 'Kindred', 'Volibear'];
 console.log(tpl);
