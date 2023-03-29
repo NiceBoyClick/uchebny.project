@@ -3,9 +3,11 @@ import React from 'react';
 function App() {
 
   return <div>
-   <p className={'red'}>абзац</p>
-   <p className={'b'}>абзац</p>
-   <p className={'ital'}>абзац</p>
+    <ul>
+      <li>text1</li>
+      <li>text2</li>
+      <li>text3</li>
+    </ul>;
   </div>;
 }
 

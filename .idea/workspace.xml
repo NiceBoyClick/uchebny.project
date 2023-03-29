@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="3 урок (Введение в язык JSX в React)№5">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="3 урок (Введение в язык JSX в React)№6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,14 +149,7 @@
       <workItem from="1679984258710" duration="5295000" />
       <workItem from="1679995180650" duration="12000" />
       <workItem from="1680070509768" duration="360000" />
-      <workItem from="1680070886632" duration="3965000" />
-    </task>
-    <task id="LOCAL-00265" summary="170 урок (Поиск ошибок в коде с функциями)№3">
-      <created>1679048385496</created>
-      <option name="number" value="00265" />
-      <option name="presentableId" value="LOCAL-00265" />
-      <option name="project" value="LOCAL" />
-      <updated>1679048385496</updated>
+      <workItem from="1680070886632" duration="4740000" />
     </task>
     <task id="LOCAL-00266" summary="170 урок (Поиск ошибок в коде с функциями)№4">
       <created>1679125232502</created>
@@ -495,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680073964356</updated>
     </task>
-    <option name="localTasksCounter" value="314" />
+    <task id="LOCAL-00314" summary="3 урок (Введение в язык JSX в React)№6">
+      <created>1680074906827</created>
+      <option name="number" value="00314" />
+      <option name="presentableId" value="LOCAL-00314" />
+      <option name="project" value="LOCAL" />
+      <updated>1680074906827</updated>
+    </task>
+    <option name="localTasksCounter" value="315" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="создание и запуск TypeScript файла" />
     <MESSAGE value="урок 2(Типы данных в TypeScript)" />
     <MESSAGE value="4 урок (Массивы в TypeScript)№1,№2" />
     <MESSAGE value="6 урок (циклы в TypeScript)№1" />
@@ -555,6 +553,7 @@
     <MESSAGE value="3 урок (Введение в язык JSX в React)№3" />
     <MESSAGE value="3 урок (Введение в язык JSX в React)№4" />
     <MESSAGE value="3 урок (Введение в язык JSX в React)№5" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 урок (Введение в язык JSX в React)№5" />
+    <MESSAGE value="3 урок (Введение в язык JSX в React)№6" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 урок (Введение в язык JSX в React)№6" />
   </component>
 </project>
