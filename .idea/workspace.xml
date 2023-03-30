@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="5 урок (Вставка значений переменных и констант в JSX) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="5 урок (Вставка значений переменных и констант в JSX) №3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,14 +150,7 @@
       <workItem from="1679995180650" duration="12000" />
       <workItem from="1680070509768" duration="360000" />
       <workItem from="1680070886632" duration="5485000" />
-      <workItem from="1680153385974" duration="1900000" />
-    </task>
-    <task id="LOCAL-00273" summary="171 урок (Практика на функции)№1">
-      <created>1679129727378</created>
-      <option name="number" value="00273" />
-      <option name="presentableId" value="LOCAL-00273" />
-      <option name="project" value="LOCAL" />
-      <updated>1679129727378</updated>
+      <workItem from="1680153385974" duration="2608000" />
     </task>
     <task id="LOCAL-00274" summary="171 урок (Практика на функции)№2">
       <created>1679143874972</created>
@@ -494,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680155886017</updated>
     </task>
-    <option name="localTasksCounter" value="322" />
+    <task id="LOCAL-00322" summary="5 урок (Вставка значений переменных и констант в JSX) №3">
+      <created>1680156003186</created>
+      <option name="number" value="00322" />
+      <option name="presentableId" value="LOCAL-00322" />
+      <option name="project" value="LOCAL" />
+      <updated>1680156003186</updated>
+    </task>
+    <option name="localTasksCounter" value="323" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,7 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="7 урок (Функции в TypeScript)№2" />
     <MESSAGE value="7 урок (Пустой результат в TypeScript)№3" />
     <MESSAGE value="8 урок (Кортежи в TypeScript)№2" />
     <MESSAGE value="8 урок (Кортежи в TypeScript)№3" />
@@ -554,6 +554,7 @@
     <MESSAGE value="4 урок (Правила возврата функцией тегов JSX)№4" />
     <MESSAGE value="5 урок (Вставка значений переменных и констант в JSX)№1" />
     <MESSAGE value="5 урок (Вставка значений переменных и констант в JSX) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 урок (Вставка значений переменных и констант в JSX) №2" />
+    <MESSAGE value="5 урок (Вставка значений переменных и констант в JSX) №3" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 урок (Вставка значений переменных и констант в JSX) №3" />
   </component>
 </project>
