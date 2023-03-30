@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="4 урок (Правила возврата функцией тегов JSX)№4">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="5 урок (Вставка значений переменных и констант в JSX)№1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,21 +150,7 @@
       <workItem from="1679995180650" duration="12000" />
       <workItem from="1680070509768" duration="360000" />
       <workItem from="1680070886632" duration="5485000" />
-      <workItem from="1680153385974" duration="1543000" />
-    </task>
-    <task id="LOCAL-00270" summary="170 урок (Поиск ошибок в коде с функциями)№8">
-      <created>1679126406882</created>
-      <option name="number" value="00270" />
-      <option name="presentableId" value="LOCAL-00270" />
-      <option name="project" value="LOCAL" />
-      <updated>1679126406882</updated>
-    </task>
-    <task id="LOCAL-00271" summary="170 урок (Поиск ошибок в коде с функциями)№9">
-      <created>1679127539276</created>
-      <option name="number" value="00271" />
-      <option name="presentableId" value="LOCAL-00271" />
-      <option name="project" value="LOCAL" />
-      <updated>1679127539276</updated>
+      <workItem from="1680153385974" duration="1788000" />
     </task>
     <task id="LOCAL-00272" summary="170 урок (Поиск ошибок в коде с функциями)№10">
       <created>1679128813194</created>
@@ -494,7 +481,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680154937179</updated>
     </task>
-    <option name="localTasksCounter" value="319" />
+    <task id="LOCAL-00319" summary="4 урок (Правила возврата функцией тегов JSX)№4">
+      <created>1680155617377</created>
+      <option name="number" value="00319" />
+      <option name="presentableId" value="LOCAL-00319" />
+      <option name="project" value="LOCAL" />
+      <updated>1680155617377</updated>
+    </task>
+    <task id="LOCAL-00320" summary="5 урок (Вставка значений переменных и констант в JSX)№1">
+      <created>1680155644469</created>
+      <option name="number" value="00320" />
+      <option name="presentableId" value="LOCAL-00320" />
+      <option name="project" value="LOCAL" />
+      <updated>1680155644469</updated>
+    </task>
+    <option name="localTasksCounter" value="321" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,7 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="171 урок (Практика на функции)№13" />
     <MESSAGE value="7 урок (Функции в TypeScript)№1" />
     <MESSAGE value="7 урок (Функции в TypeScript)№2" />
     <MESSAGE value="7 урок (Пустой результат в TypeScript)№3" />
@@ -554,6 +554,7 @@
     <MESSAGE value="4 урок (Правила возврата функцией тегов JSX)№2" />
     <MESSAGE value="4 урок (Правила возврата функцией тегов JSX)№3" />
     <MESSAGE value="4 урок (Правила возврата функцией тегов JSX)№4" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 урок (Правила возврата функцией тегов JSX)№4" />
+    <MESSAGE value="5 урок (Вставка значений переменных и констант в JSX)№1" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 урок (Вставка значений переменных и констант в JSX)№1" />
   </component>
 </project>
