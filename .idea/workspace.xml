@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="4 урок (Правила возврата функцией тегов JSX)№3">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="4 урок (Правила возврата функцией тегов JSX)№4">
       <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,14 +149,7 @@
       <workItem from="1679995180650" duration="12000" />
       <workItem from="1680070509768" duration="360000" />
       <workItem from="1680070886632" duration="5485000" />
-      <workItem from="1680153385974" duration="808000" />
-    </task>
-    <task id="LOCAL-00269" summary="170 урок (Поиск ошибок в коде с функциями)№7">
-      <created>1679126121808</created>
-      <option name="number" value="00269" />
-      <option name="presentableId" value="LOCAL-00269" />
-      <option name="project" value="LOCAL" />
-      <updated>1679126121808</updated>
+      <workItem from="1680153385974" duration="1543000" />
     </task>
     <task id="LOCAL-00270" summary="170 урок (Поиск ошибок в коде с функциями)№8">
       <created>1679126406882</created>
@@ -494,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680154776041</updated>
     </task>
-    <option name="localTasksCounter" value="318" />
+    <task id="LOCAL-00318" summary="4 урок (Правила возврата функцией тегов JSX)№4">
+      <created>1680154937179</created>
+      <option name="number" value="00318" />
+      <option name="presentableId" value="LOCAL-00318" />
+      <option name="project" value="LOCAL" />
+      <updated>1680154937179</updated>
+    </task>
+    <option name="localTasksCounter" value="319" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="6 урок (циклы в TypeScript)№2" />
     <MESSAGE value="171 урок (Практика на функции)№13" />
     <MESSAGE value="7 урок (Функции в TypeScript)№1" />
     <MESSAGE value="7 урок (Функции в TypeScript)№2" />
@@ -554,6 +553,7 @@
     <MESSAGE value="4 урок (Правила возврата функцией тегов JSX)№1" />
     <MESSAGE value="4 урок (Правила возврата функцией тегов JSX)№2" />
     <MESSAGE value="4 урок (Правила возврата функцией тегов JSX)№3" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 урок (Правила возврата функцией тегов JSX)№3" />
+    <MESSAGE value="4 урок (Правила возврата функцией тегов JSX)№4" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 урок (Правила возврата функцией тегов JSX)№4" />
   </component>
 </project>
