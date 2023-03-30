@@ -1,13 +1,11 @@
 import React from 'react';
 
 function App() {
-  const name = 'user';
-  const age  = '30';
+  const num1 = 3;
+  const num2 = 2;
 
   return <div>
-    name: {name}
-    <br/>
-    age:  {age}
+    result: {num1 ** num2}
   </div>;
 }
 
