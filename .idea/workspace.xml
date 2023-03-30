@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="4 урок (Правила возврата функцией тегов JSX)№1">
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="4 урок (Правила возврата функцией тегов JSX)№2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Костя/WebstormProjects/test-project&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Костя/WebstormProjects/erp-front&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
@@ -148,14 +146,7 @@
       <workItem from="1679984258710" duration="5295000" />
       <workItem from="1679995180650" duration="12000" />
       <workItem from="1680070509768" duration="360000" />
-      <workItem from="1680070886632" duration="4868000" />
-    </task>
-    <task id="LOCAL-00267" summary="170 урок (Поиск ошибок в коде с функциями)№5">
-      <created>1679125532545</created>
-      <option name="number" value="00267" />
-      <option name="presentableId" value="LOCAL-00267" />
-      <option name="project" value="LOCAL" />
-      <updated>1679125532545</updated>
+      <workItem from="1680070886632" duration="5485000" />
     </task>
     <task id="LOCAL-00268" summary="170 урок (Поиск ошибок в коде с функциями)№6">
       <created>1679125700135</created>
@@ -493,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680076598436</updated>
     </task>
-    <option name="localTasksCounter" value="316" />
+    <task id="LOCAL-00316" summary="4 урок (Правила возврата функцией тегов JSX)№2">
+      <created>1680076705769</created>
+      <option name="number" value="00316" />
+      <option name="presentableId" value="LOCAL-00316" />
+      <option name="project" value="LOCAL" />
+      <updated>1680076705769</updated>
+    </task>
+    <option name="localTasksCounter" value="317" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,7 +526,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4 урок (Массивы в TypeScript)№1,№2" />
     <MESSAGE value="6 урок (циклы в TypeScript)№1" />
     <MESSAGE value="6 урок (циклы в TypeScript)№2" />
     <MESSAGE value="171 урок (Практика на функции)№13" />
@@ -553,6 +550,7 @@
     <MESSAGE value="3 урок (Введение в язык JSX в React)№5" />
     <MESSAGE value="3 урок (Введение в язык JSX в React)№6" />
     <MESSAGE value="4 урок (Правила возврата функцией тегов JSX)№1" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 урок (Правила возврата функцией тегов JSX)№1" />
+    <MESSAGE value="4 урок (Правила возврата функцией тегов JSX)№2" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 урок (Правила возврата функцией тегов JSX)№2" />
   </component>
 </project>
