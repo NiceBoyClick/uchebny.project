@@ -1,20 +1,18 @@
 import React from 'react';
 
 function App() {
-  const obj = {name: 'john', surname: 'smit'};
-  const StringName = `
-    <p>
-      name: <span>${obj.name}</span>, <br> 
-  `;
-  const StringSurname = `
-  surname: <span>${obj.surname}</span>
-</p>
-`;
+  const li1 = <li>text1</li>;
+  const li2 = <li>text2</li>;
+  const li3 = <li>text3</li>;
 
   return <div>
-    {StringName} <br/>
-    {StringSurname}
-    </div>
+    <ul>
+      {li1}
+      {li2}
+      {li3}
+    </ul>
+  </div>
 }
+
 
 export default App;

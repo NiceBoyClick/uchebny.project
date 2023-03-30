@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="5 урок (Вставка значений переменных и констант в JSX) №6">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="5 урок (Вставка значений переменных и констант в JSX) №7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
     </list>
@@ -150,14 +150,7 @@
       <workItem from="1679995180650" duration="12000" />
       <workItem from="1680070509768" duration="360000" />
       <workItem from="1680070886632" duration="5485000" />
-      <workItem from="1680153385974" duration="5123000" />
-    </task>
-    <task id="LOCAL-00275" summary="171 урок (Практика на функции)№3">
-      <created>1679144297699</created>
-      <option name="number" value="00275" />
-      <option name="presentableId" value="LOCAL-00275" />
-      <option name="project" value="LOCAL" />
-      <updated>1679144297700</updated>
+      <workItem from="1680153385974" duration="6029000" />
     </task>
     <task id="LOCAL-00276" summary="171 урок (Практика на функции)№4">
       <created>1679145061864</created>
@@ -495,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680156731491</updated>
     </task>
-    <option name="localTasksCounter" value="324" />
+    <task id="LOCAL-00324" summary="5 урок (Вставка значений переменных и констант в JSX) №7">
+      <created>1680159281562</created>
+      <option name="number" value="00324" />
+      <option name="presentableId" value="LOCAL-00324" />
+      <option name="project" value="LOCAL" />
+      <updated>1680159281562</updated>
+    </task>
+    <option name="localTasksCounter" value="325" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="8 урок (Кортежи в TypeScript)№2" />
     <MESSAGE value="8 урок (Кортежи в TypeScript)№3" />
     <MESSAGE value="8 урок (Необязательные элементы кортежей)№7" />
     <MESSAGE value="8 урок (НеДеструктуризация кортежа)№8" />
@@ -555,6 +554,7 @@
     <MESSAGE value="5 урок (Вставка значений переменных и констант в JSX) №2" />
     <MESSAGE value="5 урок (Вставка значений переменных и констант в JSX) №3" />
     <MESSAGE value="5 урок (Вставка значений переменных и констант в JSX) №6" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 урок (Вставка значений переменных и констант в JSX) №6" />
+    <MESSAGE value="5 урок (Вставка значений переменных и констант в JSX) №7" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 урок (Вставка значений переменных и констант в JSX) №7" />
   </component>
 </project>
