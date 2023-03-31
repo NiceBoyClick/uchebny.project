@@ -1,17 +1,18 @@
 import React from 'react';
 
 function App() {
-  const str1 = 'label';
-  const str2 = 'block';
-  const str3 = 'elem';
+  const isAdult = true;
+  let text;
 
-  return <>
-  <div>
-    <label id={str1} htmlFor={str2} className={str3}>text</label>
-    <br/>
-      <input id={str2}/>
+  if (isAdult) {
+    text = <p>okay</p>
+  } else {
+    text = <p>not okay</p>
+  }
+  return <div>
+    {text}
   </div>;
-  </>
+
 }
 
 export default App;
