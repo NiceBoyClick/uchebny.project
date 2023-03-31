@@ -1,14 +1,17 @@
 import React from 'react';
 
 function App() {
-  const class1 = 'block1';
-  const class2 = 'block2';
+  const str1 = 'label';
+  const str2 = 'block';
+  const str3 = 'elem';
 
-  return <div>
-    <p className={class1}>text</p>
-    <p className={class2}>text</p>
+  return <>
+  <div>
+    <label id={str1} htmlFor={str2} className={str3}>text</label>
+    <br/>
+      <input id={str2}/>
   </div>;
+  </>
 }
-
 
 export default App;
