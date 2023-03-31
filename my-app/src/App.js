@@ -1,10 +1,10 @@
 import React from 'react';
 
 function App() {
-  const age = 19;
+  const isAuth = true;
 
   return <div>
-    {age >= 18 ? "Вы совершеннолетний" : "Вам еще нет 18 лет"}
+    {isAuth && <p>вы авторизованы</p>}
   </div>;
 }
 
