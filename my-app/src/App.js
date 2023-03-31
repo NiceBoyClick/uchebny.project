@@ -1,14 +1,11 @@
 import React from 'react';
 
 function App() {
-  const isAdmin = true;
+  const age = 19;
 
-  if (isAdmin){
-    return (
-      <p>вы админ</p>
-    )
-  }
-
+  return <div>
+    {age >= 18 ? "Вы совершеннолетний" : "Вам еще нет 18 лет"}
+  </div>;
 }
 
 
