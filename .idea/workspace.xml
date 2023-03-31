@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="6 урок (Хранение тегов в переменных и константах JSX) №2">
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="7 урок (Вставка переменных и констант в атрибуты тегов в JSX) №1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Костя/WebstormProjects/test-project",
+    "last_opened_file_path": "C:/Users/Костя/WebstormProjects/erp-front",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
@@ -149,14 +147,7 @@
       <workItem from="1679995180650" duration="12000" />
       <workItem from="1680070509768" duration="360000" />
       <workItem from="1680070886632" duration="5485000" />
-      <workItem from="1680153385974" duration="6826000" />
-    </task>
-    <task id="LOCAL-00278" summary="171 урок (Практика на функции)№5">
-      <created>1679145370544</created>
-      <option name="number" value="00278" />
-      <option name="presentableId" value="LOCAL-00278" />
-      <option name="project" value="LOCAL" />
-      <updated>1679145370545</updated>
+      <workItem from="1680153385974" duration="7026000" />
     </task>
     <task id="LOCAL-00279" summary="171 урок (Практика на функции)№6">
       <created>1679148445616</created>
@@ -494,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680161899220</updated>
     </task>
-    <option name="localTasksCounter" value="327" />
+    <task id="LOCAL-00327" summary="7 урок (Вставка переменных и констант в атрибуты тегов в JSX) №1">
+      <created>1680162749391</created>
+      <option name="number" value="00327" />
+      <option name="presentableId" value="LOCAL-00327" />
+      <option name="project" value="LOCAL" />
+      <updated>1680162749392</updated>
+    </task>
+    <option name="localTasksCounter" value="328" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,7 +527,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="8 урок (НеДеструктуризация кортежа)№8" />
     <MESSAGE value="8 урок (НеДеструктуризация кортежа)№9" />
     <MESSAGE value="8 урок (Деструктуризация кортежа)№8" />
     <MESSAGE value="8 урок (Заполнение кортежа)№9" />
@@ -554,6 +551,7 @@
     <MESSAGE value="5 урок (Вставка значений переменных и констант в JSX) №7" />
     <MESSAGE value="6 урок (Хранение тегов в переменных и константах JSX) №1" />
     <MESSAGE value="6 урок (Хранение тегов в переменных и константах JSX) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value="6 урок (Хранение тегов в переменных и константах JSX) №2" />
+    <MESSAGE value="7 урок (Вставка переменных и констант в атрибуты тегов в JSX) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="7 урок (Вставка переменных и констант в атрибуты тегов в JSX) №1" />
   </component>
 </project>

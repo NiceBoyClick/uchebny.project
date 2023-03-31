@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   const attr = 'block';
 
-  return <div id={attr}>
+  return <div className={attr}>
     text
   </div>;
 }
