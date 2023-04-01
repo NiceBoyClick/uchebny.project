@@ -1,14 +1,12 @@
 import React from 'react';
 
 function App() {
-  function showNumber(num) {
-    alert(num);
+  function func(event) {
+    console.log(event); // объект с событием
   }
 
   return <div>
-    <button onClick={() => showNumber(1)}>act1</button>
-    <button onClick={() => showNumber(2)}>act2</button>
-    <button onClick={() => showNumber(3)}>act3</button>
+    <button onClick={func}>act</button>
   </div>;
 }
 
