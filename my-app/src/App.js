@@ -1,10 +1,17 @@
 import React from 'react';
 
 function App() {
-  const isAuth = false;
+  function show1() {
+    alert(1);
+  }
+
+  function show2() {
+    alert(2);
+  }
 
   return <div>
-    {!isAuth && <p>пожалуйста, авторизуйтесь</p>}
+    <button onClick={show1}>act1</button>
+    <button onClick={show2}>act2</button>
   </div>;
 }
 
