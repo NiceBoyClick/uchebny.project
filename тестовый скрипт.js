@@ -1,6 +1,6 @@
 'use Strict';
 
-function func(localNum) {
+function func(num) {
   num = 2;
 }
 
