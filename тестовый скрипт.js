@@ -4,4 +4,4 @@ function func() {
   return 'строка';
 }
 
-console.log(func());
+console.log(func);
