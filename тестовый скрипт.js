@@ -1,8 +1,7 @@
 'use Strict';
 
-function func() {
-  return 'строка';
+function func1() {
+  return 3;
 }
 
-func = 123;
-console.log(func);
+console.log(func1());
