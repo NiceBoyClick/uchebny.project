@@ -1,10 +1,7 @@
 'use Strict';
 
-let func1 = function() {
-  return 1;
-}
+console.log(func());
 
-let func2 = function() {
-  return 2;
+function func() {
+  return '1';
 }
-console.log(alert(func2() + func1()));
