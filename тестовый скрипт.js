@@ -1,7 +1,7 @@
 'use Strict';
 
 function func() {
-  return '!';
+  return 'строка';
 }
 
-console.log(func);
+console.log(func());
