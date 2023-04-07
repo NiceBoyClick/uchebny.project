@@ -1,9 +1,7 @@
 'use Strict';
 
-function func(num) {
-  num = 2;
+function func() {
+  return '!';
 }
 
-let num = 1;
-func(num);
-console.log(num);
+console.log(func);
