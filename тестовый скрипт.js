@@ -6,5 +6,7 @@ let arr = {
   func3: function() {return 3},
 };
 
-console.log(arr.func1() + arr.func2() + arr.func3());
+for (let key in arr) {
+  console.log(arr[key]());
+}
 
