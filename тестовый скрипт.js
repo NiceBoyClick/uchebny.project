@@ -1,12 +1,34 @@
 'use Strict';
 
-let arr = {
-  func1: function() {return 1},
-  func2: function() {return 2},
-  func3: function() {return 3},
+let arr = [1, 2, 3, 4, 5, 6];
+
+let obj = {
+
+  getSum: function([]) {
+    let sum = 0;
+    for (let elem of arr) {
+      sum += elem;
+    }
+    return sum;
+  },
+
+  getSqrt: function([]) {
+    let sum = 0;
+    for (let elem of arr) {
+      sum += elem * elem;
+    }
+    return sum;
+  },
+
+  getCube: function([]) {
+    let sum = 0;
+    for (let elem of arr) {
+      sum += Math.pow(elem, 3);
+    }
+    return sum;
+  },
 };
 
-for (let key in arr) {
-  console.log(arr[key]());
-}
-
+console.log(obj.getSum(arr));
+console.log(obj.getSqrt(arr));
+console.log(obj.getCube(arr));
