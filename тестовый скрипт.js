@@ -1,12 +1,12 @@
 'use Strict';
 
-function func1() {
+let func1 = function() {
   return 1;
 }
-function func2() {
+let func2 = function() {
   return -2;
 }
-function func3() {
+let func3 = function() {
   return -3;
 }
 
