@@ -1,6 +1,6 @@
 'use Strict';
 
-function func(num) {
+let func = function(num) {
   return num * num * num;
 }
 
