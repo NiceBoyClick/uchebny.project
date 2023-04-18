@@ -1,17 +1,12 @@
 'use Strict';
 
-function square(num) {
-  return num * num;
+function test(arr, func) {
+  for (let i = 0; i < arr.length; i++) {
+    arr[i] = func(arr[i]);
+  }
+  return arr;
 }
-
-function cube(num) {
-  return num * num * num;
-}
-
-function test(num, func1, func2) {
-  return func1(num) + func2(num);
-}
-
-let num = 3;
-let result = test(num, square, cube);
+let result = test(
+  [1, 2, 3], function (num) {return num * num}
+);
 console.log(result);
