@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 185 урок (Параметры передаваемых функций) №10">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 185 урок (Параметры передаваемых функций) №11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
@@ -166,14 +166,7 @@
       <workItem from="1681455517612" duration="641000" />
       <workItem from="1681472880289" duration="832000" />
       <workItem from="1681711211774" duration="1242000" />
-      <workItem from="1681798755603" duration="1597000" />
-    </task>
-    <task id="LOCAL-00312" summary="3 урок (Введение в язык JSX в React)№4">
-      <created>1680073718033</created>
-      <option name="number" value="00312" />
-      <option name="presentableId" value="LOCAL-00312" />
-      <option name="project" value="LOCAL" />
-      <updated>1680073718033</updated>
+      <workItem from="1681798755603" duration="2587000" />
     </task>
     <task id="LOCAL-00313" summary="3 урок (Введение в язык JSX в React)№5">
       <created>1680073964356</created>
@@ -511,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681800085480</updated>
     </task>
-    <option name="localTasksCounter" value="361" />
+    <task id="LOCAL-00361" summary=" 185 урок (Параметры передаваемых функций) №11">
+      <created>1681800382211</created>
+      <option name="number" value="00361" />
+      <option name="presentableId" value="LOCAL-00361" />
+      <option name="project" value="LOCAL" />
+      <updated>1681800382212</updated>
+    </task>
+    <option name="localTasksCounter" value="362" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,7 +546,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="180 урок (Функция как переменная в JavaScript) №4" />
     <MESSAGE value="180 урок (Функция как переменная в JavaScript) №5" />
     <MESSAGE value="180 урок (Функция как переменная в JavaScript) №6 - 7" />
     <MESSAGE value="180 урок (Функция как переменная в JavaScript) №8, 9, 10" />
@@ -571,6 +570,7 @@
     <MESSAGE value=" 185 урок (Параметры передаваемых функций) №8" />
     <MESSAGE value=" 185 урок (Параметры передаваемых функций) №9" />
     <MESSAGE value=" 185 урок (Параметры передаваемых функций) №10" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 185 урок (Параметры передаваемых функций) №10" />
+    <MESSAGE value=" 185 урок (Параметры передаваемых функций) №11" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 185 урок (Параметры передаваемых функций) №11" />
   </component>
 </project>

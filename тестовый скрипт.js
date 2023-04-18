@@ -1,12 +1,16 @@
 'use Strict';
 
-function test(arr, func) {
-  for (let i = 0; i < arr.length; i++) {
-    arr[i] = func(arr[i]);
+function func(num1, num2) {
+
+  function square(num) {
+    return num * num;
   }
-  return arr;
+
+  function cube(num) {
+    return num * num * num;
+  }
+
+  return square(num1) + cube(num2);
 }
-let result = test(
-  [1, 2, 3], function (num) {return num * num * num}
-);
-console.log(result);
+
+console.log(func(3, 2));
