@@ -7,6 +7,6 @@ function test(arr, func) {
   return arr;
 }
 let result = test(
-  [1, 2, 3], function (num) {return num * num}
+  [1, 2, 3], function (num) {return num * num * num}
 );
 console.log(result);

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="7 урок (Вставка переменных и констант в атрибуты тегов в JSX) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 185 урок (Параметры передаваемых функций) №10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,238 +152,21 @@
       <workItem from="1680070886632" duration="5485000" />
       <workItem from="1680153385974" duration="7026000" />
       <workItem from="1680247830680" duration="9000" />
-      <workItem from="1680504930368" duration="652000" />
-    </task>
-    <task id="LOCAL-00279" summary="171 урок (Практика на функции)№6">
-      <created>1679148445616</created>
-      <option name="number" value="00279" />
-      <option name="presentableId" value="LOCAL-00279" />
-      <option name="project" value="LOCAL" />
-      <updated>1679148445616</updated>
-    </task>
-    <task id="LOCAL-00280" summary="171 урок (Практика на функции)№7">
-      <created>1679244210728</created>
-      <option name="number" value="00280" />
-      <option name="presentableId" value="LOCAL-00280" />
-      <option name="project" value="LOCAL" />
-      <updated>1679244210728</updated>
-    </task>
-    <task id="LOCAL-00281" summary="171 урок (Практика на функции)№8">
-      <created>1679245484321</created>
-      <option name="number" value="00281" />
-      <option name="presentableId" value="LOCAL-00281" />
-      <option name="project" value="LOCAL" />
-      <updated>1679245484321</updated>
-    </task>
-    <task id="LOCAL-00282" summary="171 урок (Практика на функции)№9">
-      <created>1679295236959</created>
-      <option name="number" value="00282" />
-      <option name="presentableId" value="LOCAL-00282" />
-      <option name="project" value="LOCAL" />
-      <updated>1679295236959</updated>
-    </task>
-    <task id="LOCAL-00283" summary="171 урок (Практика на функции)№10">
-      <created>1679469211911</created>
-      <option name="number" value="00283" />
-      <option name="presentableId" value="LOCAL-00283" />
-      <option name="project" value="LOCAL" />
-      <updated>1679469211912</updated>
-    </task>
-    <task id="LOCAL-00284" summary="171 урок (Практика на функции)№11">
-      <created>1679470377490</created>
-      <option name="number" value="00284" />
-      <option name="presentableId" value="LOCAL-00284" />
-      <option name="project" value="LOCAL" />
-      <updated>1679470377490</updated>
-    </task>
-    <task id="LOCAL-00285" summary="171 урок (Практика на функции)№12">
-      <created>1679554447214</created>
-      <option name="number" value="00285" />
-      <option name="presentableId" value="LOCAL-00285" />
-      <option name="project" value="LOCAL" />
-      <updated>1679554447215</updated>
-    </task>
-    <task id="LOCAL-00286" summary="создание и запуск TypeScript файла">
-      <created>1679643820745</created>
-      <option name="number" value="00286" />
-      <option name="presentableId" value="LOCAL-00286" />
-      <option name="project" value="LOCAL" />
-      <updated>1679643820746</updated>
-    </task>
-    <task id="LOCAL-00287" summary="урок 2(Типы данных в TypeScript)">
-      <created>1679647129105</created>
-      <option name="number" value="00287" />
-      <option name="presentableId" value="LOCAL-00287" />
-      <option name="project" value="LOCAL" />
-      <updated>1679647129105</updated>
-    </task>
-    <task id="LOCAL-00288" summary="171 урок (Практика на функции)№13">
-      <created>1679647352341</created>
-      <option name="number" value="00288" />
-      <option name="presentableId" value="LOCAL-00288" />
-      <option name="project" value="LOCAL" />
-      <updated>1679647352341</updated>
-    </task>
-    <task id="LOCAL-00289" summary="4 урок (Массивы в TypeScript)№1,№2">
-      <created>1679652824819</created>
-      <option name="number" value="00289" />
-      <option name="presentableId" value="LOCAL-00289" />
-      <option name="project" value="LOCAL" />
-      <updated>1679652824819</updated>
-    </task>
-    <task id="LOCAL-00290" summary="6 урок (циклы в TypeScript)№1">
-      <created>1679746953911</created>
-      <option name="number" value="00290" />
-      <option name="presentableId" value="LOCAL-00290" />
-      <option name="project" value="LOCAL" />
-      <updated>1679746953912</updated>
-    </task>
-    <task id="LOCAL-00291" summary="6 урок (циклы в TypeScript)№2">
-      <created>1679747348451</created>
-      <option name="number" value="00291" />
-      <option name="presentableId" value="LOCAL-00291" />
-      <option name="project" value="LOCAL" />
-      <updated>1679747348451</updated>
-    </task>
-    <task id="LOCAL-00292" summary="171 урок (Практика на функции)№13">
-      <created>1679899140163</created>
-      <option name="number" value="00292" />
-      <option name="presentableId" value="LOCAL-00292" />
-      <option name="project" value="LOCAL" />
-      <updated>1679899140163</updated>
-    </task>
-    <task id="LOCAL-00293" summary="7 урок (Функции в TypeScript)№1">
-      <created>1679899182104</created>
-      <option name="number" value="00293" />
-      <option name="presentableId" value="LOCAL-00293" />
-      <option name="project" value="LOCAL" />
-      <updated>1679899182104</updated>
-    </task>
-    <task id="LOCAL-00294" summary="7 урок (Функции в TypeScript)№2">
-      <created>1679900170931</created>
-      <option name="number" value="00294" />
-      <option name="presentableId" value="LOCAL-00294" />
-      <option name="project" value="LOCAL" />
-      <updated>1679900170931</updated>
-    </task>
-    <task id="LOCAL-00295" summary="7 урок (Функции в TypeScript)№2">
-      <created>1679900397002</created>
-      <option name="number" value="00295" />
-      <option name="presentableId" value="LOCAL-00295" />
-      <option name="project" value="LOCAL" />
-      <updated>1679900397002</updated>
-    </task>
-    <task id="LOCAL-00296" summary="7 урок (Функции в TypeScript)№2">
-      <created>1679900648131</created>
-      <option name="number" value="00296" />
-      <option name="presentableId" value="LOCAL-00296" />
-      <option name="project" value="LOCAL" />
-      <updated>1679900648131</updated>
-    </task>
-    <task id="LOCAL-00297" summary="7 урок (Пустой результат в TypeScript)№3">
-      <created>1679900677568</created>
-      <option name="number" value="00297" />
-      <option name="presentableId" value="LOCAL-00297" />
-      <option name="project" value="LOCAL" />
-      <updated>1679900677568</updated>
-    </task>
-    <task id="LOCAL-00298" summary="8 урок (Кортежи в TypeScript)№2">
-      <created>1679902456186</created>
-      <option name="number" value="00298" />
-      <option name="presentableId" value="LOCAL-00298" />
-      <option name="project" value="LOCAL" />
-      <updated>1679902456186</updated>
-    </task>
-    <task id="LOCAL-00299" summary="8 урок (Кортежи в TypeScript)№3">
-      <created>1679902646056</created>
-      <option name="number" value="00299" />
-      <option name="presentableId" value="LOCAL-00299" />
-      <option name="project" value="LOCAL" />
-      <updated>1679902646056</updated>
-    </task>
-    <task id="LOCAL-00300" summary="8 урок (Необязательные элементы кортежей)№7">
-      <created>1679903429608</created>
-      <option name="number" value="00300" />
-      <option name="presentableId" value="LOCAL-00300" />
-      <option name="project" value="LOCAL" />
-      <updated>1679903429608</updated>
-    </task>
-    <task id="LOCAL-00301" summary="8 урок (НеДеструктуризация кортежа)№8">
-      <created>1679985565230</created>
-      <option name="number" value="00301" />
-      <option name="presentableId" value="LOCAL-00301" />
-      <option name="project" value="LOCAL" />
-      <updated>1679985565230</updated>
-    </task>
-    <task id="LOCAL-00302" summary="8 урок (Деструктуризация кортежа)№8">
-      <created>1679986240639</created>
-      <option name="number" value="00302" />
-      <option name="presentableId" value="LOCAL-00302" />
-      <option name="project" value="LOCAL" />
-      <updated>1679986240639</updated>
-    </task>
-    <task id="LOCAL-00303" summary="8 урок (Деструктуризация кортежа)№8">
-      <created>1679986310373</created>
-      <option name="number" value="00303" />
-      <option name="presentableId" value="LOCAL-00303" />
-      <option name="project" value="LOCAL" />
-      <updated>1679986310374</updated>
-    </task>
-    <task id="LOCAL-00304" summary="8 урок (Заполнение кортежа)№9">
-      <created>1679986357364</created>
-      <option name="number" value="00304" />
-      <option name="presentableId" value="LOCAL-00304" />
-      <option name="project" value="LOCAL" />
-      <updated>1679986357364</updated>
-    </task>
-    <task id="LOCAL-00305" summary="8 урок (Заполнение кортежа)№10">
-      <created>1679986519162</created>
-      <option name="number" value="00305" />
-      <option name="presentableId" value="LOCAL-00305" />
-      <option name="project" value="LOCAL" />
-      <updated>1679986519162</updated>
-    </task>
-    <task id="LOCAL-00306" summary="9 урок (Перечисления в TypeScript)№1">
-      <created>1679988087102</created>
-      <option name="number" value="00306" />
-      <option name="presentableId" value="LOCAL-00306" />
-      <option name="project" value="LOCAL" />
-      <updated>1679988087102</updated>
-    </task>
-    <task id="LOCAL-00307" summary="9 урок (Перечисления в TypeScript)№2">
-      <created>1679988323161</created>
-      <option name="number" value="00307" />
-      <option name="presentableId" value="LOCAL-00307" />
-      <option name="project" value="LOCAL" />
-      <updated>1679988323161</updated>
-    </task>
-    <task id="LOCAL-00308" summary="1 урок (Установка фреймворка React)№1">
-      <created>1679989669184</created>
-      <option name="number" value="00308" />
-      <option name="presentableId" value="LOCAL-00308" />
-      <option name="project" value="LOCAL" />
-      <updated>1679989669184</updated>
-    </task>
-    <task id="LOCAL-00309" summary="3 урок (Введение в язык JSX в React)№1">
-      <created>1680072912347</created>
-      <option name="number" value="00309" />
-      <option name="presentableId" value="LOCAL-00309" />
-      <option name="project" value="LOCAL" />
-      <updated>1680072912347</updated>
-    </task>
-    <task id="LOCAL-00310" summary="3 урок (Введение в язык JSX в React)№2">
-      <created>1680073030638</created>
-      <option name="number" value="00310" />
-      <option name="presentableId" value="LOCAL-00310" />
-      <option name="project" value="LOCAL" />
-      <updated>1680073030638</updated>
-    </task>
-    <task id="LOCAL-00311" summary="3 урок (Введение в язык JSX в React)№3">
-      <created>1680073608822</created>
-      <option name="number" value="00311" />
-      <option name="presentableId" value="LOCAL-00311" />
-      <option name="project" value="LOCAL" />
-      <updated>1680073608822</updated>
+      <workItem from="1680504930368" duration="2156000" />
+      <workItem from="1680590660093" duration="598000" />
+      <workItem from="1680679421135" duration="1258000" />
+      <workItem from="1680695188550" duration="691000" />
+      <workItem from="1680764664327" duration="2566000" />
+      <workItem from="1680847799085" duration="4208000" />
+      <workItem from="1680935764072" duration="2121000" />
+      <workItem from="1681106310425" duration="6570000" />
+      <workItem from="1681193731783" duration="2279000" />
+      <workItem from="1681280023340" duration="4015000" />
+      <workItem from="1681369629768" duration="2236000" />
+      <workItem from="1681455517612" duration="641000" />
+      <workItem from="1681472880289" duration="832000" />
+      <workItem from="1681711211774" duration="1242000" />
+      <workItem from="1681798755603" duration="1597000" />
     </task>
     <task id="LOCAL-00312" summary="3 урок (Введение в язык JSX в React)№4">
       <created>1680073718033</created>
@@ -496,7 +280,238 @@
       <option name="project" value="LOCAL" />
       <updated>1680162749392</updated>
     </task>
-    <option name="localTasksCounter" value="328" />
+    <task id="LOCAL-00328" summary="171 урок (Практика на функции в JavaScript) №14">
+      <created>1680505702101</created>
+      <option name="number" value="00328" />
+      <option name="presentableId" value="LOCAL-00328" />
+      <option name="project" value="LOCAL" />
+      <updated>1680505702101</updated>
+    </task>
+    <task id="LOCAL-00329" summary="176 урок (Глобальные переменные и параметры функций в JavaScript) №6">
+      <created>1680695891862</created>
+      <option name="number" value="00329" />
+      <option name="presentableId" value="LOCAL-00329" />
+      <option name="project" value="LOCAL" />
+      <updated>1680695891862</updated>
+    </task>
+    <task id="LOCAL-00330" summary="177 урок (Совпадение имен с параметрами в JavaScript) №1">
+      <created>1680764756342</created>
+      <option name="number" value="00330" />
+      <option name="presentableId" value="LOCAL-00330" />
+      <option name="project" value="LOCAL" />
+      <updated>1680764756342</updated>
+    </task>
+    <task id="LOCAL-00331" summary="179 урок (Исходный код функции и ее результат в JavaScript) №1">
+      <created>1680850637627</created>
+      <option name="number" value="00331" />
+      <option name="presentableId" value="LOCAL-00331" />
+      <option name="project" value="LOCAL" />
+      <updated>1680850637627</updated>
+    </task>
+    <task id="LOCAL-00332" summary="180 урок (Функция как переменная в JavaScript) №1">
+      <created>1680851294791</created>
+      <option name="number" value="00332" />
+      <option name="presentableId" value="LOCAL-00332" />
+      <option name="project" value="LOCAL" />
+      <updated>1680851294791</updated>
+    </task>
+    <task id="LOCAL-00333" summary="180 урок (Функция как переменная в JavaScript) №3">
+      <created>1680851347716</created>
+      <option name="number" value="00333" />
+      <option name="presentableId" value="LOCAL-00333" />
+      <option name="project" value="LOCAL" />
+      <updated>1680851347717</updated>
+    </task>
+    <task id="LOCAL-00334" summary="180 урок (Функция как переменная в JavaScript) №4">
+      <created>1680851430399</created>
+      <option name="number" value="00334" />
+      <option name="presentableId" value="LOCAL-00334" />
+      <option name="project" value="LOCAL" />
+      <updated>1680851430399</updated>
+    </task>
+    <task id="LOCAL-00335" summary="180 урок (Функция как переменная в JavaScript) №4">
+      <created>1680851740436</created>
+      <option name="number" value="00335" />
+      <option name="presentableId" value="LOCAL-00335" />
+      <option name="project" value="LOCAL" />
+      <updated>1680851740436</updated>
+    </task>
+    <task id="LOCAL-00336" summary="180 урок (Функция как переменная в JavaScript) №5">
+      <created>1680851763883</created>
+      <option name="number" value="00336" />
+      <option name="presentableId" value="LOCAL-00336" />
+      <option name="project" value="LOCAL" />
+      <updated>1680851763883</updated>
+    </task>
+    <task id="LOCAL-00337" summary="180 урок (Функция как переменная в JavaScript) №6 - 7">
+      <created>1680851981591</created>
+      <option name="number" value="00337" />
+      <option name="presentableId" value="LOCAL-00337" />
+      <option name="project" value="LOCAL" />
+      <updated>1680851981591</updated>
+    </task>
+    <task id="LOCAL-00338" summary="180 урок (Функция как переменная в JavaScript) №8, 9, 10">
+      <created>1680852281783</created>
+      <option name="number" value="00338" />
+      <option name="presentableId" value="LOCAL-00338" />
+      <option name="project" value="LOCAL" />
+      <updated>1680852281784</updated>
+    </task>
+    <task id="LOCAL-00339" summary="181 урок (Функция как переменная в JavaScript) №3">
+      <created>1680852749071</created>
+      <option name="number" value="00339" />
+      <option name="presentableId" value="LOCAL-00339" />
+      <option name="project" value="LOCAL" />
+      <updated>1680852749071</updated>
+    </task>
+    <task id="LOCAL-00340" summary="181 урок (Функция как переменная в JavaScript) №1">
+      <created>1680852769632</created>
+      <option name="number" value="00340" />
+      <option name="presentableId" value="LOCAL-00340" />
+      <option name="project" value="LOCAL" />
+      <updated>1680852769632</updated>
+    </task>
+    <task id="LOCAL-00341" summary="Revert &quot;181 урок (Функция как переменная в JavaScript) №3">
+      <created>1680852921580</created>
+      <option name="number" value="00341" />
+      <option name="presentableId" value="LOCAL-00341" />
+      <option name="project" value="LOCAL" />
+      <updated>1680852921580</updated>
+    </task>
+    <task id="LOCAL-00342" summary=" &quot;181 урок (Функция как переменная в JavaScript) №4">
+      <created>1680853059955</created>
+      <option name="number" value="00342" />
+      <option name="presentableId" value="LOCAL-00342" />
+      <option name="project" value="LOCAL" />
+      <updated>1680853059955</updated>
+    </task>
+    <task id="LOCAL-00343" summary=" &quot;181 урок (Функция как переменная в JavaScript) №5">
+      <created>1680936031547</created>
+      <option name="number" value="00343" />
+      <option name="presentableId" value="LOCAL-00343" />
+      <option name="project" value="LOCAL" />
+      <updated>1680936031548</updated>
+    </task>
+    <task id="LOCAL-00344" summary=" 183 урок (Массив с анонимными функциями в JavaScript) №1">
+      <created>1681107638220</created>
+      <option name="number" value="00344" />
+      <option name="presentableId" value="LOCAL-00344" />
+      <option name="project" value="LOCAL" />
+      <updated>1681107638221</updated>
+    </task>
+    <task id="LOCAL-00345" summary=" 183 урок (Массив с анонимными функциями в JavaScript) №3">
+      <created>1681107763271</created>
+      <option name="number" value="00345" />
+      <option name="presentableId" value="LOCAL-00345" />
+      <option name="project" value="LOCAL" />
+      <updated>1681107763271</updated>
+    </task>
+    <task id="LOCAL-00346" summary=" 183 урок (Массив с анонимными функциями в JavaScript) №4">
+      <created>1681107881731</created>
+      <option name="number" value="00346" />
+      <option name="presentableId" value="LOCAL-00346" />
+      <option name="project" value="LOCAL" />
+      <updated>1681107881731</updated>
+    </task>
+    <task id="LOCAL-00347" summary=" 184 урок (Объект с анонимными функциями в JavaScript) №1">
+      <created>1681108711913</created>
+      <option name="number" value="00347" />
+      <option name="presentableId" value="LOCAL-00347" />
+      <option name="project" value="LOCAL" />
+      <updated>1681108711913</updated>
+    </task>
+    <task id="LOCAL-00348" summary=" 184 урок (Объект с анонимными функциями в JavaScript) №2">
+      <created>1681109581423</created>
+      <option name="number" value="00348" />
+      <option name="presentableId" value="LOCAL-00348" />
+      <option name="project" value="LOCAL" />
+      <updated>1681109581423</updated>
+    </task>
+    <task id="LOCAL-00349" summary=" 184 урок (Объект с анонимными функциями в JavaScript) №3">
+      <created>1681195372329</created>
+      <option name="number" value="00349" />
+      <option name="presentableId" value="LOCAL-00349" />
+      <option name="project" value="LOCAL" />
+      <updated>1681195372329</updated>
+    </task>
+    <task id="LOCAL-00350" summary=" 185 урок (Передача функций параметрами в JavaScript) №1">
+      <created>1681282632747</created>
+      <option name="number" value="00350" />
+      <option name="presentableId" value="LOCAL-00350" />
+      <option name="project" value="LOCAL" />
+      <updated>1681282632747</updated>
+    </task>
+    <task id="LOCAL-00351" summary=" 185 урок (Именованные функции) №2">
+      <created>1681283733010</created>
+      <option name="number" value="00351" />
+      <option name="presentableId" value="LOCAL-00351" />
+      <option name="project" value="LOCAL" />
+      <updated>1681283733010</updated>
+    </task>
+    <task id="LOCAL-00352" summary=" 185 урок (Именованные функции) №3">
+      <created>1681284359196</created>
+      <option name="number" value="00352" />
+      <option name="presentableId" value="LOCAL-00352" />
+      <option name="project" value="LOCAL" />
+      <updated>1681284359196</updated>
+    </task>
+    <task id="LOCAL-00353" summary=" 185 урок (Именованные функции) №4">
+      <created>1681284819669</created>
+      <option name="number" value="00353" />
+      <option name="presentableId" value="LOCAL-00353" />
+      <option name="project" value="LOCAL" />
+      <updated>1681284819669</updated>
+    </task>
+    <task id="LOCAL-00354" summary=" 185 урок (Параметры передаваемых функций) №5">
+      <created>1681286131720</created>
+      <option name="number" value="00354" />
+      <option name="presentableId" value="LOCAL-00354" />
+      <option name="project" value="LOCAL" />
+      <updated>1681286131720</updated>
+    </task>
+    <task id="LOCAL-00355" summary=" 185 урок (Параметры передаваемых функций) №6">
+      <created>1681370546480</created>
+      <option name="number" value="00355" />
+      <option name="presentableId" value="LOCAL-00355" />
+      <option name="project" value="LOCAL" />
+      <updated>1681370546481</updated>
+    </task>
+    <task id="LOCAL-00356" summary=" 185 урок (Параметры передаваемых функций) №6">
+      <created>1681370680746</created>
+      <option name="number" value="00356" />
+      <option name="presentableId" value="LOCAL-00356" />
+      <option name="project" value="LOCAL" />
+      <updated>1681370680746</updated>
+    </task>
+    <task id="LOCAL-00357" summary=" 185 урок (Параметры передаваемых функций) №7">
+      <created>1681370970483</created>
+      <option name="number" value="00357" />
+      <option name="presentableId" value="LOCAL-00357" />
+      <option name="project" value="LOCAL" />
+      <updated>1681370970483</updated>
+    </task>
+    <task id="LOCAL-00358" summary=" 185 урок (Параметры передаваемых функций) №8">
+      <created>1681371276767</created>
+      <option name="number" value="00358" />
+      <option name="presentableId" value="LOCAL-00358" />
+      <option name="project" value="LOCAL" />
+      <updated>1681371276767</updated>
+    </task>
+    <task id="LOCAL-00359" summary=" 185 урок (Параметры передаваемых функций) №9">
+      <created>1681473113169</created>
+      <option name="number" value="00359" />
+      <option name="presentableId" value="LOCAL-00359" />
+      <option name="project" value="LOCAL" />
+      <updated>1681473113169</updated>
+    </task>
+    <task id="LOCAL-00360" summary=" 185 урок (Параметры передаваемых функций) №10">
+      <created>1681800085480</created>
+      <option name="number" value="00360" />
+      <option name="presentableId" value="LOCAL-00360" />
+      <option name="project" value="LOCAL" />
+      <updated>1681800085480</updated>
+    </task>
+    <option name="localTasksCounter" value="361" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -531,31 +546,31 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="8 урок (НеДеструктуризация кортежа)№9" />
-    <MESSAGE value="8 урок (Деструктуризация кортежа)№8" />
-    <MESSAGE value="8 урок (Заполнение кортежа)№9" />
-    <MESSAGE value="8 урок (Заполнение кортежа)№10" />
-    <MESSAGE value="9 урок (Перечисления в TypeScript)№1" />
-    <MESSAGE value="9 урок (Перечисления в TypeScript)№2" />
-    <MESSAGE value="1 урок (Установка фреймворка React)№1" />
-    <MESSAGE value="3 урок (Введение в язык JSX в React)№1" />
-    <MESSAGE value="3 урок (Введение в язык JSX в React)№2" />
-    <MESSAGE value="3 урок (Введение в язык JSX в React)№3" />
-    <MESSAGE value="3 урок (Введение в язык JSX в React)№4" />
-    <MESSAGE value="3 урок (Введение в язык JSX в React)№5" />
-    <MESSAGE value="3 урок (Введение в язык JSX в React)№6" />
-    <MESSAGE value="4 урок (Правила возврата функцией тегов JSX)№1" />
-    <MESSAGE value="4 урок (Правила возврата функцией тегов JSX)№2" />
-    <MESSAGE value="4 урок (Правила возврата функцией тегов JSX)№3" />
-    <MESSAGE value="4 урок (Правила возврата функцией тегов JSX)№4" />
-    <MESSAGE value="5 урок (Вставка значений переменных и констант в JSX)№1" />
-    <MESSAGE value="5 урок (Вставка значений переменных и констант в JSX) №2" />
-    <MESSAGE value="5 урок (Вставка значений переменных и констант в JSX) №3" />
-    <MESSAGE value="5 урок (Вставка значений переменных и констант в JSX) №6" />
-    <MESSAGE value="5 урок (Вставка значений переменных и констант в JSX) №7" />
-    <MESSAGE value="6 урок (Хранение тегов в переменных и константах JSX) №1" />
-    <MESSAGE value="6 урок (Хранение тегов в переменных и константах JSX) №2" />
-    <MESSAGE value="7 урок (Вставка переменных и констант в атрибуты тегов в JSX) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 урок (Вставка переменных и констант в атрибуты тегов в JSX) №1" />
+    <MESSAGE value="180 урок (Функция как переменная в JavaScript) №4" />
+    <MESSAGE value="180 урок (Функция как переменная в JavaScript) №5" />
+    <MESSAGE value="180 урок (Функция как переменная в JavaScript) №6 - 7" />
+    <MESSAGE value="180 урок (Функция как переменная в JavaScript) №8, 9, 10" />
+    <MESSAGE value="181 урок (Функция как переменная в JavaScript) №1" />
+    <MESSAGE value="181 урок (Функция как переменная в JavaScript) №3" />
+    <MESSAGE value="Revert &quot;181 урок (Функция как переменная в JavaScript) №3" />
+    <MESSAGE value=" &quot;181 урок (Функция как переменная в JavaScript) №4" />
+    <MESSAGE value=" &quot;181 урок (Функция как переменная в JavaScript) №5" />
+    <MESSAGE value=" 183 урок (Массив с анонимными функциями в JavaScript) №1" />
+    <MESSAGE value=" 183 урок (Массив с анонимными функциями в JavaScript) №3" />
+    <MESSAGE value=" 183 урок (Массив с анонимными функциями в JavaScript) №4" />
+    <MESSAGE value=" 184 урок (Объект с анонимными функциями в JavaScript) №1" />
+    <MESSAGE value=" 184 урок (Объект с анонимными функциями в JavaScript) №2" />
+    <MESSAGE value=" 184 урок (Объект с анонимными функциями в JavaScript) №3" />
+    <MESSAGE value=" 185 урок (Передача функций параметрами в JavaScript) №1" />
+    <MESSAGE value=" 185 урок (Именованные функции) №2" />
+    <MESSAGE value=" 185 урок (Именованные функции) №3" />
+    <MESSAGE value=" 185 урок (Именованные функции) №4" />
+    <MESSAGE value=" 185 урок (Параметры передаваемых функций) №5" />
+    <MESSAGE value=" 185 урок (Параметры передаваемых функций) №6" />
+    <MESSAGE value=" 185 урок (Параметры передаваемых функций) №7" />
+    <MESSAGE value=" 185 урок (Параметры передаваемых функций) №8" />
+    <MESSAGE value=" 185 урок (Параметры передаваемых функций) №9" />
+    <MESSAGE value=" 185 урок (Параметры передаваемых функций) №10" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 185 урок (Параметры передаваемых функций) №10" />
   </component>
 </project>
