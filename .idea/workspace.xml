@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 187 урок (Вложенные функции в JavaScript) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 189 урок (Функция, возвращающая функцию в JavaScript) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
@@ -167,14 +167,7 @@
       <workItem from="1681472880289" duration="832000" />
       <workItem from="1681711211774" duration="1242000" />
       <workItem from="1681798755603" duration="5022000" />
-      <workItem from="1681884685033" duration="1371000" />
-    </task>
-    <task id="LOCAL-00314" summary="3 урок (Введение в язык JSX в React)№6">
-      <created>1680074906827</created>
-      <option name="number" value="00314" />
-      <option name="presentableId" value="LOCAL-00314" />
-      <option name="project" value="LOCAL" />
-      <updated>1680074906827</updated>
+      <workItem from="1681884685033" duration="1793000" />
     </task>
     <task id="LOCAL-00315" summary="4 урок (Правила возврата функцией тегов JSX)№1">
       <created>1680076598436</created>
@@ -512,7 +505,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681801986926</updated>
     </task>
-    <option name="localTasksCounter" value="363" />
+    <task id="LOCAL-00363" summary=" 189 урок (Функция, возвращающая функцию в JavaScript) №1">
+      <created>1681886346158</created>
+      <option name="number" value="00363" />
+      <option name="presentableId" value="LOCAL-00363" />
+      <option name="project" value="LOCAL" />
+      <updated>1681886346158</updated>
+    </task>
+    <option name="localTasksCounter" value="364" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +547,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="180 урок (Функция как переменная в JavaScript) №6 - 7" />
     <MESSAGE value="180 урок (Функция как переменная в JavaScript) №8, 9, 10" />
     <MESSAGE value="181 урок (Функция как переменная в JavaScript) №1" />
     <MESSAGE value="181 урок (Функция как переменная в JavaScript) №3" />
@@ -572,6 +571,7 @@
     <MESSAGE value=" 185 урок (Параметры передаваемых функций) №10" />
     <MESSAGE value=" 185 урок (Параметры передаваемых функций) №11" />
     <MESSAGE value=" 187 урок (Вложенные функции в JavaScript) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 187 урок (Вложенные функции в JavaScript) №1" />
+    <MESSAGE value=" 189 урок (Функция, возвращающая функцию в JavaScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 189 урок (Функция, возвращающая функцию в JavaScript) №1" />
   </component>
 </project>

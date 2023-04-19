@@ -2,14 +2,15 @@
 
 function func1() {
   return function () {
-    return 1;
-  };
-}
+    return function () {
+      return function () {
+        return function () {
+          return '!';
+        }
+      }
+    }
+  }
+};
 
-function func2() {
-  return function () {
-    return 2;
-  };
-}
 
-console.log(func1()() + func2()());
+console.log(func1()()()()());
