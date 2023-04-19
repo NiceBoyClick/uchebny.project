@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 189 урок (Функция, возвращающая функцию в JavaScript) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 189 урок (Функция, возвращающая функцию в JavaScript) №3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,14 +167,7 @@
       <workItem from="1681472880289" duration="832000" />
       <workItem from="1681711211774" duration="1242000" />
       <workItem from="1681798755603" duration="5022000" />
-      <workItem from="1681884685033" duration="2601000" />
-    </task>
-    <task id="LOCAL-00316" summary="4 урок (Правила возврата функцией тегов JSX)№2">
-      <created>1680076705769</created>
-      <option name="number" value="00316" />
-      <option name="presentableId" value="LOCAL-00316" />
-      <option name="project" value="LOCAL" />
-      <updated>1680076705769</updated>
+      <workItem from="1681884685033" duration="3931000" />
     </task>
     <task id="LOCAL-00317" summary="4 урок (Правила возврата функцией тегов JSX)№3">
       <created>1680154776041</created>
@@ -511,7 +505,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681886684659</updated>
     </task>
-    <option name="localTasksCounter" value="365" />
+    <task id="LOCAL-00365" summary=" 189 урок (Функция, возвращающая функцию в JavaScript) №3">
+      <created>1681887898528</created>
+      <option name="number" value="00365" />
+      <option name="presentableId" value="LOCAL-00365" />
+      <option name="project" value="LOCAL" />
+      <updated>1681887898528</updated>
+    </task>
+    <option name="localTasksCounter" value="366" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,7 +547,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="181 урок (Функция как переменная в JavaScript) №1" />
     <MESSAGE value="181 урок (Функция как переменная в JavaScript) №3" />
     <MESSAGE value="Revert &quot;181 урок (Функция как переменная в JavaScript) №3" />
     <MESSAGE value=" &quot;181 урок (Функция как переменная в JavaScript) №4" />
@@ -571,6 +571,7 @@
     <MESSAGE value=" 187 урок (Вложенные функции в JavaScript) №1" />
     <MESSAGE value=" 189 урок (Функция, возвращающая функцию в JavaScript) №1" />
     <MESSAGE value=" 189 урок (Функция, возвращающая функцию в JavaScript) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 189 урок (Функция, возвращающая функцию в JavaScript) №2" />
+    <MESSAGE value=" 189 урок (Функция, возвращающая функцию в JavaScript) №3" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 189 урок (Функция, возвращающая функцию в JavaScript) №3" />
   </component>
 </project>
