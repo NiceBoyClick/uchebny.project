@@ -1,16 +1,15 @@
 'use Strict';
 
-function func(num1, num2) {
-
-  function square(num) {
-    return num * num;
-  }
-
-  function cube(num) {
-    return num * num * num;
-  }
-
-  return square(num1) + cube(num2);
+function func1() {
+  return function () {
+    return 1;
+  };
 }
 
-console.log(func(3, 2));
+function func2() {
+  return function () {
+    return 2;
+  };
+}
+
+console.log(func1()() + func2()());

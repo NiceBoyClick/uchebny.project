@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 185 урок (Параметры передаваемых функций) №11">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 187 урок (Вложенные функции в JavaScript) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
@@ -44,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Костя/WebstormProjects/test-project",
+    "last_opened_file_path": "C:/Users/Костя/WebstormProjects/test-project/тестовый.html",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
@@ -166,14 +166,8 @@
       <workItem from="1681455517612" duration="641000" />
       <workItem from="1681472880289" duration="832000" />
       <workItem from="1681711211774" duration="1242000" />
-      <workItem from="1681798755603" duration="2587000" />
-    </task>
-    <task id="LOCAL-00313" summary="3 урок (Введение в язык JSX в React)№5">
-      <created>1680073964356</created>
-      <option name="number" value="00313" />
-      <option name="presentableId" value="LOCAL-00313" />
-      <option name="project" value="LOCAL" />
-      <updated>1680073964356</updated>
+      <workItem from="1681798755603" duration="5022000" />
+      <workItem from="1681884685033" duration="1371000" />
     </task>
     <task id="LOCAL-00314" summary="3 урок (Введение в язык JSX в React)№6">
       <created>1680074906827</created>
@@ -511,7 +505,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681800382212</updated>
     </task>
-    <option name="localTasksCounter" value="362" />
+    <task id="LOCAL-00362" summary=" 187 урок (Вложенные функции в JavaScript) №1">
+      <created>1681801986926</created>
+      <option name="number" value="00362" />
+      <option name="presentableId" value="LOCAL-00362" />
+      <option name="project" value="LOCAL" />
+      <updated>1681801986926</updated>
+    </task>
+    <option name="localTasksCounter" value="363" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,7 +547,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="180 урок (Функция как переменная в JavaScript) №5" />
     <MESSAGE value="180 урок (Функция как переменная в JavaScript) №6 - 7" />
     <MESSAGE value="180 урок (Функция как переменная в JavaScript) №8, 9, 10" />
     <MESSAGE value="181 урок (Функция как переменная в JavaScript) №1" />
@@ -571,6 +571,7 @@
     <MESSAGE value=" 185 урок (Параметры передаваемых функций) №9" />
     <MESSAGE value=" 185 урок (Параметры передаваемых функций) №10" />
     <MESSAGE value=" 185 урок (Параметры передаваемых функций) №11" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 185 урок (Параметры передаваемых функций) №11" />
+    <MESSAGE value=" 187 урок (Вложенные функции в JavaScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 187 урок (Вложенные функции в JavaScript) №1" />
   </component>
 </project>
