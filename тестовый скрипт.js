@@ -1,11 +1,11 @@
 'use Strict';
 
 function test() {
-  let num = 1;
+  let num = 10;
 
   return function () {
     console.log(num);
-    num++;
+    num--;
   }
 }
 
