@@ -1,9 +1,7 @@
 'use Strict';
 
-(function() {
-  return function () {
-    return function (){
-      console.log('!')
-    }
-  }
-})()()();
+(function(num1) {
+  return function (num2) {
+      console.log(num1 + num2);
+  };
+})(1)(2);
