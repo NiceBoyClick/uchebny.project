@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 193 урок (Вызов функции на месте в JavaScript) №12">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 193 урок (Вызов функции на месте в JavaScript) №13">
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,14 +169,7 @@
       <workItem from="1681884685033" duration="5395000" />
       <workItem from="1681973134692" duration="3095000" />
       <workItem from="1681990551175" duration="1014000" />
-      <workItem from="1682057389062" duration="4898000" />
-    </task>
-    <task id="LOCAL-00322" summary="5 урок (Вставка значений переменных и констант в JSX) №3">
-      <created>1680156003186</created>
-      <option name="number" value="00322" />
-      <option name="presentableId" value="LOCAL-00322" />
-      <option name="project" value="LOCAL" />
-      <updated>1680156003186</updated>
+      <workItem from="1682057389062" duration="4975000" />
     </task>
     <task id="LOCAL-00323" summary="5 урок (Вставка значений переменных и констант в JSX) №6">
       <created>1680156731491</created>
@@ -515,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682062748688</updated>
     </task>
-    <option name="localTasksCounter" value="371" />
+    <task id="LOCAL-00371" summary=" 193 урок (Вызов функции на месте в JavaScript) №13">
+      <created>1682063446087</created>
+      <option name="number" value="00371" />
+      <option name="presentableId" value="LOCAL-00371" />
+      <option name="project" value="LOCAL" />
+      <updated>1682063446087</updated>
+    </task>
+    <option name="localTasksCounter" value="372" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,7 +549,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 183 урок (Массив с анонимными функциями в JavaScript) №3" />
     <MESSAGE value=" 183 урок (Массив с анонимными функциями в JavaScript) №4" />
     <MESSAGE value=" 184 урок (Объект с анонимными функциями в JavaScript) №1" />
     <MESSAGE value=" 184 урок (Объект с анонимными функциями в JavaScript) №2" />
@@ -575,6 +573,7 @@
     <MESSAGE value=" 191 урок (Замыкания в JavaScript) №2" />
     <MESSAGE value=" 191 урок (Замыкания в JavaScript) №3" />
     <MESSAGE value=" 193 урок (Вызов функции на месте в JavaScript) №12" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 193 урок (Вызов функции на месте в JavaScript) №12" />
+    <MESSAGE value=" 193 урок (Вызов функции на месте в JavaScript) №13" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 193 урок (Вызов функции на месте в JavaScript) №13" />
   </component>
 </project>
