@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 192 урок (Вызов функции на месте в JavaScript) №14">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 193 урок (Замыкания и вызов функции на месте) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
@@ -172,14 +172,7 @@
       <workItem from="1681990551175" duration="1014000" />
       <workItem from="1682057389062" duration="6053000" />
       <workItem from="1682068114407" duration="13000" />
-      <workItem from="1682319466492" duration="928000" />
-    </task>
-    <task id="LOCAL-00325" summary="6 урок (Хранение тегов в переменных и константах JSX) №1">
-      <created>1680161769220</created>
-      <option name="number" value="00325" />
-      <option name="presentableId" value="LOCAL-00325" />
-      <option name="project" value="LOCAL" />
-      <updated>1680161769221</updated>
+      <workItem from="1682319466492" duration="1740000" />
     </task>
     <task id="LOCAL-00326" summary="6 урок (Хранение тегов в переменных и константах JSX) №2">
       <created>1680161899220</created>
@@ -517,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682319812150</updated>
     </task>
-    <option name="localTasksCounter" value="374" />
+    <task id="LOCAL-00374" summary=" 193 урок (Замыкания и вызов функции на месте) №1">
+      <created>1682320441825</created>
+      <option name="number" value="00374" />
+      <option name="presentableId" value="LOCAL-00374" />
+      <option name="project" value="LOCAL" />
+      <updated>1682320441825</updated>
+    </task>
+    <option name="localTasksCounter" value="375" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -552,7 +552,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 184 урок (Объект с анонимными функциями в JavaScript) №2" />
     <MESSAGE value=" 184 урок (Объект с анонимными функциями в JavaScript) №3" />
     <MESSAGE value=" 185 урок (Передача функций параметрами в JavaScript) №1" />
     <MESSAGE value=" 185 урок (Именованные функции) №2" />
@@ -577,6 +576,7 @@
     <MESSAGE value=" 193 урок (Вызов функции на месте в JavaScript) №13" />
     <MESSAGE value=" 193 урок (Вызов функции на месте в JavaScript) №14" />
     <MESSAGE value=" 192 урок (Вызов функции на месте в JavaScript) №14" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 192 урок (Вызов функции на месте в JavaScript) №14" />
+    <MESSAGE value=" 193 урок (Замыкания и вызов функции на месте) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 193 урок (Замыкания и вызов функции на месте) №1" />
   </component>
 </project>
