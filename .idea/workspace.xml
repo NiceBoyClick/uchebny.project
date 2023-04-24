@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 193 урок (Вызов функции на месте в JavaScript) №13">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 192 урок (Вызов функции на месте в JavaScript) №14">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,21 +170,9 @@
       <workItem from="1681884685033" duration="5395000" />
       <workItem from="1681973134692" duration="3095000" />
       <workItem from="1681990551175" duration="1014000" />
-      <workItem from="1682057389062" duration="4975000" />
-    </task>
-    <task id="LOCAL-00323" summary="5 урок (Вставка значений переменных и констант в JSX) №6">
-      <created>1680156731491</created>
-      <option name="number" value="00323" />
-      <option name="presentableId" value="LOCAL-00323" />
-      <option name="project" value="LOCAL" />
-      <updated>1680156731491</updated>
-    </task>
-    <task id="LOCAL-00324" summary="5 урок (Вставка значений переменных и констант в JSX) №7">
-      <created>1680159281562</created>
-      <option name="number" value="00324" />
-      <option name="presentableId" value="LOCAL-00324" />
-      <option name="project" value="LOCAL" />
-      <updated>1680159281562</updated>
+      <workItem from="1682057389062" duration="6053000" />
+      <workItem from="1682068114407" duration="13000" />
+      <workItem from="1682319466492" duration="928000" />
     </task>
     <task id="LOCAL-00325" summary="6 урок (Хранение тегов в переменных и константах JSX) №1">
       <created>1680161769220</created>
@@ -514,7 +503,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682063446087</updated>
     </task>
-    <option name="localTasksCounter" value="372" />
+    <task id="LOCAL-00372" summary=" 193 урок (Вызов функции на месте в JavaScript) №14">
+      <created>1682063517798</created>
+      <option name="number" value="00372" />
+      <option name="presentableId" value="LOCAL-00372" />
+      <option name="project" value="LOCAL" />
+      <updated>1682063517798</updated>
+    </task>
+    <task id="LOCAL-00373" summary=" 192 урок (Вызов функции на месте в JavaScript) №14">
+      <created>1682319812150</created>
+      <option name="number" value="00373" />
+      <option name="presentableId" value="LOCAL-00373" />
+      <option name="project" value="LOCAL" />
+      <updated>1682319812150</updated>
+    </task>
+    <option name="localTasksCounter" value="374" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,8 +552,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 183 урок (Массив с анонимными функциями в JavaScript) №4" />
-    <MESSAGE value=" 184 урок (Объект с анонимными функциями в JavaScript) №1" />
     <MESSAGE value=" 184 урок (Объект с анонимными функциями в JavaScript) №2" />
     <MESSAGE value=" 184 урок (Объект с анонимными функциями в JavaScript) №3" />
     <MESSAGE value=" 185 урок (Передача функций параметрами в JavaScript) №1" />
@@ -574,6 +575,8 @@
     <MESSAGE value=" 191 урок (Замыкания в JavaScript) №3" />
     <MESSAGE value=" 193 урок (Вызов функции на месте в JavaScript) №12" />
     <MESSAGE value=" 193 урок (Вызов функции на месте в JavaScript) №13" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 193 урок (Вызов функции на месте в JavaScript) №13" />
+    <MESSAGE value=" 193 урок (Вызов функции на месте в JavaScript) №14" />
+    <MESSAGE value=" 192 урок (Вызов функции на месте в JavaScript) №14" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 192 урок (Вызов функции на месте в JavaScript) №14" />
   </component>
 </project>
