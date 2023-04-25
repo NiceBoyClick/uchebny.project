@@ -11,7 +11,7 @@ function each(arr, callback) {
 };
 
 let result = each(['qwe', 'rty', 'uio', 'asd', 'fgh'], function (elem) {
-  return elem.split('').reverse().join('');
+  return elem.slice(0, 1).toUpperCase() + elem.slice(1);
 });
 
 console.log(result);

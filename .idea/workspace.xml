@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 194 урок (Функции-коллбэки в JavaScript) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 194 урок (Функции-коллбэки в JavaScript) №2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
@@ -173,14 +173,7 @@
       <workItem from="1682057389062" duration="6053000" />
       <workItem from="1682068114407" duration="13000" />
       <workItem from="1682319466492" duration="3429000" />
-      <workItem from="1682405169856" duration="2161000" />
-    </task>
-    <task id="LOCAL-00328" summary="171 урок (Практика на функции в JavaScript) №14">
-      <created>1680505702101</created>
-      <option name="number" value="00328" />
-      <option name="presentableId" value="LOCAL-00328" />
-      <option name="project" value="LOCAL" />
-      <updated>1680505702101</updated>
+      <workItem from="1682405169856" duration="2844000" />
     </task>
     <task id="LOCAL-00329" summary="176 урок (Глобальные переменные и параметры функций в JavaScript) №6">
       <created>1680695891862</created>
@@ -518,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682406420161</updated>
     </task>
-    <option name="localTasksCounter" value="377" />
+    <task id="LOCAL-00377" summary=" 194 урок (Функции-коллбэки в JavaScript) №2">
+      <created>1682407510833</created>
+      <option name="number" value="00377" />
+      <option name="presentableId" value="LOCAL-00377" />
+      <option name="project" value="LOCAL" />
+      <updated>1682407510833</updated>
+    </task>
+    <option name="localTasksCounter" value="378" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 185 урок (Именованные функции) №2" />
     <MESSAGE value=" 185 урок (Именованные функции) №3" />
     <MESSAGE value=" 185 урок (Именованные функции) №4" />
     <MESSAGE value=" 185 урок (Параметры передаваемых функций) №5" />
@@ -578,6 +577,7 @@
     <MESSAGE value=" 193 урок (Замыкания и вызов функции на месте) №1" />
     <MESSAGE value=" 193 урок (Замыкания и вызов функции на месте) №2" />
     <MESSAGE value=" 194 урок (Функции-коллбэки в JavaScript) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 194 урок (Функции-коллбэки в JavaScript) №1" />
+    <MESSAGE value=" 194 урок (Функции-коллбэки в JavaScript) №2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 194 урок (Функции-коллбэки в JavaScript) №2" />
   </component>
 </project>
