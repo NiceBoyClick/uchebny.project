@@ -10,8 +10,10 @@ function each(arr, callback) {
   return result;
 };
 
-let result = each(['qwe', 'rty', 'uio', 'asd', 'fgh'], function (elem) {
-  return elem.slice(0, 1).toUpperCase() + elem.slice(1);
-});
+function cube(num) {
+  return num ** 3;
+}
+
+let result = each([2, 3, 4, 5, 6], cube);
 
 console.log(result);

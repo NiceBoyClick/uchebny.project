@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 194 урок (Функции-коллбэки в JavaScript) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 194 урок (Функции-коллбэки в JavaScript) №3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
@@ -39,18 +39,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Костя/WebstormProjects/test-project",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Костя/WebstormProjects/test-project&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/my-app/src/App.js" working-dir="$PROJECT_DIR$/my-app/src">
       <method v="2" />
@@ -173,14 +173,7 @@
       <workItem from="1682057389062" duration="6053000" />
       <workItem from="1682068114407" duration="13000" />
       <workItem from="1682319466492" duration="3429000" />
-      <workItem from="1682405169856" duration="2844000" />
-    </task>
-    <task id="LOCAL-00329" summary="176 урок (Глобальные переменные и параметры функций в JavaScript) №6">
-      <created>1680695891862</created>
-      <option name="number" value="00329" />
-      <option name="presentableId" value="LOCAL-00329" />
-      <option name="project" value="LOCAL" />
-      <updated>1680695891862</updated>
+      <workItem from="1682405169856" duration="3703000" />
     </task>
     <task id="LOCAL-00330" summary="177 урок (Совпадение имен с параметрами в JavaScript) №1">
       <created>1680764756342</created>
@@ -518,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682407510833</updated>
     </task>
-    <option name="localTasksCounter" value="378" />
+    <task id="LOCAL-00378" summary=" 194 урок (Функции-коллбэки в JavaScript) №3">
+      <created>1682408236498</created>
+      <option name="number" value="00378" />
+      <option name="presentableId" value="LOCAL-00378" />
+      <option name="project" value="LOCAL" />
+      <updated>1682408236498</updated>
+    </task>
+    <option name="localTasksCounter" value="379" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 185 урок (Именованные функции) №3" />
     <MESSAGE value=" 185 урок (Именованные функции) №4" />
     <MESSAGE value=" 185 урок (Параметры передаваемых функций) №5" />
     <MESSAGE value=" 185 урок (Параметры передаваемых функций) №6" />
@@ -578,6 +577,7 @@
     <MESSAGE value=" 193 урок (Замыкания и вызов функции на месте) №2" />
     <MESSAGE value=" 194 урок (Функции-коллбэки в JavaScript) №1" />
     <MESSAGE value=" 194 урок (Функции-коллбэки в JavaScript) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 194 урок (Функции-коллбэки в JavaScript) №2" />
+    <MESSAGE value=" 194 урок (Функции-коллбэки в JavaScript) №3" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 194 урок (Функции-коллбэки в JavaScript) №3" />
   </component>
 </project>
