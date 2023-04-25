@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 193 урок (Замыкания и вызов функции на месте) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 193 урок (Замыкания и вызов функции на месте) №2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
@@ -39,18 +39,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Костя/WebstormProjects/erp-front&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Костя/WebstormProjects/test-project",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/my-app/src/App.js" working-dir="$PROJECT_DIR$/my-app/src">
       <method v="2" />
@@ -172,14 +172,8 @@
       <workItem from="1681990551175" duration="1014000" />
       <workItem from="1682057389062" duration="6053000" />
       <workItem from="1682068114407" duration="13000" />
-      <workItem from="1682319466492" duration="1740000" />
-    </task>
-    <task id="LOCAL-00326" summary="6 урок (Хранение тегов в переменных и константах JSX) №2">
-      <created>1680161899220</created>
-      <option name="number" value="00326" />
-      <option name="presentableId" value="LOCAL-00326" />
-      <option name="project" value="LOCAL" />
-      <updated>1680161899220</updated>
+      <workItem from="1682319466492" duration="3429000" />
+      <workItem from="1682405169856" duration="1075000" />
     </task>
     <task id="LOCAL-00327" summary="7 урок (Вставка переменных и констант в атрибуты тегов в JSX) №1">
       <created>1680162749391</created>
@@ -517,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682320441825</updated>
     </task>
-    <option name="localTasksCounter" value="375" />
+    <task id="LOCAL-00375" summary=" 193 урок (Замыкания и вызов функции на месте) №2">
+      <created>1682321241049</created>
+      <option name="number" value="00375" />
+      <option name="presentableId" value="LOCAL-00375" />
+      <option name="project" value="LOCAL" />
+      <updated>1682321241049</updated>
+    </task>
+    <option name="localTasksCounter" value="376" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -552,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 184 урок (Объект с анонимными функциями в JavaScript) №3" />
     <MESSAGE value=" 185 урок (Передача функций параметрами в JavaScript) №1" />
     <MESSAGE value=" 185 урок (Именованные функции) №2" />
     <MESSAGE value=" 185 урок (Именованные функции) №3" />
@@ -577,6 +577,7 @@
     <MESSAGE value=" 193 урок (Вызов функции на месте в JavaScript) №14" />
     <MESSAGE value=" 192 урок (Вызов функции на месте в JavaScript) №14" />
     <MESSAGE value=" 193 урок (Замыкания и вызов функции на месте) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 193 урок (Замыкания и вызов функции на месте) №1" />
+    <MESSAGE value=" 193 урок (Замыкания и вызов функции на месте) №2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 193 урок (Замыкания и вызов функции на месте) №2" />
   </component>
 </project>

@@ -1,26 +1,17 @@
 'use Strict';
 
-let func = (function () {
-  let num = 1;
-  return function () {
-    if (num <= 5) {
-      console.log(num);
-      num++;
-    } else {
-      num = 1
-      console.log(num);
-      num++;
-    }
-  }
-})();
+function each(arr, callback) {
+  let result = [];
 
-func();
-func();
-func();
-func();
-func();
-func();
-func();
-func();
-func();
-func();
+  for (let elem of arr) {
+    result.push( callback(elem) ); // вызываем функцию-коллбэк
+  }
+
+  return result;
+}
+
+let result = each([1, 2, 3, 4, 5], function(num) {
+  return num * 2;
+});
+
+console.log(result);
