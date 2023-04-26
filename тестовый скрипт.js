@@ -1,6 +1,6 @@
 'use Strict';
 
-function every(arr, callback) {
+function each(arr, callback) {
   let result = [];
 
   for (let elem of arr) {
@@ -10,8 +10,10 @@ function every(arr, callback) {
   return result;
 };
 
+let arr = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
 
-let result = every([1, 2, 3, 4, 5], (elem, index) => elem * index > 10
+let result = each(arr, (elem, index) =>
+  elem * index > 10
 );
 
 console.log(result);
