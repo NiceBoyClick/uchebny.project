@@ -11,6 +11,7 @@ function every(arr, callback) {
 };
 
 
-let result = every([1, 2, -3, 4, 5],elem => elem > 0);
+let result = every([1, 2, 3, 4, 5], (elem, index) => elem * index > 10
+);
 
 console.log(result);
