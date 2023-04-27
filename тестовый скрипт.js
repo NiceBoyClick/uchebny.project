@@ -1,19 +1,11 @@
 'use Strict';
 
-function each(arr, callback) {
-  let result = [];
+function func(arr) {
+  console.log(arr.shift(), arr);
 
-  for (let elem of arr) {
-    result.push(callback(elem));
+  if (arr.length != 0) {
+    func(arr);
   }
+}
 
-  return result;
-};
-
-let arr = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
-
-let result = each(arr, (elem, index) =>
-  elem * index > 10
-);
-
-console.log(result);
+func([1, 2, 3, 4, 5]);
