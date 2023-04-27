@@ -1,11 +1,14 @@
 'use Strict';
 
-function func(arr) {
-  console.log(arr.shift(), arr);
+function getSum(arr) {
+  let sum = Math.pow(arr.shift(), 2);
 
-  if (arr.length != 0) {
-    func(arr);
+  if (arr.length !== 0) {
+    console.log(sum);
+    sum += getSum(arr);
   }
+
+  return sum;
 }
 
-func([1, 2, 3, 4, 5]);
+console.log(getSum([1, 2, 3, 4, 5]));
