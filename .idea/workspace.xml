@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 196 урок (Работа с рекурсией в JavaScript) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 196 урок (Работа с рекурсией в JavaScript) №2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
@@ -176,14 +176,7 @@
       <workItem from="1682405169856" duration="3703000" />
       <workItem from="1682413441088" duration="141000" />
       <workItem from="1682490312618" duration="3362000" />
-      <workItem from="1682575427887" duration="1992000" />
-    </task>
-    <task id="LOCAL-00335" summary="180 урок (Функция как переменная в JavaScript) №4">
-      <created>1680851740436</created>
-      <option name="number" value="00335" />
-      <option name="presentableId" value="LOCAL-00335" />
-      <option name="project" value="LOCAL" />
-      <updated>1680851740436</updated>
+      <workItem from="1682575427887" duration="3197000" />
     </task>
     <task id="LOCAL-00336" summary="180 урок (Функция как переменная в JavaScript) №5">
       <created>1680851763883</created>
@@ -521,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682575926911</updated>
     </task>
-    <option name="localTasksCounter" value="384" />
+    <task id="LOCAL-00384" summary=" 196 урок (Работа с рекурсией в JavaScript) №2">
+      <created>1682577545800</created>
+      <option name="number" value="00384" />
+      <option name="presentableId" value="LOCAL-00384" />
+      <option name="project" value="LOCAL" />
+      <updated>1682577545800</updated>
+    </task>
+    <option name="localTasksCounter" value="385" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +556,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 185 урок (Параметры передаваемых функций) №9" />
     <MESSAGE value=" 185 урок (Параметры передаваемых функций) №10" />
     <MESSAGE value=" 185 урок (Параметры передаваемых функций) №11" />
     <MESSAGE value=" 187 урок (Вложенные функции в JavaScript) №1" />
@@ -581,6 +580,7 @@
     <MESSAGE value=" 195 урок (Стрелочные функции в JavaScript) №2" />
     <MESSAGE value=" 195 урок (Стрелочные функции в JavaScript) №3" />
     <MESSAGE value=" 196 урок (Работа с рекурсией в JavaScript) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 196 урок (Работа с рекурсией в JavaScript) №1" />
+    <MESSAGE value=" 196 урок (Работа с рекурсией в JavaScript) №2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 196 урок (Работа с рекурсией в JavaScript) №2" />
   </component>
 </project>

@@ -1,14 +1,13 @@
 'use Strict';
 
-function getSum(arr) {
-  let sum = Math.pow(arr.shift(), 2);
-
-  if (arr.length !== 0) {
-    console.log(sum);
-    sum += getSum(arr);
+function func(obj) {
+  for (let key in obj) {
+    if (typeof obj[key] == 'object') {
+      func(obj[key]);
+    } else {
+      console.log(key, obj[key]);
+    }
   }
-
-  return sum;
 }
 
-console.log(getSum([1, 2, 3, 4, 5]));
+func({a: 1, b: {c: 2, d: 3, e: 4}, f: {g: 5, j: 6, k: {l: 7, m: {n: 8, o: 9}}}});
