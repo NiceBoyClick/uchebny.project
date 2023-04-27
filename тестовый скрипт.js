@@ -1,18 +1,17 @@
 'use Strict';
 
-let array = [];
+function func(obj) {
+  let sum = 0;
 
-function func(arr) {
-  for (let elem of arr) {
-    if (typeof elem == 'object') {
-      func(elem);
+  for (let key in obj) {
+    if (typeof obj[key] == 'object') {
+      sum += func(obj[key]);
     } else {
-      array.push(elem);
+      sum += obj[key];
     }
   }
-  return array;
+
+  return sum;
 }
 
-
-func([1, [2, 7, 8], [3, 4, [5, [6, 7]]]]);
-console.log(array);
+console.log(func({a: 1, b: {c: 2, d: 3, e: 4}, f: {g: 5, j: 6, k: {l: 7, m: {n: 8, o: 9}}}}));
