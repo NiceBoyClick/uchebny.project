@@ -1,17 +1,23 @@
 'use Strict';
 
-function func(obj) {
-  let sum = 0;
+let str;
+let array = [];
 
-  for (let key in obj) {
-    if (typeof obj[key] == 'object') {
-      sum += func(obj[key]);
+
+
+function func(arr) {
+
+  for (let elem of arr) {
+    if (typeof elem == 'object') {
+      func(elem);
     } else {
-      sum += obj[key];
+      array.push(elem);
+      str = array.join('');
     }
   }
-
-  return sum;
+  return str;
 }
 
-console.log(func({a: 1, b: {c: 2, d: 3, e: 4}, f: {g: 5, j: 6, k: {l: 7, m: {n: 8, o: 9}}}}));
+func(['a', ['b', 'c', 'd'], ['e', 'f', ['g', ['j', 'k']]]]);
+console.log(str);
+
