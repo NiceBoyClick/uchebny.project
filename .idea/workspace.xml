@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 197 урок (Рекурсия и многомерные структуры в JavaScript) №5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 198 урок (Метод map для перебора массива в JavaScript) №1">
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,14 +176,7 @@
       <workItem from="1682413441088" duration="141000" />
       <workItem from="1682490312618" duration="3362000" />
       <workItem from="1682575427887" duration="6363000" />
-      <workItem from="1682663301847" duration="3947000" />
-    </task>
-    <task id="LOCAL-00341" summary="Revert &quot;181 урок (Функция как переменная в JavaScript) №3">
-      <created>1680852921580</created>
-      <option name="number" value="00341" />
-      <option name="presentableId" value="LOCAL-00341" />
-      <option name="project" value="LOCAL" />
-      <updated>1680852921580</updated>
+      <workItem from="1682663301847" duration="4193000" />
     </task>
     <task id="LOCAL-00342" summary=" &quot;181 урок (Функция как переменная в JavaScript) №4">
       <created>1680853059955</created>
@@ -522,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682665822752</updated>
     </task>
-    <option name="localTasksCounter" value="390" />
+    <task id="LOCAL-00390" summary=" 198 урок (Метод map для перебора массива в JavaScript) №1">
+      <created>1682668173087</created>
+      <option name="number" value="00390" />
+      <option name="presentableId" value="LOCAL-00390" />
+      <option name="project" value="LOCAL" />
+      <updated>1682668173087</updated>
+    </task>
+    <option name="localTasksCounter" value="391" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,7 +556,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 189 урок (Функция, возвращающая функцию в JavaScript) №3" />
     <MESSAGE value=" 189 урок (Функция, возвращающая функцию в JavaScript) №4" />
     <MESSAGE value=" 191 урок (Замыкания в JavaScript) №1" />
     <MESSAGE value=" 191 урок (Замыкания в JavaScript) №2" />
@@ -582,6 +580,7 @@
     <MESSAGE value=" 197 урок (Рекурсия и многомерные структуры в JavaScript) №3" />
     <MESSAGE value=" 197 урок (Рекурсия и многомерные структуры в JavaScript) №4" />
     <MESSAGE value=" 197 урок (Рекурсия и многомерные структуры в JavaScript) №5" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 197 урок (Рекурсия и многомерные структуры в JavaScript) №5" />
+    <MESSAGE value=" 198 урок (Метод map для перебора массива в JavaScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 198 урок (Метод map для перебора массива в JavaScript) №1" />
   </component>
 </project>
