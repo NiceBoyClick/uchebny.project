@@ -1,16 +1,12 @@
 'use Strict';
 
-function func(arr) {
-  for (let i = 0; i < arr.length; i++) {
-    if (typeof arr[i] == 'object') {
-      arr[i] = func(arr[i]);
-    } else {
-      arr[i] = arr[i] * arr[i];
-    }
-  }
+let arr = [14, 23, 36, 41, 59];
+let arrSqrt = [];
 
-  return arr;
-}
+let result = arr.map(function(elem) {
+  let sqr = Math.sqrt(elem).toFixed(1);
+  return arrSqrt.push(sqr);
+});
 
-console.log(func([1, [2, 7, 8], [3, 4], [5, [6, 7]]]));
+console.log(arrSqrt);
 
