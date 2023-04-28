@@ -1,23 +1,16 @@
 'use Strict';
 
-let str;
-let array = [];
-
-
-
 function func(arr) {
-
-  for (let elem of arr) {
-    if (typeof elem == 'object') {
-      func(elem);
+  for (let i = 0; i < arr.length; i++) {
+    if (typeof arr[i] == 'object') {
+      arr[i] = func(arr[i]);
     } else {
-      array.push(elem);
-      str = array.join('');
+      arr[i] = arr[i] * arr[i];
     }
   }
-  return str;
+
+  return arr;
 }
 
-func(['a', ['b', 'c', 'd'], ['e', 'f', ['g', ['j', 'k']]]]);
-console.log(str);
+console.log(func([1, [2, 7, 8], [3, 4], [5, [6, 7]]]));
 
