@@ -1,9 +1,9 @@
 'use Strict';
 
-let arr = ['14', '23', '36', '41', '59'];
+let arr = ['123', '456', '789'];
 
 let result = arr.map(function(elem) {
-  return elem.split('').reverse().join('') ;
+  return elem.split('');
 });
 
 console.log(result);
