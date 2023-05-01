@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 198 урок (Метод map для перебора массива в JavaScript) №5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 199 урок (Метод forEach для перебора массива в JavaScript) №1">
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,14 +177,7 @@
       <workItem from="1682490312618" duration="3362000" />
       <workItem from="1682575427887" duration="6363000" />
       <workItem from="1682663301847" duration="5355000" />
-      <workItem from="1682922824906" duration="787000" />
-    </task>
-    <task id="LOCAL-00346" summary=" 183 урок (Массив с анонимными функциями в JavaScript) №4">
-      <created>1681107881731</created>
-      <option name="number" value="00346" />
-      <option name="presentableId" value="LOCAL-00346" />
-      <option name="project" value="LOCAL" />
-      <updated>1681107881731</updated>
+      <workItem from="1682922824906" duration="1689000" />
     </task>
     <task id="LOCAL-00347" summary=" 184 урок (Объект с анонимными функциями в JavaScript) №1">
       <created>1681108711913</created>
@@ -523,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682669270146</updated>
     </task>
-    <option name="localTasksCounter" value="395" />
+    <task id="LOCAL-00395" summary=" 199 урок (Метод forEach для перебора массива в JavaScript) №1">
+      <created>1682923828259</created>
+      <option name="number" value="00395" />
+      <option name="presentableId" value="LOCAL-00395" />
+      <option name="project" value="LOCAL" />
+      <updated>1682923828259</updated>
+    </task>
+    <option name="localTasksCounter" value="396" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,7 +557,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 193 урок (Вызов функции на месте в JavaScript) №12" />
     <MESSAGE value=" 193 урок (Вызов функции на месте в JavaScript) №13" />
     <MESSAGE value=" 193 урок (Вызов функции на месте в JavaScript) №14" />
     <MESSAGE value=" 192 урок (Вызов функции на месте в JavaScript) №14" />
@@ -583,6 +581,7 @@
     <MESSAGE value=" 198 урок (Метод map для перебора массива в JavaScript) №3" />
     <MESSAGE value=" 198 урок (Метод map для перебора массива в JavaScript) №4" />
     <MESSAGE value=" 198 урок (Метод map для перебора массива в JavaScript) №5" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 198 урок (Метод map для перебора массива в JavaScript) №5" />
+    <MESSAGE value=" 199 урок (Метод forEach для перебора массива в JavaScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 199 урок (Метод forEach для перебора массива в JavaScript) №1" />
   </component>
 </project>
