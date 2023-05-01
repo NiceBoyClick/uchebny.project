@@ -1,10 +1,11 @@
 'use Strict';
 
-let arr = [3, 5, 9, 2, 18];
+let arr = [1, 2, 3, 4, 5];
+let sum = 0;
 
-let result = arr.map(function(elem, index) {
-  return elem * index;
+arr.forEach(function(elem) {
+  sum += elem * elem;
 });
 
-console.log(result);
+console.log(sum);
 
