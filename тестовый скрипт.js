@@ -1,5 +1,5 @@
 'use Strict';
 
-let arr = ['adjkfhbgjk', 'ac', 'fvg', 'rthl', 'rifgj', 'eeeeee', 'ufjtovo'];
-console.log(arr.filter(elem => elem.length > 5));
+let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+console.log(arr.filter((elem, index) => elem * index < 30));
 
