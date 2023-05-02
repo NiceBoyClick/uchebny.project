@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 200 урок (Метод filter для фильтрации массива в JavaScript) №7">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 201 урок (Метод every для проверки массива в JavaScript) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
@@ -179,14 +179,7 @@
       <workItem from="1682575427887" duration="6363000" />
       <workItem from="1682663301847" duration="5355000" />
       <workItem from="1682922824906" duration="3998000" />
-      <workItem from="1683009933230" duration="299000" />
-    </task>
-    <task id="LOCAL-00354" summary=" 185 урок (Параметры передаваемых функций) №5">
-      <created>1681286131720</created>
-      <option name="number" value="00354" />
-      <option name="presentableId" value="LOCAL-00354" />
-      <option name="project" value="LOCAL" />
-      <updated>1681286131720</updated>
+      <workItem from="1683009933230" duration="640000" />
     </task>
     <task id="LOCAL-00355" summary=" 185 урок (Параметры передаваемых функций) №6">
       <created>1681370546480</created>
@@ -524,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682927758123</updated>
     </task>
-    <option name="localTasksCounter" value="403" />
+    <task id="LOCAL-00403" summary=" 201 урок (Метод every для проверки массива в JavaScript) №1">
+      <created>1683010261530</created>
+      <option name="number" value="00403" />
+      <option name="presentableId" value="LOCAL-00403" />
+      <option name="project" value="LOCAL" />
+      <updated>1683010261531</updated>
+    </task>
+    <option name="localTasksCounter" value="404" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +559,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 194 урок (Функции-коллбэки в JavaScript) №3" />
     <MESSAGE value=" 194 урок (Функции-коллбэки в JavaScript) №4" />
     <MESSAGE value=" 195 урок (Стрелочные функции в JavaScript) №1" />
     <MESSAGE value=" 195 урок (Стрелочные функции в JavaScript) №2" />
@@ -584,6 +583,7 @@
     <MESSAGE value=" 200 урок (Метод filter для фильтрации массива в JavaScript) №5" />
     <MESSAGE value=" 200 урок (Метод filter для фильтрации массива в JavaScript) №6" />
     <MESSAGE value=" 200 урок (Метод filter для фильтрации массива в JavaScript) №7" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 200 урок (Метод filter для фильтрации массива в JavaScript) №7" />
+    <MESSAGE value=" 201 урок (Метод every для проверки массива в JavaScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 201 урок (Метод every для проверки массива в JavaScript) №1" />
   </component>
 </project>
