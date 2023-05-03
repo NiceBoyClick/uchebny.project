@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 203 урок (Оператор spread в JavaScript) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 203 урок (Оператор spread в JavaScript) №3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
@@ -39,18 +39,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Костя/WebstormProjects/test-project",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Костя/WebstormProjects/erp-front&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/my-app/src/App.js" working-dir="$PROJECT_DIR$/my-app/src">
       <method v="2" />
@@ -179,21 +179,8 @@
       <workItem from="1682575427887" duration="6363000" />
       <workItem from="1682663301847" duration="5355000" />
       <workItem from="1682922824906" duration="3998000" />
-      <workItem from="1683009933230" duration="2251000" />
-    </task>
-    <task id="LOCAL-00359" summary=" 185 урок (Параметры передаваемых функций) №9">
-      <created>1681473113169</created>
-      <option name="number" value="00359" />
-      <option name="presentableId" value="LOCAL-00359" />
-      <option name="project" value="LOCAL" />
-      <updated>1681473113169</updated>
-    </task>
-    <task id="LOCAL-00360" summary=" 185 урок (Параметры передаваемых функций) №10">
-      <created>1681800085480</created>
-      <option name="number" value="00360" />
-      <option name="presentableId" value="LOCAL-00360" />
-      <option name="project" value="LOCAL" />
-      <updated>1681800085480</updated>
+      <workItem from="1683009933230" duration="3963000" />
+      <workItem from="1683094638323" duration="1089000" />
     </task>
     <task id="LOCAL-00361" summary=" 185 урок (Параметры передаваемых функций) №11">
       <created>1681800382211</created>
@@ -524,7 +511,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683012125570</updated>
     </task>
-    <option name="localTasksCounter" value="408" />
+    <task id="LOCAL-00408" summary=" 203 урок (Оператор spread в JavaScript) №2">
+      <created>1683012573711</created>
+      <option name="number" value="00408" />
+      <option name="presentableId" value="LOCAL-00408" />
+      <option name="project" value="LOCAL" />
+      <updated>1683012573711</updated>
+    </task>
+    <task id="LOCAL-00409" summary=" 203 урок (Оператор spread в JavaScript) №3">
+      <created>1683012611858</created>
+      <option name="number" value="00409" />
+      <option name="presentableId" value="LOCAL-00409" />
+      <option name="project" value="LOCAL" />
+      <updated>1683012611858</updated>
+    </task>
+    <option name="localTasksCounter" value="410" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,8 +560,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 196 урок (Работа с рекурсией в JavaScript) №1" />
-    <MESSAGE value=" 196 урок (Работа с рекурсией в JavaScript) №2" />
     <MESSAGE value=" 197 урок (Рекурсия и многомерные структуры в JavaScript) №1" />
     <MESSAGE value=" 197 урок (Рекурсия и многомерные структуры в JavaScript) №2" />
     <MESSAGE value=" 197 урок (Рекурсия и многомерные структуры в JavaScript) №3" />
@@ -584,6 +583,8 @@
     <MESSAGE value=" 202 урок (Метод some для проверки массива в JavaScript) №1" />
     <MESSAGE value=" 202 урок (Метод some для проверки массива в JavaScript) №2" />
     <MESSAGE value=" 203 урок (Оператор spread в JavaScript) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 203 урок (Оператор spread в JavaScript) №1" />
+    <MESSAGE value=" 203 урок (Оператор spread в JavaScript) №2" />
+    <MESSAGE value=" 203 урок (Оператор spread в JavaScript) №3" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 203 урок (Оператор spread в JavaScript) №3" />
   </component>
 </project>
