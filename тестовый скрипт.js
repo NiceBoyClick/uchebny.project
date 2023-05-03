@@ -1,14 +1,11 @@
 'use Strict';
-function func(...nums) {
-  let sum = 0;
-  let mid = 0;
-  for (let elem of nums) {
-    sum += elem;
-    console.log(sum)
-  }
-  mid = sum / 3;
-  return mid.toFixed(1);
-}
-let result = func(1, 2, 3, 4, 5, 6, 7);
-console.log(result);
+
+let arr = ['John', 'Smit', 'development', 'programmer', 2000];
+
+let [name, surname, department, position, salary] = arr;
+console.log(name);
+console.log(surname);
+console.log(department);
+console.log(position);
+console.log(salary);
 
