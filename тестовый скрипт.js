@@ -1,19 +1,13 @@
 'use Strict';
 
-function newDay() {
-  return (new Date).getDate();
-}
-function newMonth() {
-  return (new Date).getMonth() + 1;
-}
+let options = {
+  color: 'red',
+  width:  400,
+  height: 500,
+};
 
-function newYear() {
-  return (new Date).getFullYear();
-}
+let {color, width, height} = options;
 
-let arr = [];
-let [year = newYear(), month = newMonth(), day = newDay()] = arr;
-
-console.log(day + '.' + month + '.' + year);
+console.log(color, width, height);
 
 
