@@ -1,13 +1,19 @@
 'use Strict';
 
-let arr = ['John', 'Smit', 'development', 'programmer'];
-
-let [name, surname, department, position] = arr;
-
-if (arr[3] !== undefined) {
-  position = arr[3];
-} else {
-  position = 'trainee';
+function newDay() {
+  return (new Date).getDate();
 }
-console.log(position);
+function newMonth() {
+  return (new Date).getMonth() + 1;
+}
+
+function newYear() {
+  return (new Date).getFullYear();
+}
+
+let arr = [];
+let [year = newYear(), month = newMonth(), day = newDay()] = arr;
+
+console.log(day + '.' + month + '.' + year);
+
 
