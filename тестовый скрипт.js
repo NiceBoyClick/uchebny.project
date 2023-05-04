@@ -1,12 +1,13 @@
 'use Strict';
 
-let arr = ['John', 'Smit', 'development', 'programmer',
-  2000];
+let arr = ['John', 'Smit', 'development', 'programmer'];
 
-let [name, surname, ...info] = arr;
-console.log(name);
-console.log(surname);
-console.log(info);
+let [name, surname, department, position] = arr;
 
-
+if (arr[3] !== undefined) {
+  position = arr[3];
+} else {
+  position = 'trainee';
+}
+console.log(position);
 
