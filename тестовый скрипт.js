@@ -5,14 +5,14 @@ let options = {
   height: 500,
 };
 
-let {color, width, height} = options;
+let {color: c, width: w, height: h} = options;
 
-if (options.color !== undefined) {
-  color = options.color;
+if (options.c !== undefined) {
+  c = options.color;
 } else {
-  color = 'black';
+  c = 'black';
 }
 
-console.log(color, width, height);
+console.log(c, w, h);
 
 
