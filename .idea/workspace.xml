@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 221 урок (Деструктуризация параметров функций в JavaScript) №3">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 221 урок (Деструктуризация параметров функций в JavaScript) №4">
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,14 +181,7 @@
       <workItem from="1683009933230" duration="3963000" />
       <workItem from="1683094638323" duration="3679000" />
       <workItem from="1683180262486" duration="6374000" />
-      <workItem from="1683266634067" duration="4063000" />
-    </task>
-    <task id="LOCAL-00375" summary=" 193 урок (Замыкания и вызов функции на месте) №2">
-      <created>1682321241049</created>
-      <option name="number" value="00375" />
-      <option name="presentableId" value="LOCAL-00375" />
-      <option name="project" value="LOCAL" />
-      <updated>1682321241049</updated>
+      <workItem from="1683266634067" duration="4371000" />
     </task>
     <task id="LOCAL-00376" summary=" 194 урок (Функции-коллбэки в JavaScript) №1">
       <created>1682406420161</created>
@@ -526,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683270555270</updated>
     </task>
-    <option name="localTasksCounter" value="424" />
+    <task id="LOCAL-00424" summary=" 221 урок (Деструктуризация параметров функций в JavaScript) №4">
+      <created>1683270999113</created>
+      <option name="number" value="00424" />
+      <option name="presentableId" value="LOCAL-00424" />
+      <option name="project" value="LOCAL" />
+      <updated>1683270999113</updated>
+    </task>
+    <option name="localTasksCounter" value="425" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 200 урок (Метод filter для фильтрации массива в JavaScript) №4" />
     <MESSAGE value=" 200 урок (Метод filter для фильтрации массива в JavaScript) №5" />
     <MESSAGE value=" 200 урок (Метод filter для фильтрации массива в JavaScript) №6" />
     <MESSAGE value=" 200 урок (Метод filter для фильтрации массива в JavaScript) №7" />
@@ -586,6 +585,7 @@
     <MESSAGE value=" 221 урок (Деструктуризация параметров функций в JavaScript) №1" />
     <MESSAGE value=" 221 урок (Деструктуризация параметров функций в JavaScript) №2" />
     <MESSAGE value=" 221 урок (Деструктуризация параметров функций в JavaScript) №3" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 221 урок (Деструктуризация параметров функций в JavaScript) №3" />
+    <MESSAGE value=" 221 урок (Деструктуризация параметров функций в JavaScript) №4" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 221 урок (Деструктуризация параметров функций в JavaScript) №4" />
   </component>
 </project>

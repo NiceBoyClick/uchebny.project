@@ -1,15 +1,12 @@
 'use Strict';
 
-function func(department, [name, surname], [year, month, day]) {
-  console.log(department);
-  console.log(name, surname);
-  console.log(year);
-  console.log(month);
-  console.log(day);
+function func({color, width, height}) {
+  console.log(color);
+  console.log(width);
+  console.log(height);
 }
 
-func( 'development', ['John', 'Smit'], [2018, 12,
-  31] );
+func( {color: 'red', width: 400, height: 500} );
 
 
 
