@@ -1,12 +1,13 @@
 'use Strict';
 
-function func([name, surname, ...info]) {
+function func([name, surname, department, position= 'джуниор']) {
   console.log(name);
   console.log(surname);
-  console.log(info);
+  console.log(department);
+  console.log(position);
 }
 
-func( ['John', 'Smit', 'development', 'programmer', 2000] );
+func(['John', 'Smit', 'development', 'senior']);
 
 
 
