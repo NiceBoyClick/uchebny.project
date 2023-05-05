@@ -1,18 +1,15 @@
 'use Strict';
 
-let options = {
-  width:  400,
-  height: 500,
-};
-
-let {color: c, width: w, height: h} = options;
-
-if (options.c !== undefined) {
-  c = options.color;
-} else {
-  c = 'black';
+function func([name, surname, department, position, salary]) {
+  console.log(name);
+  console.log(surname);
+  console.log(department);
+  console.log(position);
+  console.log(salary);
 }
 
-console.log(c, w, h);
+func( ['John', 'Smit', 'development', 'programmer', 2000] );
+
+
 
 
