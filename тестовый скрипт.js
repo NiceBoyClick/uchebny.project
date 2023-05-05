@@ -1,12 +1,13 @@
 'use Strict';
 
-function func({width, height, color = 'black'}) {
-  console.log(width);
-  console.log(height);
-  console.log(color);
-}
+let paragraph1 = document.querySelector('#elem1');
+console.log(paragraph1);
 
-func( {color: 'red', width: 400, height: 500} );
+let paragraph2 = document.querySelector('#elem2');
+console.log(paragraph2);
+
+let paragraph3 = document.querySelector('#elem3');
+console.log(paragraph3);
 
 
 
