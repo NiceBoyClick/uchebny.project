@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 241 урок (Получение DOM элемента в JavaScript) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 241 урок (Получение DOM элемента в JavaScript) №3">
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,14 +184,7 @@
       <workItem from="1683180262486" duration="6374000" />
       <workItem from="1683266634067" duration="6908000" />
       <workItem from="1683277385952" duration="28000" />
-      <workItem from="1683525396645" duration="1273000" />
-    </task>
-    <task id="LOCAL-00381" summary=" 195 урок (Стрелочные функции в JavaScript) №2">
-      <created>1682496009893</created>
-      <option name="number" value="00381" />
-      <option name="presentableId" value="LOCAL-00381" />
-      <option name="project" value="LOCAL" />
-      <updated>1682496009893</updated>
+      <workItem from="1683525396645" duration="1368000" />
     </task>
     <task id="LOCAL-00382" summary=" 195 урок (Стрелочные функции в JavaScript) №3">
       <created>1682496253055</created>
@@ -528,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683527359101</updated>
     </task>
-    <option name="localTasksCounter" value="430" />
+    <task id="LOCAL-00430" summary=" 241 урок (Получение DOM элемента в JavaScript) №3">
+      <created>1683527718405</created>
+      <option name="number" value="00430" />
+      <option name="presentableId" value="LOCAL-00430" />
+      <option name="project" value="LOCAL" />
+      <updated>1683527718405</updated>
+    </task>
+    <option name="localTasksCounter" value="431" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 202 урок (Метод some для проверки массива в JavaScript) №1" />
     <MESSAGE value=" 202 урок (Метод some для проверки массива в JavaScript) №2" />
     <MESSAGE value=" 203 урок (Оператор spread в JavaScript) №1" />
     <MESSAGE value=" 203 урок (Оператор spread в JavaScript) №2" />
@@ -588,6 +588,7 @@
     <MESSAGE value=" 239 урок (Основы работы с DOM в JavaScript) №1" />
     <MESSAGE value=" 241 урок (Получение DOM элемента в JavaScript) №1" />
     <MESSAGE value=" 241 урок (Получение DOM элемента в JavaScript) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 241 урок (Получение DOM элемента в JavaScript) №2" />
+    <MESSAGE value=" 241 урок (Получение DOM элемента в JavaScript) №3" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 241 урок (Получение DOM элемента в JavaScript) №3" />
   </component>
 </project>
