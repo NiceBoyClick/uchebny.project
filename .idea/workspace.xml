@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 241 урок (Получение DOM элемента в JavaScript) №3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
@@ -184,14 +185,7 @@
       <workItem from="1683180262486" duration="6374000" />
       <workItem from="1683266634067" duration="6908000" />
       <workItem from="1683277385952" duration="28000" />
-      <workItem from="1683525396645" duration="1368000" />
-    </task>
-    <task id="LOCAL-00382" summary=" 195 урок (Стрелочные функции в JavaScript) №3">
-      <created>1682496253055</created>
-      <option name="number" value="00382" />
-      <option name="presentableId" value="LOCAL-00382" />
-      <option name="project" value="LOCAL" />
-      <updated>1682496253055</updated>
+      <workItem from="1683525396645" duration="2311000" />
     </task>
     <task id="LOCAL-00383" summary=" 196 урок (Работа с рекурсией в JavaScript) №1">
       <created>1682575926911</created>
@@ -529,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683527718405</updated>
     </task>
-    <option name="localTasksCounter" value="431" />
+    <task id="LOCAL-00431" summary=" 241 урок (Получение DOM элемента в JavaScript) №3">
+      <created>1683527787478</created>
+      <option name="number" value="00431" />
+      <option name="presentableId" value="LOCAL-00431" />
+      <option name="project" value="LOCAL" />
+      <updated>1683527787478</updated>
+    </task>
+    <option name="localTasksCounter" value="432" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
