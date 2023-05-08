@@ -1,9 +1,3 @@
-.block a.zzz {
+#parent input {
     color: red;
-}
-.block a.zzz:hover {
-    text-decoration: none;
-}
-div h2:last-of-type{
-    color: blue;
 }

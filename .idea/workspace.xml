@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 239 урок (Основы работы с DOM в JavaScript) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 241 урок (Получение DOM элемента в JavaScript) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,18 +41,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Костя/WebstormProjects/erp-front&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Костя/WebstormProjects/test-project",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/my-app/src/App.js" working-dir="$PROJECT_DIR$/my-app/src">
       <method v="2" />
@@ -183,14 +184,9 @@
       <workItem from="1683009933230" duration="3963000" />
       <workItem from="1683094638323" duration="3679000" />
       <workItem from="1683180262486" duration="6374000" />
-      <workItem from="1683266634067" duration="5797000" />
-    </task>
-    <task id="LOCAL-00379" summary=" 194 урок (Функции-коллбэки в JavaScript) №4">
-      <created>1682413548890</created>
-      <option name="number" value="00379" />
-      <option name="presentableId" value="LOCAL-00379" />
-      <option name="project" value="LOCAL" />
-      <updated>1682413548890</updated>
+      <workItem from="1683266634067" duration="6908000" />
+      <workItem from="1683277385952" duration="28000" />
+      <workItem from="1683525396645" duration="952000" />
     </task>
     <task id="LOCAL-00380" summary=" 195 урок (Стрелочные функции в JavaScript) №1">
       <created>1682494500850</created>
@@ -528,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683272089093</updated>
     </task>
-    <option name="localTasksCounter" value="428" />
+    <task id="LOCAL-00428" summary=" 241 урок (Получение DOM элемента в JavaScript) №1">
+      <created>1683272726943</created>
+      <option name="number" value="00428" />
+      <option name="presentableId" value="LOCAL-00428" />
+      <option name="project" value="LOCAL" />
+      <updated>1683272726943</updated>
+    </task>
+    <option name="localTasksCounter" value="429" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 201 урок (Метод every для проверки массива в JavaScript) №1" />
     <MESSAGE value=" 201 урок (Метод every для проверки массива в JavaScript) №2" />
     <MESSAGE value=" 202 урок (Метод some для проверки массива в JavaScript) №1" />
     <MESSAGE value=" 202 урок (Метод some для проверки массива в JavaScript) №2" />
@@ -588,6 +590,7 @@
     <MESSAGE value=" 221 урок (Деструктуризация параметров функций в JavaScript) №5" />
     <MESSAGE value=" 221 урок (Деструктуризация параметров функций в JavaScript) №6" />
     <MESSAGE value=" 239 урок (Основы работы с DOM в JavaScript) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 239 урок (Основы работы с DOM в JavaScript) №1" />
+    <MESSAGE value=" 241 урок (Получение DOM элемента в JavaScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 241 урок (Получение DOM элемента в JavaScript) №1" />
   </component>
 </project>
