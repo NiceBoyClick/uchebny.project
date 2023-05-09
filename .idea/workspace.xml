@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 242 урок (Получение DOM элемента в JavaScript) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 243 урок (Именованные обработчики событий в JavaScript) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -185,14 +184,9 @@
       <workItem from="1683180262486" duration="6374000" />
       <workItem from="1683266634067" duration="6908000" />
       <workItem from="1683277385952" duration="28000" />
-      <workItem from="1683525396645" duration="3035000" />
-    </task>
-    <task id="LOCAL-00384" summary=" 196 урок (Работа с рекурсией в JavaScript) №2">
-      <created>1682577545800</created>
-      <option name="number" value="00384" />
-      <option name="presentableId" value="LOCAL-00384" />
-      <option name="project" value="LOCAL" />
-      <updated>1682577545800</updated>
+      <workItem from="1683525396645" duration="3249000" />
+      <workItem from="1683536573517" duration="10000" />
+      <workItem from="1683612724474" duration="1191000" />
     </task>
     <task id="LOCAL-00385" summary=" 197 урок (Рекурсия и многомерные структуры в JavaScript) №1">
       <created>1682578759249</created>
@@ -530,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683532380242</updated>
     </task>
-    <option name="localTasksCounter" value="433" />
+    <task id="LOCAL-00433" summary=" 243 урок (Именованные обработчики событий в JavaScript) №1">
+      <created>1683533542726</created>
+      <option name="number" value="00433" />
+      <option name="presentableId" value="LOCAL-00433" />
+      <option name="project" value="LOCAL" />
+      <updated>1683533542726</updated>
+    </task>
+    <option name="localTasksCounter" value="434" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 203 урок (Оператор spread в JavaScript) №1" />
     <MESSAGE value=" 203 урок (Оператор spread в JavaScript) №2" />
     <MESSAGE value=" 203 урок (Оператор spread в JavaScript) №3" />
     <MESSAGE value=" 207 урок (Применение операторов rest и spread в JavaScript. Функция, находящая сумму чисел) №1" />
@@ -590,6 +590,7 @@
     <MESSAGE value=" 241 урок (Получение DOM элемента в JavaScript) №2" />
     <MESSAGE value=" 241 урок (Получение DOM элемента в JavaScript) №3" />
     <MESSAGE value=" 242 урок (Получение DOM элемента в JavaScript) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 242 урок (Получение DOM элемента в JavaScript) №1" />
+    <MESSAGE value=" 243 урок (Именованные обработчики событий в JavaScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 243 урок (Именованные обработчики событий в JavaScript) №1" />
   </component>
 </project>
