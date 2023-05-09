@@ -2,7 +2,7 @@
 
 let button = document.querySelector('#button');
 
-button.addEventListener('dblclick', func1);
+button.addEventListener('mouseover', func1);
 
 
 function func1() {
