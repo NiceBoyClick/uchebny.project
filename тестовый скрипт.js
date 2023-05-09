@@ -2,9 +2,13 @@
 
 let button = document.querySelector('#button');
 
-button.addEventListener('mouseout', func1);
-
+button.addEventListener('mouseover', func1);
+button.addEventListener('mouseout', func2);
 
 function func1() {
-  console.log('прощай');
+  console.log('привет');
+}
+
+function func2() {
+  console.log('пока');
 }
