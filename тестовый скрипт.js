@@ -1,14 +1,13 @@
 'use Strict';
 
 let button = document.querySelector('#button');
+let elem = document.querySelector('#elem');
 
-button.addEventListener('mouseover', func1);
-button.addEventListener('mouseout', func2);
+
+button.addEventListener('click', func1);
 
 function func1() {
-  console.log('привет');
+  console.log(elem.textContent);
 }
 
-function func2() {
-  console.log('пока');
-}
+
