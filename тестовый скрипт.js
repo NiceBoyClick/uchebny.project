@@ -1,10 +1,11 @@
 'use Strict';
 
-let button = document.querySelector('#button');
 let elem = document.querySelector('#elem');
+let button = document.querySelector('#button');
 
 button.addEventListener('click', func);
 
 function func() {
- elem.innerHTML = '<b>bold</b>';
-}
+ console.log(elem.type);
+};
+
