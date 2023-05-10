@@ -2,10 +2,11 @@
 
 let elem = document.querySelector('#elem');
 let button = document.querySelector('#button');
+let link = document.querySelector('#link');
 
 button.addEventListener('click', func);
 
 function func() {
- elem.type = 'submit'
+ elem.textContent += link.href;
 };
 
