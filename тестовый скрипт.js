@@ -7,5 +7,5 @@ button.addEventListener('click', func1);
 
 
 function func1() {
- elem1.textContent ++
+ elem1.textContent += '!';
 }
