@@ -1,11 +1,10 @@
 'use Strict';
 
 let button = document.querySelector('#button');
-let elem1 = document.querySelector('#elem1');
+let elem = document.querySelector('#elem');
 
-button.addEventListener('click', func1);
+button.addEventListener('click', func);
 
-
-function func1() {
- elem1.textContent += '!';
+function func() {
+ console.log(elem.innerHTML);
 }
