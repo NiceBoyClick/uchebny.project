@@ -7,6 +7,6 @@ let image = document.querySelector('#image');
 button.addEventListener('click', func);
 
 function func() {
- Paragraph.textContent = image.src;
+  image.width = 300;
 };
 
