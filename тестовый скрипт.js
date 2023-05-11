@@ -1,17 +1,12 @@
 'use Strict';
 
-let button1 = document.querySelector('#button1');
-let button2 = document.querySelector('#button2');
+let button = document.querySelector('#button');
 let image = document.querySelector('#image');
+let input = document.querySelector('#elem');
 
-button1.addEventListener('click', func1);
-button2.addEventListener('click', func2);
+button.addEventListener('click', func1);
 
 function func1() {
- image.src = "orn.jpg";
-};
-
-function func2() {
- image.src = "brunner.jpg";
+ input.value = "введите текст";
 };
 
