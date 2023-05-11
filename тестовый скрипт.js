@@ -7,6 +7,7 @@ let image = document.querySelector('#image');
 button.addEventListener('click', func);
 
 function func() {
-  image.width = 300;
+ image.width = image.width * 2;
+ console.log(image.width);
 };
 
