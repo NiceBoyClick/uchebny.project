@@ -1,13 +1,17 @@
 'use Strict';
 
-let button = document.querySelector('#button');
-let Paragraph = document.querySelector('#Paragraph');
+let button1 = document.querySelector('#button1');
+let button2 = document.querySelector('#button2');
 let image = document.querySelector('#image');
 
-button.addEventListener('click', func);
+button1.addEventListener('click', func1);
+button2.addEventListener('click', func2);
 
-function func() {
- image.width = image.width * 2;
- console.log(image.width);
+function func1() {
+ image.src = "orn.jpg";
+};
+
+function func2() {
+ image.src = "brunner.jpg";
 };
 
