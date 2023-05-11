@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 249 урок (Атрибуты тегов как свойства в JavaScript) №3">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 249 урок (Атрибуты тегов как свойства в JavaScript) №4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
@@ -40,18 +40,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Костя/WebstormProjects/erp-front&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Костя/WebstormProjects/test-project",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/my-app/src/App.js" working-dir="$PROJECT_DIR$/my-app/src">
       <method v="2" />
@@ -190,14 +190,9 @@
       <workItem from="1683612724474" duration="4919000" />
       <workItem from="1683623151535" duration="7000" />
       <workItem from="1683630465403" duration="6000" />
-      <workItem from="1683699001127" duration="5819000" />
-    </task>
-    <task id="LOCAL-00402" summary=" 200 урок (Метод filter для фильтрации массива в JavaScript) №7">
-      <created>1682927758123</created>
-      <option name="number" value="00402" />
-      <option name="presentableId" value="LOCAL-00402" />
-      <option name="project" value="LOCAL" />
-      <updated>1682927758123</updated>
+      <workItem from="1683699001127" duration="6410000" />
+      <workItem from="1683710204326" duration="14000" />
+      <workItem from="1683786518528" duration="1659000" />
     </task>
     <task id="LOCAL-00403" summary=" 201 урок (Метод every для проверки массива в JavaScript) №1">
       <created>1683010261530</created>
@@ -535,7 +530,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683704630279</updated>
     </task>
-    <option name="localTasksCounter" value="451" />
+    <task id="LOCAL-00451" summary=" 249 урок (Атрибуты тегов как свойства в JavaScript) №4">
+      <created>1683705066962</created>
+      <option name="number" value="00451" />
+      <option name="presentableId" value="LOCAL-00451" />
+      <option name="project" value="LOCAL" />
+      <updated>1683705066962</updated>
+    </task>
+    <option name="localTasksCounter" value="452" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 221 урок (Деструктуризация параметров функций в JavaScript) №5" />
     <MESSAGE value=" 221 урок (Деструктуризация параметров функций в JavaScript) №6" />
     <MESSAGE value=" 239 урок (Основы работы с DOM в JavaScript) №1" />
     <MESSAGE value=" 241 урок (Получение DOM элемента в JavaScript) №1" />
@@ -595,6 +596,7 @@
     <MESSAGE value=" 249 урок (Атрибуты тегов как свойства в JavaScript) №1" />
     <MESSAGE value=" 249 урок (Атрибуты тегов как свойства в JavaScript) №2" />
     <MESSAGE value=" 249 урок (Атрибуты тегов как свойства в JavaScript) №3" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 249 урок (Атрибуты тегов как свойства в JavaScript) №3" />
+    <MESSAGE value=" 249 урок (Атрибуты тегов как свойства в JavaScript) №4" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 249 урок (Атрибуты тегов как свойства в JavaScript) №4" />
   </component>
 </project>

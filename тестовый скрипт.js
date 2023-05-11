@@ -1,11 +1,12 @@
 'use Strict';
 
 let button = document.querySelector('#button');
-let link = document.querySelector('#link');
+let Paragraph = document.querySelector('#Paragraph');
+let image = document.querySelector('#image');
 
 button.addEventListener('click', func);
 
 function func() {
- link.textContent += `(${link.href})`;
+ Paragraph.textContent = image.src;
 };
 
