@@ -6,6 +6,7 @@ let button = document.querySelector('#button');
 button.addEventListener('click', func);
 
 function func(num) {
- elem.className = 'hello world';
- console.log(elem.className);
+ let arr = [];
+ arr.push(elem.className.split(' '));
+ console.log(arr);
 };
