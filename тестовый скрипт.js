@@ -1,10 +1,10 @@
 'use Strict';
 
 let input = document.querySelector('#elem');
+let button = document.querySelector('#button');
 
-
-elem.addEventListener('focus', func);
+button.addEventListener('click', func);
 
 function func(num) {
-  elem.value = '';
+ console.log(elem.className);
 };
