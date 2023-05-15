@@ -3,8 +3,8 @@
 let input = document.querySelector('#elem');
 
 
-elem.addEventListener('blur', func);
+elem.addEventListener('focus', func);
 
 function func(num) {
-  console.log(Math.sqrt(elem.value).toFixed(1));
+  elem.value = '';
 };
