@@ -1,7 +1,10 @@
 'use Strict';
 
-let image = document.querySelector('#image');
+let input = document.querySelector('#elem');
 
-console.log(image.src);
-console.log(image.width);
-console.log(image.height);
+elem.addEventListener('focus', function() {
+  this.value = 1;
+});
+elem.addEventListener('blur', function() {
+  this.value = 2;
+});
