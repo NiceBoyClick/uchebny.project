@@ -1,3 +1,7 @@
 'use Strict';
 
- console.log(document.querySelector('#image').src);
+let image = document.querySelector('#image');
+
+console.log(image.src);
+console.log(image.width);
+console.log(image.height);
