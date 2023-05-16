@@ -1,15 +1,15 @@
 'use Strict';
 
 
-let input1 = document.querySelector('#elem1');
-let input2 = document.querySelector('#elem2');
-let input3 = document.querySelector('#elem3');
+let button = document.querySelector('.button');
+let pars = document.querySelectorAll('.par');
 
 
-input1.addEventListener('blur', func);
-input2.addEventListener('blur', func);
-input3.addEventListener('blur', func);
+button.addEventListener('click', func);
+
 
 function func() {
-  this.value = this.value * this.value;
+  for (let elem of pars) {
+    elem.textContent = 'text';
+  }
 };
