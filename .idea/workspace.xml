@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 253 урок (Цепочки методов и свойств в JavaScript) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 254 урок (Объект this в JavaScript) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
@@ -196,14 +196,7 @@
       <workItem from="1683872313838" duration="2889000" />
       <workItem from="1683879180130" duration="9000" />
       <workItem from="1684133335353" duration="5887000" />
-      <workItem from="1684212444246" duration="2151000" />
-    </task>
-    <task id="LOCAL-00420" summary=" 219 урок (Переменные и значения по умолчанию в JavaScript) №1">
-      <created>1683186174201</created>
-      <option name="number" value="00420" />
-      <option name="presentableId" value="LOCAL-00420" />
-      <option name="project" value="LOCAL" />
-      <updated>1683186174201</updated>
+      <workItem from="1684212444246" duration="2464000" />
     </task>
     <task id="LOCAL-00421" summary=" 221 урок (Деструктуризация параметров функций в JavaScript) №1">
       <created>1683267832561</created>
@@ -541,7 +534,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684213319344</updated>
     </task>
-    <option name="localTasksCounter" value="469" />
+    <task id="LOCAL-00469" summary=" 254 урок (Объект this в JavaScript) №1">
+      <created>1684215688031</created>
+      <option name="number" value="00469" />
+      <option name="presentableId" value="LOCAL-00469" />
+      <option name="project" value="LOCAL" />
+      <updated>1684215688031</updated>
+    </task>
+    <option name="localTasksCounter" value="470" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -576,7 +576,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 247 урок (Работа с текстом элементов на JavaScript) №5" />
     <MESSAGE value=" 247 урок (Работа с текстом элементов на JavaScript) №6" />
     <MESSAGE value=" 248 урок (Работа с HTML кодом элементов на JavaScript) №1" />
     <MESSAGE value=" 248 урок (Работа с HTML кодом элементов на JavaScript) №2" />
@@ -601,6 +600,7 @@
     <MESSAGE value=" 252 урок (Исключения при работе с атрибутами в JavaScript) №3" />
     <MESSAGE value=" 253 урок (Цепочки методов и свойств в JavaScript) №1" />
     <MESSAGE value=" 253 урок (Цепочки методов и свойств в JavaScript) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 253 урок (Цепочки методов и свойств в JavaScript) №2" />
+    <MESSAGE value=" 254 урок (Объект this в JavaScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 254 урок (Объект this в JavaScript) №1" />
   </component>
 </project>
