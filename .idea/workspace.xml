@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 256 урок (Получение группы элементов в JavaScript) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 256 урок (Получение группы элементов в JavaScript) №3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
@@ -198,14 +198,7 @@
       <workItem from="1684133335353" duration="5887000" />
       <workItem from="1684212444246" duration="6207000" />
       <workItem from="1684227930704" duration="22000" />
-      <workItem from="1684298993262" duration="3479000" />
-    </task>
-    <task id="LOCAL-00426" summary=" 221 урок (Деструктуризация параметров функций в JavaScript) №6">
-      <created>1683271357361</created>
-      <option name="number" value="00426" />
-      <option name="presentableId" value="LOCAL-00426" />
-      <option name="project" value="LOCAL" />
-      <updated>1683271357361</updated>
+      <workItem from="1684298993262" duration="4567000" />
     </task>
     <task id="LOCAL-00427" summary=" 239 урок (Основы работы с DOM в JavaScript) №1">
       <created>1683272089093</created>
@@ -543,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684300215053</updated>
     </task>
-    <option name="localTasksCounter" value="475" />
+    <task id="LOCAL-00475" summary=" 256 урок (Получение группы элементов в JavaScript) №3">
+      <created>1684302674524</created>
+      <option name="number" value="00475" />
+      <option name="presentableId" value="LOCAL-00475" />
+      <option name="project" value="LOCAL" />
+      <updated>1684302674524</updated>
+    </task>
+    <option name="localTasksCounter" value="476" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -578,7 +578,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 249 урок (Атрибуты тегов как свойства в JavaScript) №3" />
     <MESSAGE value=" 249 урок (Атрибуты тегов как свойства в JavaScript) №4" />
     <MESSAGE value=" 249 урок (Атрибуты тегов как свойства в JavaScript) №5" />
     <MESSAGE value=" 249 урок (Атрибуты тегов как свойства в JavaScript) №6" />
@@ -603,6 +602,7 @@
     <MESSAGE value=" 255 урок (Преимущество this в JavaScript) №2" />
     <MESSAGE value=" 256 урок (Получение группы элементов в JavaScript) №1" />
     <MESSAGE value=" 256 урок (Получение группы элементов в JavaScript) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 256 урок (Получение группы элементов в JavaScript) №2" />
+    <MESSAGE value=" 256 урок (Получение группы элементов в JavaScript) №3" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 256 урок (Получение группы элементов в JavaScript) №3" />
   </component>
 </project>
