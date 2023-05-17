@@ -9,7 +9,7 @@ button.addEventListener('click', func);
 
 
 function func() {
-  for (let elem of pars) {
-    elem.textContent = 'text';
+  for (let i = 0; i < pars.length; i++) {
+    pars[i].textContent += i + 1;
   }
 };
