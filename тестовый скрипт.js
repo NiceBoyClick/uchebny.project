@@ -2,14 +2,19 @@
 
 
 let button = document.querySelector('.button');
-let pars = document.querySelectorAll('.par');
+let pars = document.querySelector('.par');
+let inputs = document.querySelectorAll('.elem');
+
 
 
 button.addEventListener('click', func);
 
 
 function func() {
-  for (let i = 0; i < pars.length; i++) {
-    pars[i].textContent += i + 1;
+  let num = 0;
+  for (let elem of inputs) {
+    num += +elem.value;
+    pars.textContent = num;
+    console.log(pars.textContent);
   }
 };
