@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 256 урок (Получение группы элементов в JavaScript) №3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
-    </list>
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 257 урок (Добавление обработчиков в цикле в JavaScript) №1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,14 +194,7 @@
       <workItem from="1684133335353" duration="5887000" />
       <workItem from="1684212444246" duration="6207000" />
       <workItem from="1684227930704" duration="22000" />
-      <workItem from="1684298993262" duration="4567000" />
-    </task>
-    <task id="LOCAL-00427" summary=" 239 урок (Основы работы с DOM в JavaScript) №1">
-      <created>1683272089093</created>
-      <option name="number" value="00427" />
-      <option name="presentableId" value="LOCAL-00427" />
-      <option name="project" value="LOCAL" />
-      <updated>1683272089093</updated>
+      <workItem from="1684298993262" duration="5175000" />
     </task>
     <task id="LOCAL-00428" summary=" 241 урок (Получение DOM элемента в JavaScript) №1">
       <created>1683272726943</created>
@@ -543,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684302674524</updated>
     </task>
-    <option name="localTasksCounter" value="476" />
+    <task id="LOCAL-00476" summary=" 257 урок (Добавление обработчиков в цикле в JavaScript) №1">
+      <created>1684304006037</created>
+      <option name="number" value="00476" />
+      <option name="presentableId" value="LOCAL-00476" />
+      <option name="project" value="LOCAL" />
+      <updated>1684304006037</updated>
+    </task>
+    <option name="localTasksCounter" value="477" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -578,7 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 249 урок (Атрибуты тегов как свойства в JavaScript) №4" />
     <MESSAGE value=" 249 урок (Атрибуты тегов как свойства в JavaScript) №5" />
     <MESSAGE value=" 249 урок (Атрибуты тегов как свойства в JavaScript) №6" />
     <MESSAGE value=" 249 урок (Атрибуты тегов как свойства в JavaScript) №7" />
@@ -603,6 +598,7 @@
     <MESSAGE value=" 256 урок (Получение группы элементов в JavaScript) №1" />
     <MESSAGE value=" 256 урок (Получение группы элементов в JavaScript) №2" />
     <MESSAGE value=" 256 урок (Получение группы элементов в JavaScript) №3" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 256 урок (Получение группы элементов в JavaScript) №3" />
+    <MESSAGE value=" 257 урок (Добавление обработчиков в цикле в JavaScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 257 урок (Добавление обработчиков в цикле в JavaScript) №1" />
   </component>
 </project>

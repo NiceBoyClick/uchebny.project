@@ -3,9 +3,9 @@
 let inputs = document.querySelectorAll('.elem');
 
 for (let elem of inputs) {
-  elem.addEventListener('blur', func);
+  elem.addEventListener('click', func);
 }
 
 function func() {
-  this.value = Number(this.value) + 1;
+  this.value = Number(this.value) * Number(this.value);
 }
