@@ -1,11 +1,10 @@
 'use Strict';
 
-let inputs = document.querySelectorAll('.elem');
+let divs = document.querySelectorAll('div');
 
-for (let elem of inputs) {
-  elem.addEventListener('click', func);
+for (let div of divs) {
+  div.addEventListener('click', function() {
+    this.textContent++;
+  });
 }
 
-function func() {
-  this.value = Number(this.value) * Number(this.value);
-}
