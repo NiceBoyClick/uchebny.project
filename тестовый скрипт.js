@@ -1,12 +1,11 @@
 'use Strict';
 
-let elems = document.querySelectorAll('p');
+let elems = document.querySelectorAll('li');
 
 for (let elem of elems) {
-  elem.addEventListener('click', func);
+  console.log(elem);
+  elem.addEventListener('click', function func(){
+    elem.textContent++;
+  });
 }
 
-function func() {
-  this.textContent += '!';
-  this.removeEventListener('click', func);
-}
