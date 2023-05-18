@@ -1,14 +1,12 @@
 'use Strict';
 
-let button = document.querySelector('.button');
-/*let link = document.querySelector('.link');*/
+let elems = document.querySelectorAll('p');
 
-button.addEventListener('click', func);
+for (let elem of elems) {
+  elem.addEventListener('click', func);
+}
 
-function func(){
-  button.textContent ++;
-  if(button.textContent >= 10) {
-    this.removeEventListener('click', func);
-  }
-};
-
+function func() {
+  this.textContent += '!';
+  this.removeEventListener('click', func);
+}
