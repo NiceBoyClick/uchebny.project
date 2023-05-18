@@ -1,10 +1,12 @@
 'use Strict';
 
-let divs = document.querySelectorAll('div');
+let button = document.querySelector('.button');
+let link = document.querySelector('.link');
 
-for (let div of divs) {
-  div.addEventListener('click', function() {
-    this.textContent++;
-  });
-}
+button.addEventListener('click', func);
+
+function func(){
+  link.textContent += `(${link.href})`;
+  this.removeEventListener('click', func);
+};
 
