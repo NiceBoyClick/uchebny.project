@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 361 урок (Отвязывание обработчиков событий в цикле в JavaScript) №1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 362 урок (Отвязывание анонимных функций в JavaScript) №2">
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,21 +199,7 @@
       <workItem from="1684298993262" duration="6393000" />
       <workItem from="1684314347166" duration="29000" />
       <workItem from="1684314378083" duration="4000" />
-      <workItem from="1684390861167" duration="5343000" />
-    </task>
-    <task id="LOCAL-00434" summary=" 244 урок (Один обработчик ко многим элементам в JavaScript) №1">
-      <created>1683614301845</created>
-      <option name="number" value="00434" />
-      <option name="presentableId" value="LOCAL-00434" />
-      <option name="project" value="LOCAL" />
-      <updated>1683614301846</updated>
-    </task>
-    <task id="LOCAL-00435" summary=" 245 урок (Один обработчик ко многим элементам в JavaScript) №1">
-      <created>1683614695273</created>
-      <option name="number" value="00435" />
-      <option name="presentableId" value="LOCAL-00435" />
-      <option name="project" value="LOCAL" />
-      <updated>1683614695273</updated>
+      <workItem from="1684390861167" duration="5646000" />
     </task>
     <task id="LOCAL-00436" summary=" 246 урок (Обработчики разных событий в JavaScript) №1">
       <created>1683615032652</created>
@@ -546,7 +530,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684396717988</updated>
     </task>
-    <option name="localTasksCounter" value="483" />
+    <task id="LOCAL-00483" summary=" 362 урок (Отвязывание анонимных функций в JavaScript) №1">
+      <created>1684397482537</created>
+      <option name="number" value="00483" />
+      <option name="presentableId" value="LOCAL-00483" />
+      <option name="project" value="LOCAL" />
+      <updated>1684397482537</updated>
+    </task>
+    <task id="LOCAL-00484" summary=" 362 урок (Отвязывание анонимных функций в JavaScript) №2">
+      <created>1684397508816</created>
+      <option name="number" value="00484" />
+      <option name="presentableId" value="LOCAL-00484" />
+      <option name="project" value="LOCAL" />
+      <updated>1684397508816</updated>
+    </task>
+    <option name="localTasksCounter" value="485" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -581,8 +579,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 250 урок (Работа с текстовыми полями в JavaScript) №3" />
-    <MESSAGE value=" 250 урок (Работа с текстовыми полями в JavaScript) №4" />
     <MESSAGE value=" 250 урок (Работа с текстовыми полями в JavaScript) №5" />
     <MESSAGE value=" 251 урок (Фокус текстовых полей в JavaScript) №1" />
     <MESSAGE value=" 251 урок (Фокус текстовых полей в JavaScript) №2" />
@@ -606,6 +602,8 @@
     <MESSAGE value=" 360 урок (Отвязывание событий в JavaScript) №1" />
     <MESSAGE value=" 360 урок (Отвязывание событий в JavaScript) №2" />
     <MESSAGE value=" 361 урок (Отвязывание обработчиков событий в цикле в JavaScript) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 361 урок (Отвязывание обработчиков событий в цикле в JavaScript) №1" />
+    <MESSAGE value=" 362 урок (Отвязывание анонимных функций в JavaScript) №1" />
+    <MESSAGE value=" 362 урок (Отвязывание анонимных функций в JavaScript) №2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 362 урок (Отвязывание анонимных функций в JavaScript) №2" />
   </component>
 </project>
