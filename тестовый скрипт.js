@@ -1,12 +1,14 @@
 'use Strict';
 
 let button = document.querySelector('.button');
-let link = document.querySelector('.link');
+/*let link = document.querySelector('.link');*/
 
 button.addEventListener('click', func);
 
 function func(){
-  link.textContent += `(${link.href})`;
-  this.removeEventListener('click', func);
+  button.textContent ++;
+  if(button.textContent >= 10) {
+    this.removeEventListener('click', func);
+  }
 };
 
