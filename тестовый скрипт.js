@@ -1,8 +1,14 @@
 'use Strict';
 
 let button = document.querySelector('button');
-let elem   = document.querySelector('p');
+let elems = document.querySelectorAll('p');
+let sum = 0;
 
-button.addEventListener('click', function() {
-  elem.innerHTML = `<b>text</b>`;
+button.addEventListener('click', function () {
+  for (let elem of elems) {
+    sum += +elem.textContent;
+  };
+    console.log(sum);
 });
+
+
