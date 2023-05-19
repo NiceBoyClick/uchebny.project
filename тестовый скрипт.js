@@ -1,6 +1,9 @@
 'use Strict';
 
 let elems = document.querySelectorAll('p');
-for (const elem of elems) {
-  elem.textContent += '!';
+
+for (let elem of elems) {
+  elem.addEventListener('click', function() {
+    this.textContent ++;
+  });
 }
