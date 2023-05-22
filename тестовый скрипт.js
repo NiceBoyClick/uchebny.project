@@ -1,14 +1,12 @@
 'use Strict';
 
-let button = document.querySelector('button');
-let elems  = document.querySelectorAll('input');
+let btn  = document.querySelector('#btn');
+let inp1 = document.querySelector('#inp1');
+let inp2 = document.querySelector('#inp2');
+let inp3 = document.querySelector('#inp3');
 
-button.addEventListener('click', function() {
-  let sum = 0;
-for (let elem of elems) {
-    sum += +elem.value;
-  }
-  console.log(sum);
+btn.addEventListener('click', function() {
+  inp3.value = +inp1.value + +inp2.value;
 });
 
 
