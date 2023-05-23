@@ -1,11 +1,16 @@
 'use Strict';
 
-let btn  = document.querySelector('#btn');
-let res  = document.querySelector('#res');
-let inp1 = document.querySelector('#inp1');
-let inp2 = document.querySelector('#inp2');
+let inputs = document.querySelectorAll('input');
+let button = document.querySelector('#btn');
 
-btn.addEventListener('click', function() {
-  res.textContent = +inp1.value + +inp2.value;
+button.addEventListener('click', function() {
+  for (let input of inputs) {
+    if (input.value == input.dataset.text) {
+      input.classList.add('right');
+    } else {
+      input.classList.add('wrong');
+    }
+    console.log(input.classList);
+  }
 });
 
