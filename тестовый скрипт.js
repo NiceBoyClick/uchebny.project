@@ -1,15 +1,14 @@
 'use Strict';
 
-let inputs = document.querySelectorAll('input');
-let par = document.querySelector('p');
-let but = document.querySelector('button');
+let inp = document.querySelector('input');
 
 
-but.addEventListener('click', function() {
+inp.addEventListener('blur', function() {
   let sum = 0;
-  for (let input of inputs) {
-    console.log(input.value);
-    sum += +input.value;
-    par.textContent = sum;
+  let digits = inp.value.split('');
+  console.log('digits:', digits);
+  for (let digit of digits) {
+    sum += +digit;
   }
+  console.log('sum:', sum);
 });
