@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 364 урок (Отработка изученного материала на работу с DOM) №3">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" 364 урок (Отработка изученного материала на работу с DOM) №4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,14 +209,9 @@
       <workItem from="1684747279965" duration="54000" />
       <workItem from="1684821771917" duration="6429000" />
       <workItem from="1684832346429" duration="19000" />
-      <workItem from="1684909528228" duration="6157000" />
-    </task>
-    <task id="LOCAL-00456" summary=" 250 урок (Работа с текстовыми полями в JavaScript) №1">
-      <created>1683792678190</created>
-      <option name="number" value="00456" />
-      <option name="presentableId" value="LOCAL-00456" />
-      <option name="project" value="LOCAL" />
-      <updated>1683792678190</updated>
+      <workItem from="1684909528228" duration="6207000" />
+      <workItem from="1684919024559" duration="16000" />
+      <workItem from="1684995851227" duration="3757000" />
     </task>
     <task id="LOCAL-00457" summary=" 250 урок (Работа с текстовыми полями в JavaScript) №2">
       <created>1683792876424</created>
@@ -553,7 +549,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684914657856</updated>
     </task>
-    <option name="localTasksCounter" value="505" />
+    <task id="LOCAL-00505" summary=" 364 урок (Отработка изученного материала на работу с DOM) №4">
+      <created>1684915757925</created>
+      <option name="number" value="00505" />
+      <option name="presentableId" value="LOCAL-00505" />
+      <option name="project" value="LOCAL" />
+      <updated>1684915757925</updated>
+    </task>
+    <option name="localTasksCounter" value="506" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,7 +591,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 360 урок (Отвязывание событий в JavaScript) №1" />
     <MESSAGE value=" 360 урок (Отвязывание событий в JavaScript) №2" />
     <MESSAGE value=" 361 урок (Отвязывание обработчиков событий в цикле в JavaScript) №1" />
     <MESSAGE value=" 362 урок (Отвязывание анонимных функций в JavaScript) №1" />
@@ -613,6 +615,7 @@
     <MESSAGE value=" 364 урок (Отработка изученного материала на работу с DOM) №1" />
     <MESSAGE value=" 364 урок (Отработка изученного материала на работу с DOM) №2" />
     <MESSAGE value=" 364 урок (Отработка изученного материала на работу с DOM) №3" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 364 урок (Отработка изученного материала на работу с DOM) №3" />
+    <MESSAGE value=" 364 урок (Отработка изученного материала на работу с DOM) №4" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 364 урок (Отработка изученного материала на работу с DOM) №4" />
   </component>
 </project>

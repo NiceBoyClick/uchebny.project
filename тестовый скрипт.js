@@ -1,18 +1,13 @@
 'use Strict';
 
-let inp = document.querySelector('input');
+let input = document.querySelector('.ФИО');
+let inputs = document.querySelectorAll('.inp');
 
 
-inp.addEventListener('blur', function() {
-  let sum = 0;
-  let mid = 0;
-  let digits = inp.value.split(',');
-  console.log('digits:', digits);
-  for (let digit of digits) {
-    sum += +digit;
-  }
-  mid = sum / digits.length;
-  console.log('sum:', sum);
-  console.log('digits length:', digits.length);
-  console.log('mid:', mid);
+input.addEventListener('blur', function () {
+  let names = input.value.split(' ');
+  console.log('name:', names);
+  inputs.forEach(function (input, index) {
+    input.value = names[index] || '';
+  });
 });
