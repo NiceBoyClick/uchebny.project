@@ -1,11 +1,11 @@
 'use Strict';
 
-let input = document.querySelector('.ФИО');
+let input = document.querySelector('.text');
 
 input.addEventListener('blur', function () {
-  let names = input.value.split(' ');
-  names.forEach(function (elem,index, array) {
-   array[index] = elem.slice(0, 1).toUpperCase() + elem.slice(1);
-  });
-  input.value = names.join(' ');
+  let text = input.value.trim();
+  let words = text.split(/\s+/);
+  let wordsWithoutDigits = words.filter(word => !/\d/.test(word));
+  let wordCount = wordsWithoutDigits.length;
+  console.log('количество слов:', wordCount);
 });
