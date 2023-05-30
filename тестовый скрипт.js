@@ -1,11 +1,11 @@
 'use Strict';
 
-let input = document.querySelector('.text');
+let button = document.querySelector('button');
+let par = document.querySelectorAll('p');
 
-input.addEventListener('blur', function () {
-  let num = input.value.split('');
-  let res = num.some(function (elem) {
-    return elem == 3;
+button.addEventListener('click', function () {
+  par.forEach(function (elem, index, arr) {
+    console.log(index);
+    elem.textContent += index + 1;
   });
-  console.log(res);
 });
