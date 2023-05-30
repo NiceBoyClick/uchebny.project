@@ -1,12 +1,11 @@
 'use Strict';
 
 let input = document.querySelector('.text');
-let button = document.querySelector('.butt');
 
-button.addEventListener('click', function () {
-if (input.value == input.value.split('').reverse().join('')) {
-  console.log('все заебись');
-} else {
-  console.log('не заебись');
-}
+input.addEventListener('blur', function () {
+  let num = input.value.split('');
+  let res = num.some(function (elem) {
+    return elem == 3;
+  });
+  console.log(res);
 });
