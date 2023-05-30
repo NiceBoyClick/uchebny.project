@@ -1,11 +1,12 @@
 'use Strict';
 
 let input = document.querySelector('.text');
+let button = document.querySelector('.butt');
 
-input.addEventListener('blur', function () {
-  let text = input.value.trim();
-  let words = text.split(/\s+/);
-  let wordsWithoutDigits = words.filter(word => !/\d/.test(word));
-  let wordCount = wordsWithoutDigits.length;
-  console.log('количество слов:', wordCount);
+button.addEventListener('click', function () {
+if (input.value == input.value.split('').reverse().join('')) {
+  console.log('все заебись');
+} else {
+  console.log('не заебись');
+}
 });
