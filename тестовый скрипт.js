@@ -1,11 +1,11 @@
 'use Strict';
 
 let button = document.querySelector('button');
-let par = document.querySelectorAll('p');
+let link = document.querySelectorAll('a');
 
 button.addEventListener('click', function () {
-  par.forEach(function (elem, index, arr) {
-    console.log(index);
-    elem.textContent += index + 1;
-  });
+  for (let elem of link){
+    console.log(elem.href);
+    elem.innerHTML += `(${elem.href})`;
+  }
 });
