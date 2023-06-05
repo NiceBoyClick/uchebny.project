@@ -1,10 +1,11 @@
 'use Strict';
 
-setInterval(timer, 1000);
-let num = 100;
+let timerId = setInterval(timer, 1000);
+let num = 10;
 
 function timer() {
-  if (num > 0) {
-    console.log(num -= 1);
+  console.log(num--);
+  if (num < 0) {
+    clearInterval(timerId);
   }
 }
