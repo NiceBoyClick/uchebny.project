@@ -1,11 +1,9 @@
 'use Strict';
 
-let button = document.querySelector('button');
-let link = document.querySelectorAll('a');
+setInterval(timer, 1000);
+let num = 0;
 
-button.addEventListener('click', function () {
-  for (let elem of link){
-    console.log(elem.href);
-    elem.innerHTML += `(${elem.href})`;
-  }
-});
+function timer() {
+  num++;
+  console.log(num);
+}
