@@ -1,11 +1,11 @@
 'use Strict';
 
-let timerId = setInterval(timer, 1000);
-let num = 10;
+let start = document.querySelector('#start');
 
-function timer() {
-  console.log(num--);
-  if (num < 0) {
-    clearInterval(timerId);
-  }
-}
+start.addEventListener('click', function () {
+  let i = 100;
+
+  setInterval(function () {
+    console.log(i--);
+  }, 1000);
+});

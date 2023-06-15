@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="443 урок (Счетчик через функцию setInterval в JavaScript) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="444 урок (Остановка таймера JavaScript) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,14 +220,8 @@
       <workItem from="1685601971529" duration="3300000" />
       <workItem from="1685610820660" duration="10000" />
       <workItem from="1685693750268" duration="1479000" />
-      <workItem from="1685949113465" duration="2526000" />
-    </task>
-    <task id="LOCAL-00466" summary=" 252 урок (Исключения при работе с атрибутами в JavaScript) №3">
-      <created>1684139484103</created>
-      <option name="number" value="00466" />
-      <option name="presentableId" value="LOCAL-00466" />
-      <option name="project" value="LOCAL" />
-      <updated>1684139484103</updated>
+      <workItem from="1685949113465" duration="3183000" />
+      <workItem from="1686811572661" duration="977000" />
     </task>
     <task id="LOCAL-00467" summary=" 253 урок (Цепочки методов и свойств в JavaScript) №1">
       <created>1684213026990</created>
@@ -564,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685951084468</updated>
     </task>
-    <option name="localTasksCounter" value="515" />
+    <task id="LOCAL-00515" summary="444 урок (Остановка таймера JavaScript) №1">
+      <created>1685951893462</created>
+      <option name="number" value="00515" />
+      <option name="presentableId" value="LOCAL-00515" />
+      <option name="project" value="LOCAL" />
+      <updated>1685951893462</updated>
+    </task>
+    <option name="localTasksCounter" value="516" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,7 +601,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 364 урок (Поиск ошибок в коде с DOM в JavaScript) №4" />
     <MESSAGE value=" 364 урок (Поиск ошибок в коде с DOM в JavaScript) №5" />
     <MESSAGE value=" 364 урок (Поиск ошибок в коде с DOM в JavaScript) №6" />
     <MESSAGE value=" 364 урок (Поиск ошибок в коде с DOM в JavaScript) №7" />
@@ -624,6 +625,7 @@
     <MESSAGE value=" 364 урок (Отработка изученного материала на работу с DOM) №12" />
     <MESSAGE value="442 урок (Основы работы с функцией setInterval в JavaScript) №1" />
     <MESSAGE value="443 урок (Счетчик через функцию setInterval в JavaScript) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="443 урок (Счетчик через функцию setInterval в JavaScript) №1" />
+    <MESSAGE value="444 урок (Остановка таймера JavaScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="444 урок (Остановка таймера JavaScript) №1" />
   </component>
 </project>
