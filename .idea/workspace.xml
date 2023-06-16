@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="446 урок (Многократное нажатие на кнопку для запуска таймера на JavaScript) №1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
-    </list>
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,14 +219,7 @@
       <workItem from="1685949113465" duration="3183000" />
       <workItem from="1686811572661" duration="2757000" />
       <workItem from="1686825938790" duration="11000" />
-      <workItem from="1686899370913" duration="1017000" />
-    </task>
-    <task id="LOCAL-00469" summary=" 254 урок (Объект this в JavaScript) №1">
-      <created>1684215688031</created>
-      <option name="number" value="00469" />
-      <option name="presentableId" value="LOCAL-00469" />
-      <option name="project" value="LOCAL" />
-      <updated>1684215688031</updated>
+      <workItem from="1686899370913" duration="1431000" />
     </task>
     <task id="LOCAL-00470" summary=" 254 урок (Объект this в JavaScript) №2">
       <created>1684216027712</created>
@@ -568,7 +557,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686813191296</updated>
     </task>
-    <option name="localTasksCounter" value="518" />
+    <task id="LOCAL-00518" summary="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №1">
+      <created>1686900699366</created>
+      <option name="number" value="00518" />
+      <option name="presentableId" value="LOCAL-00518" />
+      <option name="project" value="LOCAL" />
+      <updated>1686900699366</updated>
+    </task>
+    <option name="localTasksCounter" value="519" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,7 +599,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 364 урок (Поиск ошибок в коде с DOM в JavaScript) №7" />
     <MESSAGE value=" 364 урок (Поиск ошибок в коде с DOM в JavaScript) №8" />
     <MESSAGE value=" 364 урок (Поиск ошибок в коде с DOM в JavaScript) №9" />
     <MESSAGE value=" 363 урок (Поиск ошибок в коде с DOM в JavaScript) №10" />
@@ -628,6 +623,7 @@
     <MESSAGE value="444 урок (Остановка таймера JavaScript) №1" />
     <MESSAGE value="445 урок (Кнопка для запуска таймера на JavaScript) №1" />
     <MESSAGE value="446 урок (Многократное нажатие на кнопку для запуска таймера на JavaScript) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="446 урок (Многократное нажатие на кнопку для запуска таймера на JavaScript) №1" />
+    <MESSAGE value="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №1" />
   </component>
 </project>
