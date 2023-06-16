@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №1" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №3">
+      <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,21 +221,7 @@
       <workItem from="1685949113465" duration="3183000" />
       <workItem from="1686811572661" duration="2757000" />
       <workItem from="1686825938790" duration="11000" />
-      <workItem from="1686899370913" duration="1431000" />
-    </task>
-    <task id="LOCAL-00470" summary=" 254 урок (Объект this в JavaScript) №2">
-      <created>1684216027712</created>
-      <option name="number" value="00470" />
-      <option name="presentableId" value="LOCAL-00470" />
-      <option name="project" value="LOCAL" />
-      <updated>1684216027712</updated>
-    </task>
-    <task id="LOCAL-00471" summary=" 255 урок (Преимущество this в JavaScript) №1">
-      <created>1684216669455</created>
-      <option name="number" value="00471" />
-      <option name="presentableId" value="LOCAL-00471" />
-      <option name="project" value="LOCAL" />
-      <updated>1684216669455</updated>
+      <workItem from="1686899370913" duration="1737000" />
     </task>
     <task id="LOCAL-00472" summary=" 255 урок (Преимущество this в JavaScript) №2">
       <created>1684217143641</created>
@@ -564,7 +552,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686900699366</updated>
     </task>
-    <option name="localTasksCounter" value="519" />
+    <task id="LOCAL-00519" summary="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №2">
+      <created>1686900979966</created>
+      <option name="number" value="00519" />
+      <option name="presentableId" value="LOCAL-00519" />
+      <option name="project" value="LOCAL" />
+      <updated>1686900979966</updated>
+    </task>
+    <task id="LOCAL-00520" summary="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №3">
+      <created>1686901026527</created>
+      <option name="number" value="00520" />
+      <option name="presentableId" value="LOCAL-00520" />
+      <option name="project" value="LOCAL" />
+      <updated>1686901026527</updated>
+    </task>
+    <option name="localTasksCounter" value="521" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,8 +601,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 364 урок (Поиск ошибок в коде с DOM в JavaScript) №8" />
-    <MESSAGE value=" 364 урок (Поиск ошибок в коде с DOM в JavaScript) №9" />
     <MESSAGE value=" 363 урок (Поиск ошибок в коде с DOM в JavaScript) №10" />
     <MESSAGE value=" 363 урок (Поиск ошибок в коде с DOM в JavaScript) №11" />
     <MESSAGE value=" 363 урок (Поиск ошибок в коде с DOM в JavaScript) №12" />
@@ -624,6 +624,8 @@
     <MESSAGE value="445 урок (Кнопка для запуска таймера на JavaScript) №1" />
     <MESSAGE value="446 урок (Многократное нажатие на кнопку для запуска таймера на JavaScript) №1" />
     <MESSAGE value="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №1" />
+    <MESSAGE value="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №2" />
+    <MESSAGE value="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №3" />
+    <option name="LAST_COMMIT_MESSAGE" value="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №3" />
   </component>
 </project>

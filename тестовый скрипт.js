@@ -6,7 +6,7 @@ let stop  = document.querySelector('#stop');
 let timerId;
 
 start.addEventListener('click', function() {
-   timerId = setInterval(function() {
+  timerId = setInterval(function() {
     let date = new Date;
     console.log(date.getMinutes() + ' ' + date.getSeconds());
   }, 1000);
