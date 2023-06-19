@@ -6,6 +6,8 @@ let par = document.querySelector('p');
 button.addEventListener('click', function() {
   let self = this;
   setInterval(function() {
-    par.textContent = Number(par.textContent) + 1;
+    if (par.textContent > 0) {
+      par.textContent = Number(par.textContent) - 1;
+    }
   }, 1000);
 });
