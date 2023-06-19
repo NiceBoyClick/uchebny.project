@@ -1,10 +1,11 @@
 'use Strict';
 
-let elem = document.querySelector('#elem');
+let button = document.querySelector('button');
+let par = document.querySelector('p');
 
-elem.addEventListener('click', function() {
+button.addEventListener('click', function() {
   let self = this;
   setInterval(function() {
-    self.value = Number(elem.value) + 1;
+    par.textContent = Number(par.textContent) + 1;
   }, 1000);
 });
