@@ -1,16 +1,14 @@
 'use Strict';
 
 let p = document.querySelector('p');
-let button1 = document.querySelector('#start');
-let button2 = document.querySelector('#stop');
-let timerId;
+let isRed = true;
 
-button1.addEventListener('click', function() {
-  timerId = setInterval(function() {
-    p.textContent++;
+setInterval(function() {
+  if (isRed) {
+    p.style.color = 'green';
+    isRed = false;
+  } else {
+    p.style.color = 'red';
+    isRed = true;
+  }
   }, 1000);
-});
-
-button2.addEventListener('click', function() {
-  clearInterval(timerId);
-});
