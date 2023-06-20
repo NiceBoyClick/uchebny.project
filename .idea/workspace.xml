@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="450 урок (Практика на таймеры и работу с DOM в JavaScript) №4">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="450 урок (Практика на таймеры и работу с DOM в JavaScript) №5">
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
@@ -231,14 +231,7 @@
       <workItem from="1687158654984" duration="3249000" />
       <workItem from="1687162388585" duration="596000" />
       <workItem from="1687236662786" duration="489000" />
-      <workItem from="1687242437562" duration="2274000" />
-    </task>
-    <task id="LOCAL-00481" summary=" 360 урок (Отвязывание событий в JavaScript) №2">
-      <created>1684395794616</created>
-      <option name="number" value="00481" />
-      <option name="presentableId" value="LOCAL-00481" />
-      <option name="project" value="LOCAL" />
-      <updated>1684395794616</updated>
+      <workItem from="1687242437562" duration="2671000" />
     </task>
     <task id="LOCAL-00482" summary=" 361 урок (Отвязывание обработчиков событий в цикле в JavaScript) №1">
       <created>1684396717988</created>
@@ -576,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687244514169</updated>
     </task>
-    <option name="localTasksCounter" value="530" />
+    <task id="LOCAL-00530" summary="450 урок (Практика на таймеры и работу с DOM в JavaScript) №5">
+      <created>1687244940928</created>
+      <option name="number" value="00530" />
+      <option name="presentableId" value="LOCAL-00530" />
+      <option name="project" value="LOCAL" />
+      <updated>1687244940928</updated>
+    </task>
+    <option name="localTasksCounter" value="531" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -611,7 +611,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 364 урок (Отработка изученного материала на работу с DOM) №4" />
     <MESSAGE value=" 364 урок (Отработка изученного материала на работу с DOM) №5" />
     <MESSAGE value=" 364 урок (Отработка изученного материала на работу с DOM) №6" />
     <MESSAGE value=" 364 урок (Отработка изученного материала на работу с DOM) №7" />
@@ -636,6 +635,7 @@
     <MESSAGE value="450 урок (Практика на таймеры и работу с DOM в JavaScript) №2" />
     <MESSAGE value="450 урок (Практика на таймеры и работу с DOM в JavaScript) №3" />
     <MESSAGE value="450 урок (Практика на таймеры и работу с DOM в JavaScript) №4" />
-    <option name="LAST_COMMIT_MESSAGE" value="450 урок (Практика на таймеры и работу с DOM в JavaScript) №4" />
+    <MESSAGE value="450 урок (Практика на таймеры и работу с DOM в JavaScript) №5" />
+    <option name="LAST_COMMIT_MESSAGE" value="450 урок (Практика на таймеры и работу с DOM в JavaScript) №5" />
   </component>
 </project>
