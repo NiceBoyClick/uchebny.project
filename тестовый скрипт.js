@@ -1,13 +1,10 @@
 'use Strict';
 
-let button = document.querySelector('button');
-let par = document.querySelector('p');
+let input = document.querySelector('#elem');
 
-button.addEventListener('click', function() {
-  let self = this;
+
+input.addEventListener('click', function() {
   setInterval(function() {
-    if (par.textContent > 0) {
-      par.textContent = Number(par.textContent) - 1;
-    }
+    input.value = Math.sqrt(input.value);
   }, 1000);
 });
