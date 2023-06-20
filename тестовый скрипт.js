@@ -1,14 +1,9 @@
 'use Strict';
 
-let p = document.querySelector('p');
+let par = document.querySelector('p');
 let isRed = true;
 
 setInterval(function() {
-  if (isRed) {
-    p.style.color = 'green';
-    isRed = false;
-  } else {
-    p.style.color = 'red';
-    isRed = true;
-  }
+ par.classList.add('red')
+ par.classList.toggle('green')
   }, 1000);
