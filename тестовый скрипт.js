@@ -1,10 +1,13 @@
 'use Strict';
 
 let input = document.querySelector('#elem');
+let p = document.querySelector('p');
 
-
-input.addEventListener('click', function() {
+input.addEventListener('blur', function() {
+  p.textContent = input.value
   setInterval(function() {
-    input.value = Math.sqrt(input.value);
+    if (p.textContent > 0) {
+    p.textContent--;
+  };
   }, 1000);
 });
