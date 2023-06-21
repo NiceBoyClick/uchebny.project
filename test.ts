@@ -1,3 +1,4 @@
-let arr: number | string | boolean;
-arr = true;
-console.log(arr);
+type simpleDimple = boolean | null;
+
+let test: simpleDimple = true;
+console.log(test);

@@ -1,3 +1,2 @@
-var arr;
-arr = true;
-console.log(arr);
+var test = true;
+console.log(test);
