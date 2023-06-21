@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="10 урок (Тип any в TypeScript) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="11 урок (Объединение типов в TypeScript) №1">
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -232,14 +233,7 @@
       <workItem from="1687236662786" duration="489000" />
       <workItem from="1687242437562" duration="6353000" />
       <workItem from="1687251910377" duration="7000" />
-      <workItem from="1687328438070" duration="3879000" />
-    </task>
-    <task id="LOCAL-00486" summary=" 363 урок (Советы по написанию кода на примере DOM в JavaScript) №1">
-      <created>1684481444776</created>
-      <option name="number" value="00486" />
-      <option name="presentableId" value="LOCAL-00486" />
-      <option name="project" value="LOCAL" />
-      <updated>1684481444776</updated>
+      <workItem from="1687328438070" duration="4214000" />
     </task>
     <task id="LOCAL-00487" summary=" 364 урок (Поиск ошибок в коде с DOM в JavaScript) №1">
       <created>1684481822658</created>
@@ -577,7 +571,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687334771407</updated>
     </task>
-    <option name="localTasksCounter" value="535" />
+    <task id="LOCAL-00535" summary="11 урок (Объединение типов в TypeScript) №1">
+      <created>1687335375642</created>
+      <option name="number" value="00535" />
+      <option name="presentableId" value="LOCAL-00535" />
+      <option name="project" value="LOCAL" />
+      <updated>1687335375642</updated>
+    </task>
+    <option name="localTasksCounter" value="536" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,7 +613,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 364 урок (Отработка изученного материала на работу с DOM) №9" />
     <MESSAGE value=" 364 урок (Отработка изученного материала на работу с DOM) №10" />
     <MESSAGE value=" 364 урок (Отработка изученного материала на работу с DOM) №11" />
     <MESSAGE value=" 364 урок (Отработка изученного материала на работу с DOM) №12" />
@@ -637,6 +637,7 @@
     <MESSAGE value="450 урок (Практика на таймеры и работу с DOM в JavaScript) №6" />
     <MESSAGE value="450 урок (Практика на таймеры и работу с DOM в JavaScript) №7" />
     <MESSAGE value="10 урок (Тип any в TypeScript) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value="10 урок (Тип any в TypeScript) №2" />
+    <MESSAGE value="11 урок (Объединение типов в TypeScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="11 урок (Объединение типов в TypeScript) №1" />
   </component>
 </project>

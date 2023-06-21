@@ -1,2 +1,3 @@
-let arr: number | null = null;
+let arr: number | string | boolean;
+arr = true;
 console.log(arr);
