@@ -1,2 +1,2 @@
-let arr: any[] = [1, '2', '3', 4, 5];
+let arr: number | null = null;
 console.log(arr);
