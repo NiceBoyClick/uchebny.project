@@ -1,4 +1,4 @@
-type simpleDimple = undefined | null | boolean;
+type simpleDimple = 'error' | 'warning' | 'success';
 
-let test: simpleDimple = true;
-console.log(test);
+let popIt: simpleDimple = 'error';
+console.log(popIt);

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="11 урок (Объединение типов в TypeScript) №2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="12 урок (Псевдонимы типов в TypeScript) №2">
       <change beforePath="$PROJECT_DIR$/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -234,21 +232,7 @@
       <workItem from="1687236662786" duration="489000" />
       <workItem from="1687242437562" duration="6353000" />
       <workItem from="1687251910377" duration="7000" />
-      <workItem from="1687328438070" duration="5170000" />
-    </task>
-    <task id="LOCAL-00488" summary=" 364 урок (Поиск ошибок в коде с DOM в JavaScript) №2">
-      <created>1684481884892</created>
-      <option name="number" value="00488" />
-      <option name="presentableId" value="LOCAL-00488" />
-      <option name="project" value="LOCAL" />
-      <updated>1684481884892</updated>
-    </task>
-    <task id="LOCAL-00489" summary=" 364 урок (Поиск ошибок в коде с DOM в JavaScript) №3">
-      <created>1684482934548</created>
-      <option name="number" value="00489" />
-      <option name="presentableId" value="LOCAL-00489" />
-      <option name="project" value="LOCAL" />
-      <updated>1684482934548</updated>
+      <workItem from="1687328438070" duration="5468000" />
     </task>
     <task id="LOCAL-00490" summary=" 364 урок (Поиск ошибок в коде с DOM в JavaScript) №4">
       <created>1684484194197</created>
@@ -579,7 +563,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687335650523</updated>
     </task>
-    <option name="localTasksCounter" value="537" />
+    <task id="LOCAL-00537" summary="12 урок (Объединение типов в TypeScript) №1">
+      <created>1687336614810</created>
+      <option name="number" value="00537" />
+      <option name="presentableId" value="LOCAL-00537" />
+      <option name="project" value="LOCAL" />
+      <updated>1687336614810</updated>
+    </task>
+    <task id="LOCAL-00538" summary="12 урок (Псевдонимы типов в TypeScript) №2">
+      <created>1687336705327</created>
+      <option name="number" value="00538" />
+      <option name="presentableId" value="LOCAL-00538" />
+      <option name="project" value="LOCAL" />
+      <updated>1687336705327</updated>
+    </task>
+    <option name="localTasksCounter" value="539" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -614,8 +612,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" 364 урок (Отработка изученного материала на работу с DOM) №11" />
-    <MESSAGE value=" 364 урок (Отработка изученного материала на работу с DOM) №12" />
     <MESSAGE value="442 урок (Основы работы с функцией setInterval в JavaScript) №1" />
     <MESSAGE value="443 урок (Счетчик через функцию setInterval в JavaScript) №1" />
     <MESSAGE value="444 урок (Остановка таймера JavaScript) №1" />
@@ -639,6 +635,8 @@
     <MESSAGE value="10 урок (Тип any в TypeScript) №2" />
     <MESSAGE value="11 урок (Объединение типов в TypeScript) №1" />
     <MESSAGE value="11 урок (Объединение типов в TypeScript) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value="11 урок (Объединение типов в TypeScript) №2" />
+    <MESSAGE value="12 урок (Объединение типов в TypeScript) №1" />
+    <MESSAGE value="12 урок (Псевдонимы типов в TypeScript) №2" />
+    <option name="LAST_COMMIT_MESSAGE" value="12 урок (Псевдонимы типов в TypeScript) №2" />
   </component>
 </project>
