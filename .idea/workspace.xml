@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="12 урок (Псевдонимы типов в TypeScript) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="13 урок (Тип строкового литерала в TypeScript) №1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,23 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/user/WebstormProjects/erp-front",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/WebstormProjects/erp-front&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/my-app/src/App.js" working-dir="$PROJECT_DIR$/my-app/src">
       <method v="2" />
@@ -232,14 +233,8 @@
       <workItem from="1687236662786" duration="489000" />
       <workItem from="1687242437562" duration="6353000" />
       <workItem from="1687251910377" duration="7000" />
-      <workItem from="1687328438070" duration="5468000" />
-    </task>
-    <task id="LOCAL-00490" summary=" 364 урок (Поиск ошибок в коде с DOM в JavaScript) №4">
-      <created>1684484194197</created>
-      <option name="number" value="00490" />
-      <option name="presentableId" value="LOCAL-00490" />
-      <option name="project" value="LOCAL" />
-      <updated>1684484194197</updated>
+      <workItem from="1687328438070" duration="6432000" />
+      <workItem from="1687416933010" duration="587000" />
     </task>
     <task id="LOCAL-00491" summary=" 364 урок (Поиск ошибок в коде с DOM в JavaScript) №5">
       <created>1684738006662</created>
@@ -577,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687336705327</updated>
     </task>
-    <option name="localTasksCounter" value="539" />
+    <task id="LOCAL-00539" summary="13 урок (Тип строкового литерала в TypeScript) №1">
+      <created>1687336977231</created>
+      <option name="number" value="00539" />
+      <option name="presentableId" value="LOCAL-00539" />
+      <option name="project" value="LOCAL" />
+      <updated>1687336977231</updated>
+    </task>
+    <option name="localTasksCounter" value="540" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,7 +614,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="442 урок (Основы работы с функцией setInterval в JavaScript) №1" />
     <MESSAGE value="443 урок (Счетчик через функцию setInterval в JavaScript) №1" />
     <MESSAGE value="444 урок (Остановка таймера JavaScript) №1" />
     <MESSAGE value="445 урок (Кнопка для запуска таймера на JavaScript) №1" />
@@ -637,6 +638,7 @@
     <MESSAGE value="11 урок (Объединение типов в TypeScript) №2" />
     <MESSAGE value="12 урок (Объединение типов в TypeScript) №1" />
     <MESSAGE value="12 урок (Псевдонимы типов в TypeScript) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value="12 урок (Псевдонимы типов в TypeScript) №2" />
+    <MESSAGE value="13 урок (Тип строкового литерала в TypeScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="13 урок (Тип строкового литерала в TypeScript) №1" />
   </component>
 </project>
