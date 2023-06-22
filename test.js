@@ -1,2 +1,2 @@
-var popIt = 'error';
-console.log(popIt);
+var elem = document.querySelector('p');
+console.log(elem);

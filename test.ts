@@ -1,1 +1,2 @@
-let date: Date = new Date;
+let elem: HTMLDivElement = document.querySelector('p');
+console.log(elem);
