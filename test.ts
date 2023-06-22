@@ -1,2 +1,2 @@
-let elem: HTMLDivElement = document.querySelector('p');
-console.log(elem);
+let list: HTMLUListElement = document.querySelector('ul');
+console.log(list);

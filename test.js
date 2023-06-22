@@ -1,2 +1,2 @@
-var elem = document.querySelector('p');
-console.log(elem);
+var list = document.querySelector('ul');
+console.log(list);
