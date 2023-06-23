@@ -1,2 +1,3 @@
-var list = document.querySelector('ul');
-console.log(list);
+var collection = new Map();
+collection.set('name', 'John');
+console.log(collection);
