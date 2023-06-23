@@ -1,8 +1,11 @@
 'use Strict';
 
 let button = document.querySelector('#but');
-let text = document.querySelector('#div');
+let elem = document.querySelector('#elem');
 
 button.addEventListener('click', function() {
-    console.log('font-size:',(parseFloat(text.style.fontSize)));
+    elem.style.width = parseInt(elem.style.width) + 50 + 'px';
+    elem.style.height = parseInt(elem.style.height) + 50 + 'px';
+    console.log(elem.style.width);
+    console.log(elem.style.height);
 });
