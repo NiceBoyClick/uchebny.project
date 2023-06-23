@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="2 урок (Единицы измерения в атрибуте style в JavaScript) №3">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="2 урок (Единицы измерения в атрибуте style в JavaScript) №4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Advanced.js" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,14 +263,7 @@
       <workItem from="1687424259464" duration="118000" />
       <workItem from="1687424684860" duration="18000" />
       <workItem from="1687501840406" duration="1712000" />
-      <workItem from="1687503579870" duration="3870000" />
-    </task>
-    <task id="LOCAL-00498" summary=" 363 урок (Поиск ошибок в коде с DOM в JavaScript) №12">
-      <created>1684828909350</created>
-      <option name="number" value="00498" />
-      <option name="presentableId" value="LOCAL-00498" />
-      <option name="project" value="LOCAL" />
-      <updated>1684828909350</updated>
+      <workItem from="1687503579870" duration="5482000" />
     </task>
     <task id="LOCAL-00499" summary=" 363 урок (Поиск ошибок в коде с DOM в JavaScript) №13">
       <created>1684910426758</created>
@@ -610,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687505033660</updated>
     </task>
-    <option name="localTasksCounter" value="547" />
+    <task id="LOCAL-00547" summary="2 урок (Единицы измерения в атрибуте style в JavaScript) №4">
+      <created>1687507633286</created>
+      <option name="number" value="00547" />
+      <option name="presentableId" value="LOCAL-00547" />
+      <option name="project" value="LOCAL" />
+      <updated>1687507633286</updated>
+    </task>
+    <option name="localTasksCounter" value="548" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -645,7 +643,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №3" />
     <MESSAGE value="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №4" />
     <MESSAGE value="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №5" />
     <MESSAGE value="448 урок (Практика на таймеры и работу с DOM в JavaScript) №2" />
@@ -670,6 +667,7 @@
     <MESSAGE value="2 урок (Единицы измерения в атрибуте style в JavaScript) №1" />
     <MESSAGE value="2 урок (Единицы измерения в атрибуте style в JavaScript) №2" />
     <MESSAGE value="2 урок (Единицы измерения в атрибуте style в JavaScript) №3" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 урок (Единицы измерения в атрибуте style в JavaScript) №3" />
+    <MESSAGE value="2 урок (Единицы измерения в атрибуте style в JavaScript) №4" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 урок (Единицы измерения в атрибуте style в JavaScript) №4" />
   </component>
 </project>
