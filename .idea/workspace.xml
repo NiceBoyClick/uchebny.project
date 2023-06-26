@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="2 урок (Единицы измерения в атрибуте style в JavaScript) №4">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="2 урок (Единицы измерения в атрибуте style в JavaScript) №5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Advanced.js" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced.js" afterDir="false" />
     </list>
@@ -40,28 +40,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/WebstormProjects/uchebny.project&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.typescriptcompiler&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/WebstormProjects/uchebny.project",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.typescriptcompiler",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Node.js.App.js">
     <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="App.js" working-dir="$PROJECT_DIR$/my-app/src">
       <method v="2" />
@@ -263,14 +263,9 @@
       <workItem from="1687424259464" duration="118000" />
       <workItem from="1687424684860" duration="18000" />
       <workItem from="1687501840406" duration="1712000" />
-      <workItem from="1687503579870" duration="5482000" />
-    </task>
-    <task id="LOCAL-00499" summary=" 363 урок (Поиск ошибок в коде с DOM в JavaScript) №13">
-      <created>1684910426758</created>
-      <option name="number" value="00499" />
-      <option name="presentableId" value="LOCAL-00499" />
-      <option name="project" value="LOCAL" />
-      <updated>1684910426759</updated>
+      <workItem from="1687503579870" duration="5775000" />
+      <workItem from="1687516717699" duration="14000" />
+      <workItem from="1687762827195" duration="1095000" />
     </task>
     <task id="LOCAL-00500" summary=" 363 урок (Поиск ошибок в коде с DOM в JavaScript) №14">
       <created>1684911048372</created>
@@ -608,7 +603,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687507633286</updated>
     </task>
-    <option name="localTasksCounter" value="548" />
+    <task id="LOCAL-00548" summary="2 урок (Единицы измерения в атрибуте style в JavaScript) №5">
+      <created>1687510043519</created>
+      <option name="number" value="00548" />
+      <option name="presentableId" value="LOCAL-00548" />
+      <option name="project" value="LOCAL" />
+      <updated>1687510043519</updated>
+    </task>
+    <option name="localTasksCounter" value="549" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -643,7 +645,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №4" />
     <MESSAGE value="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №5" />
     <MESSAGE value="448 урок (Практика на таймеры и работу с DOM в JavaScript) №2" />
     <MESSAGE value="448 урок (Практика на таймеры и работу с DOM в JavaScript) №3" />
@@ -668,6 +669,7 @@
     <MESSAGE value="2 урок (Единицы измерения в атрибуте style в JavaScript) №2" />
     <MESSAGE value="2 урок (Единицы измерения в атрибуте style в JavaScript) №3" />
     <MESSAGE value="2 урок (Единицы измерения в атрибуте style в JavaScript) №4" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 урок (Единицы измерения в атрибуте style в JavaScript) №4" />
+    <MESSAGE value="2 урок (Единицы измерения в атрибуте style в JavaScript) №5" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 урок (Единицы измерения в атрибуте style в JavaScript) №5" />
   </component>
 </project>
