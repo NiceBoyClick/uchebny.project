@@ -1,3 +1,5 @@
 'use Strict';
 
-alert('я JavaScript');
+let name = 'Джон';
+let admin = name;
+alert(admin);

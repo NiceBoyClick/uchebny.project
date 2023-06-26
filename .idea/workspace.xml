@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="2 урок (Единицы измерения в атрибуте style в JavaScript) №5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced.js" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced.js" afterDir="false" />
-    </list>
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Привет, мир!) №1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -265,14 +262,7 @@
       <workItem from="1687501840406" duration="1712000" />
       <workItem from="1687503579870" duration="5775000" />
       <workItem from="1687516717699" duration="14000" />
-      <workItem from="1687762827195" duration="1095000" />
-    </task>
-    <task id="LOCAL-00500" summary=" 363 урок (Поиск ошибок в коде с DOM в JavaScript) №14">
-      <created>1684911048372</created>
-      <option name="number" value="00500" />
-      <option name="presentableId" value="LOCAL-00500" />
-      <option name="project" value="LOCAL" />
-      <updated>1684911048372</updated>
+      <workItem from="1687762827195" duration="1821000" />
     </task>
     <task id="LOCAL-00501" summary=" 363 урок (Поиск ошибок в коде с DOM в JavaScript) №15">
       <created>1684911772897</created>
@@ -610,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687510043519</updated>
     </task>
-    <option name="localTasksCounter" value="549" />
+    <task id="LOCAL-00549" summary="learn javaScript(Привет, мир!) №1">
+      <created>1687764240199</created>
+      <option name="number" value="00549" />
+      <option name="presentableId" value="LOCAL-00549" />
+      <option name="project" value="LOCAL" />
+      <updated>1687764240199</updated>
+    </task>
+    <option name="localTasksCounter" value="550" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -645,7 +642,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №5" />
     <MESSAGE value="448 урок (Практика на таймеры и работу с DOM в JavaScript) №2" />
     <MESSAGE value="448 урок (Практика на таймеры и работу с DOM в JavaScript) №3" />
     <MESSAGE value="449 урок (Таймеры и потеря контекста в JavaScript) №1" />
@@ -670,6 +666,7 @@
     <MESSAGE value="2 урок (Единицы измерения в атрибуте style в JavaScript) №3" />
     <MESSAGE value="2 урок (Единицы измерения в атрибуте style в JavaScript) №4" />
     <MESSAGE value="2 урок (Единицы измерения в атрибуте style в JavaScript) №5" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 урок (Единицы измерения в атрибуте style в JavaScript) №5" />
+    <MESSAGE value="learn javaScript(Привет, мир!) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn javaScript(Привет, мир!) №1" />
   </component>
 </project>
