@@ -1,4 +1,4 @@
 'use Strict';
 
-let ourPlanetName;
-let currentVisitorName;
+let userName = prompt('как тебя зовут',);
+alert(`Тебя зовут ${userName}`);
