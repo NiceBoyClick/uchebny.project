@@ -1,4 +1,9 @@
 'use Strict';
 
-let result = (1 + 2 < 4) ?  'Мало' :  'Много';
-alert(result);
+
+let login = prompt('введите логин', '' );
+
+let message =
+    (login === 'сотрудник') ?  alert('Привет') :
+    (login === 'директор') ?  alert('Здравствуйте') :
+        (login === '') ? alert('Нет логина') :  alert('');

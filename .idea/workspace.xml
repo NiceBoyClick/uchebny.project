@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Условное ветвление: if, '?') №3">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Условное ветвление: if, '?') №4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Advanced.js" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -268,14 +269,7 @@
       <workItem from="1687770240395" duration="21000" />
       <workItem from="1687850155057" duration="2162000" />
       <workItem from="1687857267832" duration="8000" />
-      <workItem from="1687936846667" duration="2359000" />
-    </task>
-    <task id="LOCAL-00509" summary=" 364 урок (Отработка изученного материала на работу с DOM) №9">
-      <created>1685430295005</created>
-      <option name="number" value="00509" />
-      <option name="presentableId" value="LOCAL-00509" />
-      <option name="project" value="LOCAL" />
-      <updated>1685430295005</updated>
+      <workItem from="1687936846667" duration="3482000" />
     </task>
     <task id="LOCAL-00510" summary=" 364 урок (Отработка изученного материала на работу с DOM) №10">
       <created>1685432248410</created>
@@ -613,7 +607,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687939914336</updated>
     </task>
-    <option name="localTasksCounter" value="558" />
+    <task id="LOCAL-00558" summary="learn javaScript(Условное ветвление: if, '?') №4">
+      <created>1687940265822</created>
+      <option name="number" value="00558" />
+      <option name="presentableId" value="LOCAL-00558" />
+      <option name="project" value="LOCAL" />
+      <updated>1687940265822</updated>
+    </task>
+    <option name="localTasksCounter" value="559" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -648,7 +649,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="450 урок (Практика на таймеры и работу с DOM в JavaScript) №7" />
     <MESSAGE value="10 урок (Тип any в TypeScript) №2" />
     <MESSAGE value="11 урок (Объединение типов в TypeScript) №1" />
     <MESSAGE value="11 урок (Объединение типов в TypeScript) №2" />
@@ -673,6 +673,7 @@
     <MESSAGE value="learn javaScript(Условное ветвление: if, '?') №2" />
     <MESSAGE value="learn javaScript(Условное jветвление: if, '?') №2" />
     <MESSAGE value="learn javaScript(Условное ветвление: if, '?') №3" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn javaScript(Условное ветвление: if, '?') №3" />
+    <MESSAGE value="learn javaScript(Условное ветвление: if, '?') №4" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn javaScript(Условное ветвление: if, '?') №4" />
   </component>
 </project>
