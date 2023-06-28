@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Условное jветвление: if, '?') №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Условное ветвление: if, '?') №3">
       <change beforePath="$PROJECT_DIR$/Advanced.js" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -268,14 +268,7 @@
       <workItem from="1687770240395" duration="21000" />
       <workItem from="1687850155057" duration="2162000" />
       <workItem from="1687857267832" duration="8000" />
-      <workItem from="1687936846667" duration="2059000" />
-    </task>
-    <task id="LOCAL-00508" summary=" 364 урок (Отработка изученного материала на работу с DOM) №7">
-      <created>1685349313519</created>
-      <option name="number" value="00508" />
-      <option name="presentableId" value="LOCAL-00508" />
-      <option name="project" value="LOCAL" />
-      <updated>1685349313519</updated>
+      <workItem from="1687936846667" duration="2359000" />
     </task>
     <task id="LOCAL-00509" summary=" 364 урок (Отработка изученного материала на работу с DOM) №9">
       <created>1685430295005</created>
@@ -613,7 +606,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687939396298</updated>
     </task>
-    <option name="localTasksCounter" value="557" />
+    <task id="LOCAL-00557" summary="learn javaScript(Условное ветвление: if, '?') №3">
+      <created>1687939914336</created>
+      <option name="number" value="00557" />
+      <option name="presentableId" value="LOCAL-00557" />
+      <option name="project" value="LOCAL" />
+      <updated>1687939914336</updated>
+    </task>
+    <option name="localTasksCounter" value="558" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -648,7 +648,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="450 урок (Практика на таймеры и работу с DOM в JavaScript) №6" />
     <MESSAGE value="450 урок (Практика на таймеры и работу с DOM в JavaScript) №7" />
     <MESSAGE value="10 урок (Тип any в TypeScript) №2" />
     <MESSAGE value="11 урок (Объединение типов в TypeScript) №1" />
@@ -673,6 +672,7 @@
     <MESSAGE value="learn javaScript(Операторы сравнения) №1" />
     <MESSAGE value="learn javaScript(Условное ветвление: if, '?') №2" />
     <MESSAGE value="learn javaScript(Условное jветвление: if, '?') №2" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn javaScript(Условное jветвление: if, '?') №2" />
+    <MESSAGE value="learn javaScript(Условное ветвление: if, '?') №3" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn javaScript(Условное ветвление: if, '?') №3" />
   </component>
 </project>
