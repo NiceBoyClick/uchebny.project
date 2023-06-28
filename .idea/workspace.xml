@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Базовые операторы, математика) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Операторы сравнения) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Advanced.js" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced.js" afterDir="false" />
     </list>
@@ -269,14 +269,7 @@
       <workItem from="1687770240395" duration="21000" />
       <workItem from="1687850155057" duration="2162000" />
       <workItem from="1687857267832" duration="8000" />
-      <workItem from="1687936846667" duration="646000" />
-    </task>
-    <task id="LOCAL-00506" summary=" 364 урок (Отработка изученного материала на работу с DOM) №5">
-      <created>1685000421592</created>
-      <option name="number" value="00506" />
-      <option name="presentableId" value="LOCAL-00506" />
-      <option name="project" value="LOCAL" />
-      <updated>1685000421592</updated>
+      <workItem from="1687936846667" duration="1758000" />
     </task>
     <task id="LOCAL-00507" summary=" 364 урок (Отработка изученного материала на работу с DOM) №6">
       <created>1685087592547</created>
@@ -614,7 +607,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687854506907</updated>
     </task>
-    <option name="localTasksCounter" value="555" />
+    <task id="LOCAL-00555" summary="learn javaScript(Операторы сравнения) №1">
+      <created>1687938337430</created>
+      <option name="number" value="00555" />
+      <option name="presentableId" value="LOCAL-00555" />
+      <option name="project" value="LOCAL" />
+      <updated>1687938337430</updated>
+    </task>
+    <option name="localTasksCounter" value="556" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -649,7 +649,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="450 урок (Практика на таймеры и работу с DOM в JavaScript) №3" />
     <MESSAGE value="450 урок (Практика на таймеры и работу с DOM в JavaScript) №4" />
     <MESSAGE value="450 урок (Практика на таймеры и работу с DOM в JavaScript) №5" />
     <MESSAGE value="450 урок (Практика на таймеры и работу с DOM в JavaScript) №6" />
@@ -674,6 +673,7 @@
     <MESSAGE value="learn javaScript(Взаимодействие: alert, prompt, confirm) №1" />
     <MESSAGE value="learn javaScript(Базовые операторы, математика) №1" />
     <MESSAGE value="learn javaScript(Базовые операторы, математика) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn javaScript(Базовые операторы, математика) №2" />
+    <MESSAGE value="learn javaScript(Операторы сравнения) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn javaScript(Операторы сравнения) №1" />
   </component>
 </project>
