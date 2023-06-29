@@ -1,9 +1,8 @@
 'use Strict';
 
-
-let login = prompt('введите логин', '' );
-
-let message =
-    (login === 'сотрудник') ?  alert('Привет') :
-    (login === 'директор') ?  alert('Здравствуйте') :
-        (login === '') ? alert('Нет логина') :  alert('');
+let age = 89;
+if (age >= 14 && age <= 90) {
+    console.log(true);
+} else {
+    console.log(false);
+}
