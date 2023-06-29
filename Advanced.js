@@ -1,16 +1,17 @@
 'use Strict';
 
-let age = 89;
-if (age < 14 || age > 90) {
-    console.log(true);
+let ask = prompt('кто там?', '');
+
+if (ask === 'админ') {
+    password = prompt('пароль?', '');
+} else if (ask === null) {
+    alert('отменено');
 } else {
-    console.log(false);
-}
-
-if (!(age >= 14 && age <= 90)) {
-    console.log(true);
+    alert('я вас не знаю')
+} if (password === 'я главный') {
+    alert('здравствуйте!');
+} else if (password === null) {
+    alert('отменено');
 } else {
-    console.log(false);
+    alert('неверный пароль');
 }
-
-

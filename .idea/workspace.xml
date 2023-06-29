@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Логические операторы) №6">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Логические операторы) №7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Advanced.js" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced.js" afterDir="false" />
     </list>
@@ -271,14 +271,7 @@
       <workItem from="1687857267832" duration="8000" />
       <workItem from="1687936846667" duration="3557000" />
       <workItem from="1687945633384" duration="13000" />
-      <workItem from="1688021947359" duration="1355000" />
-    </task>
-    <task id="LOCAL-00512" summary=" 364 урок (Отработка изученного материала на работу с DOM) №12">
-      <created>1685604706305</created>
-      <option name="number" value="00512" />
-      <option name="presentableId" value="LOCAL-00512" />
-      <option name="project" value="LOCAL" />
-      <updated>1685604706306</updated>
+      <workItem from="1688021947359" duration="4025000" />
     </task>
     <task id="LOCAL-00513" summary="442 урок (Основы работы с функцией setInterval в JavaScript) №1">
       <created>1685950530034</created>
@@ -616,7 +609,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688024470947</updated>
     </task>
-    <option name="localTasksCounter" value="561" />
+    <task id="LOCAL-00561" summary="learn javaScript(Логические операторы) №7">
+      <created>1688025125587</created>
+      <option name="number" value="00561" />
+      <option name="presentableId" value="LOCAL-00561" />
+      <option name="project" value="LOCAL" />
+      <updated>1688025125587</updated>
+    </task>
+    <option name="localTasksCounter" value="562" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -651,7 +651,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="11 урок (Объединение типов в TypeScript) №2" />
     <MESSAGE value="12 урок (Объединение типов в TypeScript) №1" />
     <MESSAGE value="12 урок (Псевдонимы типов в TypeScript) №2" />
     <MESSAGE value="13 урок (Тип строкового литерала в TypeScript) №1" />
@@ -676,6 +675,7 @@
     <MESSAGE value="learn javaScript(Условное ветвление: if, '?') №4" />
     <MESSAGE value="learn javaScript(Условное ветвление: if, '?') №5" />
     <MESSAGE value="learn javaScript(Логические операторы) №6" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn javaScript(Логические операторы) №6" />
+    <MESSAGE value="learn javaScript(Логические операторы) №7" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn javaScript(Логические операторы) №7" />
   </component>
 </project>
