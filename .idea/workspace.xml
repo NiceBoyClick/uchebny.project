@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Логические операторы) №8">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Циклы while и for) №4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Advanced.js" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced.js" afterDir="false" />
     </list>
@@ -275,14 +275,8 @@
       <workItem from="1688030473709" duration="10000" />
       <workItem from="1688110005648" duration="690000" />
       <workItem from="1688118933073" duration="68000" />
-      <workItem from="1688367223870" duration="794000" />
-    </task>
-    <task id="LOCAL-00514" summary="443 урок (Счетчик через функцию setInterval в JavaScript) №1">
-      <created>1685951084468</created>
-      <option name="number" value="00514" />
-      <option name="presentableId" value="LOCAL-00514" />
-      <option name="project" value="LOCAL" />
-      <updated>1685951084468</updated>
+      <workItem from="1688367223870" duration="1568000" />
+      <workItem from="1688453860172" duration="1393000" />
     </task>
     <task id="LOCAL-00515" summary="444 урок (Остановка таймера JavaScript) №1">
       <created>1685951893462</created>
@@ -620,7 +614,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688027678728</updated>
     </task>
-    <option name="localTasksCounter" value="563" />
+    <task id="LOCAL-00563" summary="learn javaScript(Циклы while и for) №4">
+      <created>1688374679145</created>
+      <option name="number" value="00563" />
+      <option name="presentableId" value="LOCAL-00563" />
+      <option name="project" value="LOCAL" />
+      <updated>1688374679146</updated>
+    </task>
+    <option name="localTasksCounter" value="564" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -655,7 +656,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="12 урок (Псевдонимы типов в TypeScript) №2" />
     <MESSAGE value="13 урок (Тип строкового литерала в TypeScript) №1" />
     <MESSAGE value="14 урок (Встроенные типы объектов в TypeScript) №1" />
     <MESSAGE value="14 урок (Встроенные типы объектов в TypeScript) №4" />
@@ -680,6 +680,7 @@
     <MESSAGE value="learn javaScript(Логические операторы) №6" />
     <MESSAGE value="learn javaScript(Логические операторы) №7" />
     <MESSAGE value="learn javaScript(Логические операторы) №8" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn javaScript(Логические операторы) №8" />
+    <MESSAGE value="learn javaScript(Циклы while и for) №4" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn javaScript(Циклы while и for) №4" />
   </component>
 </project>
