@@ -1,7 +1,12 @@
 'use Strict';
 
-let i = 0;
-while (i < 3) {
-    alert(`number ${i}!`);
-    i++;
+let input = prompt('введите число больше 100', '')
+while (input <= 100) {
+    if (input > 100) {
+        break;
+    } else if(input == null) {
+        break;
+    } else {
+        input = prompt('введите число больше 100', '');
+    }
 }

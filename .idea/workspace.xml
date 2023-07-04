@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Циклы while и for) №4">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Циклы while и for) №5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Advanced.js" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced.js" afterDir="false" />
     </list>
@@ -276,14 +276,7 @@
       <workItem from="1688110005648" duration="690000" />
       <workItem from="1688118933073" duration="68000" />
       <workItem from="1688367223870" duration="1568000" />
-      <workItem from="1688453860172" duration="1393000" />
-    </task>
-    <task id="LOCAL-00515" summary="444 урок (Остановка таймера JavaScript) №1">
-      <created>1685951893462</created>
-      <option name="number" value="00515" />
-      <option name="presentableId" value="LOCAL-00515" />
-      <option name="project" value="LOCAL" />
-      <updated>1685951893462</updated>
+      <workItem from="1688453860172" duration="2459000" />
     </task>
     <task id="LOCAL-00516" summary="445 урок (Кнопка для запуска таймера на JavaScript) №1">
       <created>1686812742972</created>
@@ -621,7 +614,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688374679146</updated>
     </task>
-    <option name="localTasksCounter" value="564" />
+    <task id="LOCAL-00564" summary="learn javaScript(Циклы while и for) №5">
+      <created>1688458239571</created>
+      <option name="number" value="00564" />
+      <option name="presentableId" value="LOCAL-00564" />
+      <option name="project" value="LOCAL" />
+      <updated>1688458239571</updated>
+    </task>
+    <option name="localTasksCounter" value="565" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -656,7 +656,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="13 урок (Тип строкового литерала в TypeScript) №1" />
     <MESSAGE value="14 урок (Встроенные типы объектов в TypeScript) №1" />
     <MESSAGE value="14 урок (Встроенные типы объектов в TypeScript) №4" />
     <MESSAGE value="14 урок (Встроенные типы объектов в TypeScript) №5" />
@@ -681,6 +680,7 @@
     <MESSAGE value="learn javaScript(Логические операторы) №7" />
     <MESSAGE value="learn javaScript(Логические операторы) №8" />
     <MESSAGE value="learn javaScript(Циклы while и for) №4" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn javaScript(Циклы while и for) №4" />
+    <MESSAGE value="learn javaScript(Циклы while и for) №5" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn javaScript(Циклы while и for) №5" />
   </component>
 </project>
