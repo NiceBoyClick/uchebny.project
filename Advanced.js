@@ -1,12 +1,12 @@
 'use Strict';
 
-let input = prompt('введите число больше 100', '')
-while (input <= 100) {
-    if (input > 100) {
-        break;
-    } else if(input == null) {
-        break;
-    } else {
-        input = prompt('введите число больше 100', '');
+let num = 10;
+
+nextPrime:
+    for (let i = 2; i <= num; i++) {
+
+        for (let j = 2; j < i; j++) {
+            if (i % j === 0) continue nextPrime;
+        }
+        console.log(i);
     }
-}
