@@ -1,6 +1,6 @@
 #elem {
-    border: 1px solid green;
     width: 150px;
     height: 150px;
     border-radius: 20px;
+    background-color: mediumspringgreen;
 }
