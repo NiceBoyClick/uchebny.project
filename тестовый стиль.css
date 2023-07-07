@@ -1,4 +1,4 @@
 #elem {
     background-image: url("bg.png");
-    background-repeat: repeat-y;
+    background-repeat: repeat-x;
 }
