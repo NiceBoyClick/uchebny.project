@@ -1,7 +1,3 @@
-.red {
+li:not(.elem) {
     color: red;
-}
-
-.green {
-    color: green;
 }
