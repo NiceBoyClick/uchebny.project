@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 55(Скругленные уголки на CSS) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 55(Скругленные уголки на CSS) №3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
     </list>
@@ -279,14 +279,7 @@
       <workItem from="1688453860172" duration="3891000" />
       <workItem from="1688544892636" duration="2302000" />
       <workItem from="1688632038316" duration="1206000" />
-      <workItem from="1688717266981" duration="3847000" />
-    </task>
-    <task id="LOCAL-00534" summary="10 урок (Тип any в TypeScript) №2">
-      <created>1687334771407</created>
-      <option name="number" value="00534" />
-      <option name="presentableId" value="LOCAL-00534" />
-      <option name="project" value="LOCAL" />
-      <updated>1687334771407</updated>
+      <workItem from="1688717266981" duration="4013000" />
     </task>
     <task id="LOCAL-00535" summary="11 урок (Объединение типов в TypeScript) №1">
       <created>1687335375642</created>
@@ -624,7 +617,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688722366247</updated>
     </task>
-    <option name="localTasksCounter" value="583" />
+    <task id="LOCAL-00583" summary=" урок 55(Скругленные уголки на CSS) №3">
+      <created>1688722547287</created>
+      <option name="number" value="00583" />
+      <option name="presentableId" value="LOCAL-00583" />
+      <option name="project" value="LOCAL" />
+      <updated>1688722547287</updated>
+    </task>
+    <option name="localTasksCounter" value="584" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -659,7 +659,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="learn javaScript(Условное ветвление: if, '?') №4" />
     <MESSAGE value="learn javaScript(Условное ветвление: if, '?') №5" />
     <MESSAGE value="learn javaScript(Логические операторы) №6" />
     <MESSAGE value="learn javaScript(Логические операторы) №7" />
@@ -684,6 +683,7 @@
     <MESSAGE value=" урок 54(Граница для отдельных сторон на CSS) №2" />
     <MESSAGE value=" урок 55(Скругленные уголки на CSS) №1" />
     <MESSAGE value=" урок 55(Скругленные уголки на CSS) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 55(Скругленные уголки на CSS) №2" />
+    <MESSAGE value=" урок 55(Скругленные уголки на CSS) №3" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 55(Скругленные уголки на CSS) №3" />
   </component>
 </project>
