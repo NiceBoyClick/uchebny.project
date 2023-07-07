@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 52(Основы работы с границами на CSS) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 52(Основы работы с границами на CSS) №3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
     </list>
@@ -279,14 +279,7 @@
       <workItem from="1688453860172" duration="3891000" />
       <workItem from="1688544892636" duration="2302000" />
       <workItem from="1688632038316" duration="1206000" />
-      <workItem from="1688717266981" duration="1722000" />
-    </task>
-    <task id="LOCAL-00525" summary="449 урок (Таймеры и потеря контекста в JavaScript) №1">
-      <created>1687160343461</created>
-      <option name="number" value="00525" />
-      <option name="presentableId" value="LOCAL-00525" />
-      <option name="project" value="LOCAL" />
-      <updated>1687160343461</updated>
+      <workItem from="1688717266981" duration="1809000" />
     </task>
     <task id="LOCAL-00526" summary="450 урок (Практика на таймеры и работу с DOM в JavaScript) №1">
       <created>1687161615525</created>
@@ -624,7 +617,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688718969150</updated>
     </task>
-    <option name="localTasksCounter" value="574" />
+    <task id="LOCAL-00574" summary=" урок 52(Основы работы с границами на CSS) №3">
+      <created>1688719016202</created>
+      <option name="number" value="00574" />
+      <option name="presentableId" value="LOCAL-00574" />
+      <option name="project" value="LOCAL" />
+      <updated>1688719016202</updated>
+    </task>
+    <option name="localTasksCounter" value="575" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -659,7 +659,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="learn javaScript(Переменные) №1" />
     <MESSAGE value="learn javaScript(Переменные) №2" />
     <MESSAGE value="learn javaScript(Взаимодействие: alert, prompt, confirm) №1" />
     <MESSAGE value="learn javaScript(Базовые операторы, математика) №1" />
@@ -684,6 +683,7 @@
     <MESSAGE value=" урок 51(Установка фонового цвета на CSS) №2" />
     <MESSAGE value=" урок 52(Основы работы с границами на CSS) №1" />
     <MESSAGE value=" урок 52(Основы работы с границами на CSS) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 52(Основы работы с границами на CSS) №2" />
+    <MESSAGE value=" урок 52(Основы работы с границами на CSS) №3" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 52(Основы работы с границами на CSS) №3" />
   </component>
 </project>
