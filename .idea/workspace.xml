@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 50(Селектор отрицания на CSS) №3">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 51(Установка фонового цвета на CSS) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
@@ -280,14 +280,7 @@
       <workItem from="1688453860172" duration="3891000" />
       <workItem from="1688544892636" duration="2302000" />
       <workItem from="1688632038316" duration="1206000" />
-      <workItem from="1688717266981" duration="900000" />
-    </task>
-    <task id="LOCAL-00521" summary="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №4">
-      <created>1686901227746</created>
-      <option name="number" value="00521" />
-      <option name="presentableId" value="LOCAL-00521" />
-      <option name="project" value="LOCAL" />
-      <updated>1686901227746</updated>
+      <workItem from="1688717266981" duration="1250000" />
     </task>
     <task id="LOCAL-00522" summary="447 урок (Кнопки для запуска и остановки таймера на JavaScript) №5">
       <created>1686901347478</created>
@@ -625,7 +618,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688718033189</updated>
     </task>
-    <option name="localTasksCounter" value="570" />
+    <task id="LOCAL-00570" summary=" урок 51(Установка фонового цвета на CSS) №1">
+      <created>1688718208350</created>
+      <option name="number" value="00570" />
+      <option name="presentableId" value="LOCAL-00570" />
+      <option name="project" value="LOCAL" />
+      <updated>1688718208350</updated>
+    </task>
+    <option name="localTasksCounter" value="571" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -660,7 +660,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2 урок (Единицы измерения в атрибуте style в JavaScript) №3" />
     <MESSAGE value="2 урок (Единицы измерения в атрибуте style в JavaScript) №4" />
     <MESSAGE value="2 урок (Единицы измерения в атрибуте style в JavaScript) №5" />
     <MESSAGE value="learn javaScript(Привет, мир!) №1" />
@@ -685,6 +684,7 @@
     <MESSAGE value=" урок 50(Селектор отрицания на CSS) №1" />
     <MESSAGE value=" урок 50(Селектор отрицания на CSS) №2" />
     <MESSAGE value=" урок 50(Селектор отрицания на CSS) №3" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 50(Селектор отрицания на CSS) №3" />
+    <MESSAGE value=" урок 51(Установка фонового цвета на CSS) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 51(Установка фонового цвета на CSS) №1" />
   </component>
 </project>
