@@ -1,7 +1,7 @@
 #elem {
     border-width: 4px;
-    border-style: ridge;
-    border-color: blue;
+    border-style: dotted;
+    border-color: red;
     width: 200px;
     height: 150px;
 }
