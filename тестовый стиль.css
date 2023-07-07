@@ -1,8 +1,6 @@
 #elem {
-    border-top: 1px solid blue;
-    border-right: 3px dotted green;
-    border-left: 3px solid red;
-    border-bottom: 1px solid blue;
-    width: 230px;
-    height: 170px;
+    border: 1px solid green;
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
 }
