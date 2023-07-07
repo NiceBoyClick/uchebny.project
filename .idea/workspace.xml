@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 53(Свойство-сокращение для границы на CSS) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 53(Свойство-сокращение для границы на CSS) №2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
     </list>
@@ -279,14 +279,7 @@
       <workItem from="1688453860172" duration="3891000" />
       <workItem from="1688544892636" duration="2302000" />
       <workItem from="1688632038316" duration="1206000" />
-      <workItem from="1688717266981" duration="2254000" />
-    </task>
-    <task id="LOCAL-00528" summary="450 урок (Практика на таймеры и работу с DOM в JavaScript) №3">
-      <created>1687243919064</created>
-      <option name="number" value="00528" />
-      <option name="presentableId" value="LOCAL-00528" />
-      <option name="project" value="LOCAL" />
-      <updated>1687243919065</updated>
+      <workItem from="1688717266981" duration="2342000" />
     </task>
     <task id="LOCAL-00529" summary="450 урок (Практика на таймеры и работу с DOM в JavaScript) №4">
       <created>1687244514169</created>
@@ -624,7 +617,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688719376872</updated>
     </task>
-    <option name="localTasksCounter" value="577" />
+    <task id="LOCAL-00577" summary=" урок 53(Свойство-сокращение для границы на CSS) №2">
+      <created>1688719548995</created>
+      <option name="number" value="00577" />
+      <option name="presentableId" value="LOCAL-00577" />
+      <option name="project" value="LOCAL" />
+      <updated>1688719548995</updated>
+    </task>
+    <option name="localTasksCounter" value="578" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -659,7 +659,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="learn javaScript(Базовые операторы, математика) №1" />
     <MESSAGE value="learn javaScript(Базовые операторы, математика) №2" />
     <MESSAGE value="learn javaScript(Операторы сравнения) №1" />
     <MESSAGE value="learn javaScript(Условное ветвление: if, '?') №2" />
@@ -684,6 +683,7 @@
     <MESSAGE value=" урок 52(Основы работы с границами на CSS) №3" />
     <MESSAGE value=" урок 52(Основы работы с границами на CSS) №4" />
     <MESSAGE value=" урок 53(Свойство-сокращение для границы на CSS) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 53(Свойство-сокращение для границы на CSS) №1" />
+    <MESSAGE value=" урок 53(Свойство-сокращение для границы на CSS) №2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 53(Свойство-сокращение для границы на CSS) №2" />
   </component>
 </project>
