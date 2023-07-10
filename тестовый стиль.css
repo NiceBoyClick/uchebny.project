@@ -1,3 +1,12 @@
-ol {
-    list-style-type: upper-alpha;
+#parent {
+    width: 300px;
+    height: 300px;
+    border: 1px dashed blue;
+}
+
+#child {
+    width: 220px;
+    height: 220px;
+    border: 1px solid orange;
+    margin: 37px;
 }
