@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 58(Работа с фоновыми картинками через CSS) №3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 59(Работа с маркерами списков ul на CSS) №1">
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,14 +279,7 @@
       <workItem from="1688544892636" duration="2302000" />
       <workItem from="1688632038316" duration="1206000" />
       <workItem from="1688717266981" duration="6715000" />
-      <workItem from="1688976523092" duration="682000" />
-    </task>
-    <task id="LOCAL-00542" summary="14 урок (Встроенные типы объектов в TypeScript) №5">
-      <created>1687418528447</created>
-      <option name="number" value="00542" />
-      <option name="presentableId" value="LOCAL-00542" />
-      <option name="project" value="LOCAL" />
-      <updated>1687418528448</updated>
+      <workItem from="1688976523092" duration="923000" />
     </task>
     <task id="LOCAL-00543" summary="14 урок (Встроенные типы объектов в TypeScript) №5">
       <created>1687422512201</created>
@@ -626,7 +617,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688724535955</updated>
     </task>
-    <option name="localTasksCounter" value="591" />
+    <task id="LOCAL-00591" summary=" урок 59(Работа с маркерами списков ul на CSS) №1">
+      <created>1688978678962</created>
+      <option name="number" value="00591" />
+      <option name="presentableId" value="LOCAL-00591" />
+      <option name="project" value="LOCAL" />
+      <updated>1688978678962</updated>
+    </task>
+    <option name="localTasksCounter" value="592" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -661,7 +659,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="learn javaScript(Циклы while и for) №7" />
     <MESSAGE value=" урок 50(Селектор отрицания на CSS) №1" />
     <MESSAGE value=" урок 50(Селектор отрицания на CSS) №2" />
     <MESSAGE value=" урок 50(Селектор отрицания на CSS) №3" />
@@ -686,6 +683,7 @@
     <MESSAGE value=" урок 58(Работа с фоновыми картинками через CSS) №1" />
     <MESSAGE value=" урок 58(Работа с фоновыми картинками через CSS) №2" />
     <MESSAGE value=" урок 58(Работа с фоновыми картинками через CSS) №3" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 58(Работа с фоновыми картинками через CSS) №3" />
+    <MESSAGE value=" урок 59(Работа с маркерами списков ul на CSS) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 59(Работа с маркерами списков ul на CSS) №1" />
   </component>
 </project>
