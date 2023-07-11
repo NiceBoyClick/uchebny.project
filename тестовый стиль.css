@@ -1,9 +1,9 @@
 #parent {
     width: 160px;
-    border: 1px solid red;
+    border: 1px solid orange;
 }
 #child {
-    margin: 20px 55px 20px 55px;
-    height: 80px;
-    border: 1px solid green;
+    margin: 20px 40px 80px 10px;
+    height: 40px;
+    border: 1px dashed blue;
 }
