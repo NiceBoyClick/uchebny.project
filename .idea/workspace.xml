@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 62Отступы margin для разных сторон) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 62(Отступы margin для разных сторон) №2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
     </list>
@@ -282,14 +282,7 @@
       <workItem from="1688717266981" duration="6715000" />
       <workItem from="1688976523092" duration="1717000" />
       <workItem from="1688981282742" duration="2276000" />
-      <workItem from="1689080533744" duration="1018000" />
-    </task>
-    <task id="LOCAL-00551" summary="learn javaScript(Переменные) №2">
-      <created>1687766075192</created>
-      <option name="number" value="00551" />
-      <option name="presentableId" value="LOCAL-00551" />
-      <option name="project" value="LOCAL" />
-      <updated>1687766075192</updated>
+      <workItem from="1689080533744" duration="1115000" />
     </task>
     <task id="LOCAL-00552" summary="learn javaScript(Взаимодействие: alert, prompt, confirm) №1">
       <created>1687851779486</created>
@@ -627,7 +620,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689081427362</updated>
     </task>
-    <option name="localTasksCounter" value="600" />
+    <task id="LOCAL-00600" summary=" урок 62(Отступы margin для разных сторон) №2">
+      <created>1689081583510</created>
+      <option name="number" value="00600" />
+      <option name="presentableId" value="LOCAL-00600" />
+      <option name="project" value="LOCAL" />
+      <updated>1689081583511</updated>
+    </task>
+    <option name="localTasksCounter" value="601" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -662,7 +662,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 52(Основы работы с границами на CSS) №4" />
     <MESSAGE value=" урок 53(Свойство-сокращение для границы на CSS) №1" />
     <MESSAGE value=" урок 53(Свойство-сокращение для границы на CSS) №2" />
     <MESSAGE value=" урок 53(Свойство-сокращение для границы на CSS) №4" />
@@ -687,6 +686,7 @@
     <MESSAGE value=" урок 61(Работа с отступами margin на CSS) №1" />
     <MESSAGE value=" урок 61(Работа с отступами margin на CSS) №2" />
     <MESSAGE value=" урок 62Отступы margin для разных сторон) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 62Отступы margin для разных сторон) №1" />
+    <MESSAGE value=" урок 62(Отступы margin для разных сторон) №2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 62(Отступы margin для разных сторон) №2" />
   </component>
 </project>
