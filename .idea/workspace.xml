@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 63(Несколько значений в свойстве margin) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 63(Несколько значений в свойстве margin) №2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -281,14 +282,7 @@
       <workItem from="1688717266981" duration="6715000" />
       <workItem from="1688976523092" duration="1717000" />
       <workItem from="1688981282742" duration="2276000" />
-      <workItem from="1689080533744" duration="1429000" />
-    </task>
-    <task id="LOCAL-00554" summary="learn javaScript(Базовые операторы, математика) №2">
-      <created>1687854506907</created>
-      <option name="number" value="00554" />
-      <option name="presentableId" value="LOCAL-00554" />
-      <option name="project" value="LOCAL" />
-      <updated>1687854506907</updated>
+      <workItem from="1689080533744" duration="1503000" />
     </task>
     <task id="LOCAL-00555" summary="learn javaScript(Операторы сравнения) №1">
       <created>1687938337430</created>
@@ -626,7 +620,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689081859854</updated>
     </task>
-    <option name="localTasksCounter" value="603" />
+    <task id="LOCAL-00603" summary=" урок 63(Несколько значений в свойстве margin) №2">
+      <created>1689081992123</created>
+      <option name="number" value="00603" />
+      <option name="presentableId" value="LOCAL-00603" />
+      <option name="project" value="LOCAL" />
+      <updated>1689081992123</updated>
+    </task>
+    <option name="localTasksCounter" value="604" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -661,7 +662,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 53(Свойство-сокращение для границы на CSS) №4" />
     <MESSAGE value=" урок 54(Граница для отдельных сторон на CSS) №1" />
     <MESSAGE value=" урок 54(Граница для отдельных сторон на CSS) №2" />
     <MESSAGE value=" урок 55(Скругленные уголки на CSS) №1" />
@@ -686,6 +686,7 @@
     <MESSAGE value=" урок 62(Отступы margin для разных сторон) №2" />
     <MESSAGE value=" урок 62(Отступы margin для разных сторон) №3" />
     <MESSAGE value=" урок 63(Несколько значений в свойстве margin) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 63(Несколько значений в свойстве margin) №1" />
+    <MESSAGE value=" урок 63(Несколько значений в свойстве margin) №2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 63(Несколько значений в свойстве margin) №2" />
   </component>
 </project>
