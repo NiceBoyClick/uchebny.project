@@ -1,19 +1,9 @@
 #parent {
-    width: 310px;
-    /*height: 250px;*/
-    border: 1px dashed blue;
-}
-
-#child {
-    /*width: 260px;*/
-    /*height: 150px;*/
-    border: 1px dashed green;
-    margin: 17px;
-}
-
-#child2 {
-    /*width: 200px;*/
-    height: 150px;
+    width: 160px;
     border: 1px solid red;
-    margin: 17px;
+}
+#child {
+    margin: 38px 38px 80px 38px;
+    height: 90px;
+    border: 1px solid green;
 }
