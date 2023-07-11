@@ -3,7 +3,7 @@
     border: 1px solid orange;
 }
 #child {
-    margin: 20px 40px ;
+    margin: 80px 40px 20px ;
     height: 40px;
     border: 1px dashed blue;
 }
