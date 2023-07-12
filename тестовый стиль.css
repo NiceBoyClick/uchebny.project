@@ -1,7 +1,16 @@
-#elem {
-    padding: 40px;
-    width: 160px;
+#elem1 {
+    padding: 20px;
+    width: 400px;
+    border: 1px solid green;
+    text-align: justify;
+    font-size: 12px;
+}
+
+#elem2 {
+    padding: 10px;
+    width: 240px;
     border: 1px solid red;
     text-align: justify;
     font-size: 12px;
+    margin: 20px 30px;
 }
