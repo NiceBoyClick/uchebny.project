@@ -1,7 +1,5 @@
-#elem1 {
-    padding: 10px 20px 40px;
-    width: 220px;
+p {
+    width: 200px;
     border: 1px solid red;
-    text-align: justify;
-    font-size: 12px;
+    display: inline;
 }
