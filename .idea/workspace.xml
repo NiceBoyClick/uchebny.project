@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 65(Отступы padding для разных сторон) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 66(Несколько значений в свойстве padding) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
     </list>
@@ -283,14 +283,7 @@
       <workItem from="1688976523092" duration="1717000" />
       <workItem from="1688981282742" duration="2276000" />
       <workItem from="1689080533744" duration="2536000" />
-      <workItem from="1689143276046" duration="2570000" />
-    </task>
-    <task id="LOCAL-00561" summary="learn javaScript(Логические операторы) №7">
-      <created>1688025125587</created>
-      <option name="number" value="00561" />
-      <option name="presentableId" value="LOCAL-00561" />
-      <option name="project" value="LOCAL" />
-      <updated>1688025125587</updated>
+      <workItem from="1689143276046" duration="2643000" />
     </task>
     <task id="LOCAL-00562" summary="learn javaScript(Логические операторы) №8">
       <created>1688027678727</created>
@@ -628,7 +621,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689146508191</updated>
     </task>
-    <option name="localTasksCounter" value="610" />
+    <task id="LOCAL-00610" summary=" урок 66(Несколько значений в свойстве padding) №1">
+      <created>1689146964026</created>
+      <option name="number" value="00610" />
+      <option name="presentableId" value="LOCAL-00610" />
+      <option name="project" value="LOCAL" />
+      <updated>1689146964026</updated>
+    </task>
+    <option name="localTasksCounter" value="611" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -663,7 +663,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 56(Разные скругления для разных углов CSS) №2" />
     <MESSAGE value=" урок 56(Разные скругления для разных углов CSS) №3" />
     <MESSAGE value=" урок 57(Скругленные уголки в процентах на CSS) №1" />
     <MESSAGE value=" урок 58(Работа с фоновыми картинками через CSS) №1" />
@@ -688,6 +687,7 @@
     <MESSAGE value=" урок 64(Работа с отступами padding на CSS) №1" />
     <MESSAGE value=" урок 64(Работа с отступами padding на CSS) №2" />
     <MESSAGE value=" урок 65(Отступы padding для разных сторон) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 65(Отступы padding для разных сторон) №1" />
+    <MESSAGE value=" урок 66(Несколько значений в свойстве padding) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 66(Несколько значений в свойстве padding) №1" />
   </component>
 </project>
