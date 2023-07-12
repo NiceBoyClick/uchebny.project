@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 64(Работа с отступами padding на CSS) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 65(Отступы padding для разных сторон) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,14 +283,7 @@
       <workItem from="1688976523092" duration="1717000" />
       <workItem from="1688981282742" duration="2276000" />
       <workItem from="1689080533744" duration="2536000" />
-      <workItem from="1689143276046" duration="2106000" />
-    </task>
-    <task id="LOCAL-00560" summary="learn javaScript(Логические операторы) №6">
-      <created>1688024470946</created>
-      <option name="number" value="00560" />
-      <option name="presentableId" value="LOCAL-00560" />
-      <option name="project" value="LOCAL" />
-      <updated>1688024470947</updated>
+      <workItem from="1689143276046" duration="2570000" />
     </task>
     <task id="LOCAL-00561" summary="learn javaScript(Логические операторы) №7">
       <created>1688025125587</created>
@@ -629,7 +621,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689146206374</updated>
     </task>
-    <option name="localTasksCounter" value="609" />
+    <task id="LOCAL-00609" summary=" урок 65(Отступы padding для разных сторон) №1">
+      <created>1689146508191</created>
+      <option name="number" value="00609" />
+      <option name="presentableId" value="LOCAL-00609" />
+      <option name="project" value="LOCAL" />
+      <updated>1689146508191</updated>
+    </task>
+    <option name="localTasksCounter" value="610" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -664,7 +663,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 56(Разные скругления для разных углов CSS) №1" />
     <MESSAGE value=" урок 56(Разные скругления для разных углов CSS) №2" />
     <MESSAGE value=" урок 56(Разные скругления для разных углов CSS) №3" />
     <MESSAGE value=" урок 57(Скругленные уголки в процентах на CSS) №1" />
@@ -689,6 +687,7 @@
     <MESSAGE value=" урок 63(Несколько значений в свойстве margin) №5" />
     <MESSAGE value=" урок 64(Работа с отступами padding на CSS) №1" />
     <MESSAGE value=" урок 64(Работа с отступами padding на CSS) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 64(Работа с отступами padding на CSS) №2" />
+    <MESSAGE value=" урок 65(Отступы padding для разных сторон) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 65(Отступы padding для разных сторон) №1" />
   </component>
 </project>
