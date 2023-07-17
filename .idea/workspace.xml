@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 77(Выравнивание flex элементов) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 77(Выравнивание flex элементов) №4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,21 +289,7 @@
       <workItem from="1689237080166" duration="1162000" />
       <workItem from="1689316104480" duration="594000" />
       <workItem from="1689319534163" duration="3986000" />
-      <workItem from="1689574093145" duration="1058000" />
-    </task>
-    <task id="LOCAL-00579" summary=" урок 54(Граница для отдельных сторон на CSS) №1">
-      <created>1688719956671</created>
-      <option name="number" value="00579" />
-      <option name="presentableId" value="LOCAL-00579" />
-      <option name="project" value="LOCAL" />
-      <updated>1688719956671</updated>
-    </task>
-    <task id="LOCAL-00580" summary=" урок 54(Граница для отдельных сторон на CSS) №2">
-      <created>1688720148443</created>
-      <option name="number" value="00580" />
-      <option name="presentableId" value="LOCAL-00580" />
-      <option name="project" value="LOCAL" />
-      <updated>1688720148443</updated>
+      <workItem from="1689574093145" duration="1648000" />
     </task>
     <task id="LOCAL-00581" summary=" урок 55(Скругленные уголки на CSS) №1">
       <created>1688720300856</created>
@@ -632,7 +620,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689575055135</updated>
     </task>
-    <option name="localTasksCounter" value="628" />
+    <task id="LOCAL-00628" summary=" урок 77(Выравнивание flex элементов) №3">
+      <created>1689575173188</created>
+      <option name="number" value="00628" />
+      <option name="presentableId" value="LOCAL-00628" />
+      <option name="project" value="LOCAL" />
+      <updated>1689575173188</updated>
+    </task>
+    <task id="LOCAL-00629" summary=" урок 77(Выравнивание flex элементов) №4">
+      <created>1689575240622</created>
+      <option name="number" value="00629" />
+      <option name="presentableId" value="LOCAL-00629" />
+      <option name="project" value="LOCAL" />
+      <updated>1689575240622</updated>
+    </task>
+    <option name="localTasksCounter" value="630" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -667,8 +669,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 63(Несколько значений в свойстве margin) №2" />
-    <MESSAGE value=" урок 63(Несколько значений в свойстве margin) №3" />
     <MESSAGE value=" урок 63(Несколько значений в свойстве margin) №4" />
     <MESSAGE value=" урок 63(Несколько значений в свойстве margin) №5" />
     <MESSAGE value=" урок 64(Работа с отступами padding на CSS) №1" />
@@ -692,6 +692,8 @@
     <MESSAGE value=" урок 75(Выравнивание строчных элементов) №6" />
     <MESSAGE value=" урок 77(Выравнивание flex элементов) №1" />
     <MESSAGE value=" урок 77(Выравнивание flex элементов) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 77(Выравнивание flex элементов) №2" />
+    <MESSAGE value=" урок 77(Выравнивание flex элементов) №3" />
+    <MESSAGE value=" урок 77(Выравнивание flex элементов) №4" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 77(Выравнивание flex элементов) №4" />
   </component>
 </project>
