@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 78(Абсолютное позиционирование элементов на CSS) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 78(Абсолютное позиционирование элементов на CSS) №3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
     </list>
@@ -288,14 +288,7 @@
       <workItem from="1689237080166" duration="1162000" />
       <workItem from="1689316104480" duration="594000" />
       <workItem from="1689319534163" duration="3986000" />
-      <workItem from="1689574093145" duration="1976000" />
-    </task>
-    <task id="LOCAL-00583" summary=" урок 55(Скругленные уголки на CSS) №3">
-      <created>1688722547287</created>
-      <option name="number" value="00583" />
-      <option name="presentableId" value="LOCAL-00583" />
-      <option name="project" value="LOCAL" />
-      <updated>1688722547287</updated>
+      <workItem from="1689574093145" duration="2129000" />
     </task>
     <task id="LOCAL-00584" summary=" урок 56(Разные скругления для разных углов CSS) №1">
       <created>1688722738190</created>
@@ -633,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689575934749</updated>
     </task>
-    <option name="localTasksCounter" value="632" />
+    <task id="LOCAL-00632" summary=" урок 78(Абсолютное позиционирование элементов на CSS) №3">
+      <created>1689576102194</created>
+      <option name="number" value="00632" />
+      <option name="presentableId" value="LOCAL-00632" />
+      <option name="project" value="LOCAL" />
+      <updated>1689576102194</updated>
+    </task>
+    <option name="localTasksCounter" value="633" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -668,7 +668,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 64(Работа с отступами padding на CSS) №1" />
     <MESSAGE value=" урок 64(Работа с отступами padding на CSS) №2" />
     <MESSAGE value=" урок 65(Отступы padding для разных сторон) №1" />
     <MESSAGE value=" урок 66(Несколько значений в свойстве padding) №1" />
@@ -693,6 +692,7 @@
     <MESSAGE value=" урок 77(Выравнивание flex элементов) №4" />
     <MESSAGE value=" урок 78(Абсолютное позиционирование элементов на CSS) №1" />
     <MESSAGE value=" урок 78(Абсолютное позиционирование элементов на CSS) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 78(Абсолютное позиционирование элементов на CSS) №2" />
+    <MESSAGE value=" урок 78(Абсолютное позиционирование элементов на CSS) №3" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 78(Абсолютное позиционирование элементов на CSS) №3" />
   </component>
 </project>
