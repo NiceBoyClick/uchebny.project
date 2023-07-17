@@ -8,7 +8,7 @@
 }
 #elem2 {
     position: absolute;
-    top: 250px;
+    top: 100px;
     left: 350px;
 
     width: 100px;
@@ -18,7 +18,7 @@
 
 #elem3 {
     position: absolute;
-    top: 400px;
+    top: 100px;
     left: 500px;
 
     width: 100px;
