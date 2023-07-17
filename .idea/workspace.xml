@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 75(Выравнивание строчных элементов) №5">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 75(Выравнивание строчных элементов) №6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,28 +41,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/WebstormProjects/uchebny.project&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.typescriptcompiler&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/WebstormProjects/uchebny.project",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.typescriptcompiler",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Node.js.App.js">
     <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="App.js" working-dir="$PROJECT_DIR$/my-app/src">
       <method v="2" />
@@ -286,14 +288,8 @@
       <workItem from="1689229916010" duration="1350000" />
       <workItem from="1689237080166" duration="1162000" />
       <workItem from="1689316104480" duration="594000" />
-      <workItem from="1689319534163" duration="3340000" />
-    </task>
-    <task id="LOCAL-00576" summary=" урок 53(Свойство-сокращение для границы на CSS) №1">
-      <created>1688719376872</created>
-      <option name="number" value="00576" />
-      <option name="presentableId" value="LOCAL-00576" />
-      <option name="project" value="LOCAL" />
-      <updated>1688719376872</updated>
+      <workItem from="1689319534163" duration="3986000" />
+      <workItem from="1689574093145" duration="633000" />
     </task>
     <task id="LOCAL-00577" summary=" урок 53(Свойство-сокращение для границы на CSS) №2">
       <created>1688719548995</created>
@@ -631,7 +627,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689323561919</updated>
     </task>
-    <option name="localTasksCounter" value="625" />
+    <task id="LOCAL-00625" summary=" урок 75(Выравнивание строчных элементов) №6">
+      <created>1689323592586</created>
+      <option name="number" value="00625" />
+      <option name="presentableId" value="LOCAL-00625" />
+      <option name="project" value="LOCAL" />
+      <updated>1689323592586</updated>
+    </task>
+    <option name="localTasksCounter" value="626" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -666,7 +669,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 62(Отступы margin для разных сторон) №2" />
     <MESSAGE value=" урок 62(Отступы margin для разных сторон) №3" />
     <MESSAGE value=" урок 63(Несколько значений в свойстве margin) №1" />
     <MESSAGE value=" урок 63(Несколько значений в свойстве margin) №2" />
@@ -691,6 +693,7 @@
     <MESSAGE value=" урок 75(Выравнивание строчных элементов) №3" />
     <MESSAGE value=" урок 75(Выравнивание строчных элементов) №4" />
     <MESSAGE value=" урок 75(Выравнивание строчных элементов) №5" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 75(Выравнивание строчных элементов) №5" />
+    <MESSAGE value=" урок 75(Выравнивание строчных элементов) №6" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 75(Выравнивание строчных элементов) №6" />
   </component>
 </project>

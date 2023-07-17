@@ -1,12 +1,12 @@
 .parent {
-    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    width: 700px;
+    height: 300px;
     border: 1px solid red;
-    text-align: right;
 }
 .child {
     width: 100px;
+    height: 50px;
     border: 1px solid green;
-    display: inline-block;
-    margin-right: 10px;
-    text-align: center;
 }
