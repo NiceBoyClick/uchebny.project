@@ -1,9 +1,9 @@
 #elem {
     position: absolute;
     top:    100px;
-    right: 100px;
-    bottom: 100px;
-    left:   100px;
+    right:  200px;
+    bottom: 50px;
+    left:   10px;
 
     border: 1px solid green;
 }
