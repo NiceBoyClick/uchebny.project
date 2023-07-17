@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 77(Выравнивание flex элементов) №1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 77(Выравнивание flex элементов) №2">
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -288,14 +287,7 @@
       <workItem from="1689237080166" duration="1162000" />
       <workItem from="1689316104480" duration="594000" />
       <workItem from="1689319534163" duration="3986000" />
-      <workItem from="1689574093145" duration="928000" />
-    </task>
-    <task id="LOCAL-00578" summary=" урок 53(Свойство-сокращение для границы на CSS) №4">
-      <created>1688719638934</created>
-      <option name="number" value="00578" />
-      <option name="presentableId" value="LOCAL-00578" />
-      <option name="project" value="LOCAL" />
-      <updated>1688719638934</updated>
+      <workItem from="1689574093145" duration="1058000" />
     </task>
     <task id="LOCAL-00579" summary=" урок 54(Граница для отдельных сторон на CSS) №1">
       <created>1688719956671</created>
@@ -633,7 +625,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689574838997</updated>
     </task>
-    <option name="localTasksCounter" value="627" />
+    <task id="LOCAL-00627" summary=" урок 77(Выравнивание flex элементов) №2">
+      <created>1689575055135</created>
+      <option name="number" value="00627" />
+      <option name="presentableId" value="LOCAL-00627" />
+      <option name="project" value="LOCAL" />
+      <updated>1689575055135</updated>
+    </task>
+    <option name="localTasksCounter" value="628" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -668,7 +667,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 63(Несколько значений в свойстве margin) №1" />
     <MESSAGE value=" урок 63(Несколько значений в свойстве margin) №2" />
     <MESSAGE value=" урок 63(Несколько значений в свойстве margin) №3" />
     <MESSAGE value=" урок 63(Несколько значений в свойстве margin) №4" />
@@ -693,6 +691,7 @@
     <MESSAGE value=" урок 75(Выравнивание строчных элементов) №5" />
     <MESSAGE value=" урок 75(Выравнивание строчных элементов) №6" />
     <MESSAGE value=" урок 77(Выравнивание flex элементов) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 77(Выравнивание flex элементов) №1" />
+    <MESSAGE value=" урок 77(Выравнивание flex элементов) №2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 77(Выравнивание flex элементов) №2" />
   </component>
 </project>
