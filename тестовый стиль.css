@@ -1,27 +1,16 @@
-#elem1 {
-    width: 100px;
-    height: 100px;
-    margin-bottom: 20px;
-    background-color: #FF8888;
+#parent {
     position: relative;
-    top: 100px;
-    left: 70px;
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    border: 1px solid green;
 }
-#elem2 {
-    width: 100px;
-    height: 100px;
-    margin-bottom: 20px;
-    background-color: #7E89EB;
-    position: relative;
-    top: 60px;
-    left: 110px;
-}
-#elem3 {
-    width: 100px;
-    height: 100px;
-    margin-bottom: 20px;
-    background-color: #4DEE99;
-    position: relative;
-    top: 20px;
-    left: 190px;
+#child {
+    position: absolute;
+    top: 80px;
+    left: 80px;
+
+    width: 80px;
+    height: 80px;
+    border: 1px solid red;
 }
