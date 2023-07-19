@@ -6,7 +6,7 @@
     width: 100px;
     height: 100px;
     background: #ff8888;
-    z-index: 3;
+    z-index: 1;
 }
 
 #elem2 {
@@ -17,7 +17,7 @@
     width: 100px;
     height: 100px;
     background: #7e89eb;
-    z-index: 2;
+    z-index: -1;
 }
 
 #elem3 {
