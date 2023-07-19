@@ -1,22 +1,32 @@
-#elem {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 50px;
-    background-color: #C4CD14;
-    text-align: center;
-    line-height: 50px;
-    font-size: 21px;
-    color: white;
-    border-bottom: 1px solid #A3AA11;
+#elem1 {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+
+    width: 100px;
+    height: 100px;
+    background: #ff8888;
+    z-index: 1;
 }
 
-#content {
-    margin: 70px auto;
-    width: 500px;
-    text-align: justify;
-    font: 12px Arial;
-    border: 1px solid yellowgreen;
-    padding: 30px 20px;
+#elem2 {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+
+    width: 100px;
+    height: 100px;
+    background: #7e89eb;
+    z-index: 2;
+}
+
+#elem3 {
+    position: absolute;
+    top: 170px;
+    left: 170px;
+
+    width: 100px;
+    height: 100px;
+    background: #4dee99;
+    z-index: 1;
 }
