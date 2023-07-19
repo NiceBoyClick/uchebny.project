@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 85(Фиксированное позиционирование на CSS) №1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 86(Наложение элементов по оси Z) №1">
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,14 +290,7 @@
       <workItem from="1689574093145" duration="4356000" />
       <workItem from="1689583816796" duration="465000" />
       <workItem from="1689664807571" duration="3954000" />
-      <workItem from="1689751372498" duration="839000" />
-    </task>
-    <task id="LOCAL-00592" summary=" урок 59(Работа с маркерами списков ul на CSS) №2">
-      <created>1688978722273</created>
-      <option name="number" value="00592" />
-      <option name="presentableId" value="LOCAL-00592" />
-      <option name="project" value="LOCAL" />
-      <updated>1688978722273</updated>
+      <workItem from="1689751372498" duration="991000" />
     </task>
     <task id="LOCAL-00593" summary=" урок 59(Работа с маркерами списков ul на CSS) №3">
       <created>1688978881560</created>
@@ -637,7 +628,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689668105359</updated>
     </task>
-    <option name="localTasksCounter" value="641" />
+    <task id="LOCAL-00641" summary=" урок 86(Наложение элементов по оси Z) №1">
+      <created>1689752245252</created>
+      <option name="number" value="00641" />
+      <option name="presentableId" value="LOCAL-00641" />
+      <option name="project" value="LOCAL" />
+      <updated>1689752245252</updated>
+    </task>
+    <option name="localTasksCounter" value="642" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -672,7 +670,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 73(Выравнивание блочных элементов на CSS) №1" />
     <MESSAGE value=" урок 74(Выравнивание строчных элементов) №1" />
     <MESSAGE value=" урок 74(Выравнивание строчных элементов) №2" />
     <MESSAGE value=" урок 74(Выравнивание строчных элементов) №3" />
@@ -697,6 +694,7 @@
     <MESSAGE value=" урок 83(Центрирование через абсолют на CSS) №2" />
     <MESSAGE value=" урок 84(Отрицательные значения при позиционировании) №1" />
     <MESSAGE value=" урок 85(Фиксированное позиционирование на CSS) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 85(Фиксированное позиционирование на CSS) №1" />
+    <MESSAGE value=" урок 86(Наложение элементов по оси Z) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 86(Наложение элементов по оси Z) №1" />
   </component>
 </project>
