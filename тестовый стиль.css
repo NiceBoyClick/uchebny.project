@@ -1,13 +1,22 @@
-div {
-    width: 400px;
+#parent {
+    margin: 10px auto;
+    width: 500px;
     text-align: justify;
+    border: 1px solid green;
+    padding: 15px;
+    font-size: 15px;
 }
+
 #image1 {
     height: 100px;
     float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
 }
 
 #image2 {
     height: 100px;
     float: right;
+    margin-left: 10px;
+    margin-top: 10px;
 }
