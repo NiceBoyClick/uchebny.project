@@ -1,22 +1,15 @@
-#parent {
-    margin: 10px auto;
-    width: 500px;
+.parent {
+    border: 1px solid;
+    margin: 20px auto;
     text-align: justify;
-    border: 1px solid green;
-    padding: 15px;
-    font-size: 15px;
+    width: 480px;
+    padding: 20px;
+    font-size: 12px;
 }
-
-#image1 {
-    height: 100px;
-    float: left;
-    margin-right: 10px;
-    margin-bottom: 5px;
-}
-
-#image2 {
-    height: 100px;
+.child {
     float: right;
-    margin-left: 10px;
-    margin-top: 10px;
+    width: 80px;
+    height: 60px;
+    margin: 10px 0 10px 10px;
+    border: 1px solid green;
 }
