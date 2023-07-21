@@ -6,10 +6,20 @@
     padding: 20px;
     font-size: 12px;
 }
-.child {
+.child1 {
     float: right;
     width: 80px;
     height: 60px;
-    margin: 10px 0 10px 10px;
+    margin: 15px 0;
     border: 1px solid green;
+    text-align: center;
+}
+
+.child2 {
+    float: right;
+    width: 80px;
+    height: 60px;
+    margin: 15px;
+    border: 1px solid green;
+    text-align: center;
 }
