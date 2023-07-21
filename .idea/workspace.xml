@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 96(Свойство float для блоков) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 97(Свойство float и несколько блоков) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
@@ -295,14 +295,7 @@
       <workItem from="1689751372498" duration="3688000" />
       <workItem from="1689755958006" duration="1198000" />
       <workItem from="1689837879634" duration="3008000" />
-      <workItem from="1689926744947" duration="835000" />
-    </task>
-    <task id="LOCAL-00598" summary=" урок 61(Работа с отступами margin на CSS) №2">
-      <created>1688982886195</created>
-      <option name="number" value="00598" />
-      <option name="presentableId" value="LOCAL-00598" />
-      <option name="project" value="LOCAL" />
-      <updated>1688982886195</updated>
+      <workItem from="1689926744947" duration="1626000" />
     </task>
     <task id="LOCAL-00599" summary=" урок 62Отступы margin для разных сторон) №1">
       <created>1689081427362</created>
@@ -640,7 +633,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689842948484</updated>
     </task>
-    <option name="localTasksCounter" value="647" />
+    <task id="LOCAL-00647" summary=" урок 97(Свойство float и несколько блоков) №1">
+      <created>1689927893165</created>
+      <option name="number" value="00647" />
+      <option name="presentableId" value="LOCAL-00647" />
+      <option name="project" value="LOCAL" />
+      <updated>1689927893165</updated>
+    </task>
+    <option name="localTasksCounter" value="648" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -675,7 +675,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 75(Выравнивание строчных элементов) №3" />
     <MESSAGE value=" урок 75(Выравнивание строчных элементов) №4" />
     <MESSAGE value=" урок 75(Выравнивание строчных элементов) №5" />
     <MESSAGE value=" урок 75(Выравнивание строчных элементов) №6" />
@@ -700,6 +699,7 @@
     <MESSAGE value=" урок 87(Введение в свойство float) №1" />
     <MESSAGE value=" урок 91(Отступы плавающему элементу) №1" />
     <MESSAGE value=" урок 96(Свойство float для блоков) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 96(Свойство float для блоков) №1" />
+    <MESSAGE value=" урок 97(Свойство float и несколько блоков) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 97(Свойство float и несколько блоков) №1" />
   </component>
 </project>

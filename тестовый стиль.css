@@ -1,25 +1,17 @@
 .parent {
     border: 1px solid;
-    margin: 20px auto;
-    text-align: justify;
-    width: 480px;
-    padding: 20px;
+    padding: 15px;
+}
+.child {
+    float: left;
+    width: 80px;
+    height: 40px;
+    margin: 0 10px;
+    border: 1px solid green;
+    text-align: center;
     font-size: 12px;
 }
-.child1 {
-    float: right;
-    width: 80px;
-    height: 60px;
-    margin: 15px 0;
-    border: 1px solid green;
-    text-align: center;
-}
 
-.child2 {
-    float: right;
-    width: 80px;
-    height: 60px;
-    margin: 15px;
-    border: 1px solid green;
-    text-align: center;
+.clearfix {
+    clear: both;
 }
