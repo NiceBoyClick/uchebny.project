@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 98(Свойство float и родитель без текста) №2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 99(Размещение флекс элементов в ряд или колонку) №1">
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,14 +294,7 @@
       <workItem from="1689755958006" duration="1198000" />
       <workItem from="1689837879634" duration="3008000" />
       <workItem from="1689926744947" duration="2641000" />
-      <workItem from="1690185989915" duration="649000" />
-    </task>
-    <task id="LOCAL-00601" summary=" урок 62(Отступы margin для разных сторон) №3">
-      <created>1689081680811</created>
-      <option name="number" value="00601" />
-      <option name="presentableId" value="LOCAL-00601" />
-      <option name="project" value="LOCAL" />
-      <updated>1689081680811</updated>
+      <workItem from="1690185989915" duration="713000" />
     </task>
     <task id="LOCAL-00602" summary=" урок 63(Несколько значений в свойстве margin) №1">
       <created>1689081859854</created>
@@ -641,7 +632,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689928821570</updated>
     </task>
-    <option name="localTasksCounter" value="650" />
+    <task id="LOCAL-00650" summary=" урок 99(Размещение флекс элементов в ряд или колонку) №1">
+      <created>1690186676523</created>
+      <option name="number" value="00650" />
+      <option name="presentableId" value="LOCAL-00650" />
+      <option name="project" value="LOCAL" />
+      <updated>1690186676523</updated>
+    </task>
+    <option name="localTasksCounter" value="651" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -676,7 +674,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 75(Выравнивание строчных элементов) №6" />
     <MESSAGE value=" урок 77(Выравнивание flex элементов) №1" />
     <MESSAGE value=" урок 77(Выравнивание flex элементов) №2" />
     <MESSAGE value=" урок 77(Выравнивание flex элементов) №3" />
@@ -701,6 +698,7 @@
     <MESSAGE value=" урок 97(Свойство float и несколько блоков) №1" />
     <MESSAGE value=" урок 98(Свойство float и родитель без текста) №1" />
     <MESSAGE value=" урок 98(Свойство float и родитель без текста) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 98(Свойство float и родитель без текста) №2" />
+    <MESSAGE value=" урок 99(Размещение флекс элементов в ряд или колонку) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 99(Размещение флекс элементов в ряд или колонку) №1" />
   </component>
 </project>
