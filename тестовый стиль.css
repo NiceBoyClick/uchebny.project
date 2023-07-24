@@ -1,6 +1,6 @@
 .parent {
     display: flex;
-    flex-direction: column;
+    flex-direction: row-reverse;
     border: 1px solid red;
     width: 600px;
     height: 300px;
