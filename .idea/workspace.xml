@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 101(Выравнивание флекс элементов по главной оси) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 101(Выравнивание флекс элементов по главной оси) №4">
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -294,21 +294,7 @@
       <workItem from="1689755958006" duration="1198000" />
       <workItem from="1689837879634" duration="3008000" />
       <workItem from="1689926744947" duration="2641000" />
-      <workItem from="1690185989915" duration="1618000" />
-    </task>
-    <task id="LOCAL-00607" summary=" урок 64(Работа с отступами padding на CSS) №1">
-      <created>1689145790996</created>
-      <option name="number" value="00607" />
-      <option name="presentableId" value="LOCAL-00607" />
-      <option name="project" value="LOCAL" />
-      <updated>1689145790997</updated>
-    </task>
-    <task id="LOCAL-00608" summary=" урок 64(Работа с отступами padding на CSS) №2">
-      <created>1689146206374</created>
-      <option name="number" value="00608" />
-      <option name="presentableId" value="LOCAL-00608" />
-      <option name="project" value="LOCAL" />
-      <updated>1689146206374</updated>
+      <workItem from="1690185989915" duration="1678000" />
     </task>
     <task id="LOCAL-00609" summary=" урок 65(Отступы padding для разных сторон) №1">
       <created>1689146508191</created>
@@ -639,7 +625,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690187687037</updated>
     </task>
-    <option name="localTasksCounter" value="656" />
+    <task id="LOCAL-00656" summary=" урок 101(Выравнивание флекс элементов по главной оси) №3">
+      <created>1690187729024</created>
+      <option name="number" value="00656" />
+      <option name="presentableId" value="LOCAL-00656" />
+      <option name="project" value="LOCAL" />
+      <updated>1690187729024</updated>
+    </task>
+    <task id="LOCAL-00657" summary=" урок 101(Выравнивание флекс элементов по главной оси) №4">
+      <created>1690187751070</created>
+      <option name="number" value="00657" />
+      <option name="presentableId" value="LOCAL-00657" />
+      <option name="project" value="LOCAL" />
+      <updated>1690187751071</updated>
+    </task>
+    <option name="localTasksCounter" value="658" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -674,8 +674,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 78(Абсолютное позиционирование элементов на CSS) №2" />
-    <MESSAGE value=" урок 78(Абсолютное позиционирование элементов на CSS) №3" />
     <MESSAGE value=" урок 78(Абсолютное позиционирование элементов на CSS) №4" />
     <MESSAGE value=" урок 79(Относительное позиционирование элементов на CSS) №1" />
     <MESSAGE value=" урок 80(Позиционирование относительно родителя на CSS) №1" />
@@ -699,6 +697,8 @@
     <MESSAGE value=" урок 99(Размещение флекс элементов в ряд или колонку) №4" />
     <MESSAGE value=" урок 101(Размещение флекс элементов в ряд или колонку) №1" />
     <MESSAGE value=" урок 101(Выравнивание флекс элементов по главной оси) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 101(Выравнивание флекс элементов по главной оси) №2" />
+    <MESSAGE value=" урок 101(Выравнивание флекс элементов по главной оси) №3" />
+    <MESSAGE value=" урок 101(Выравнивание флекс элементов по главной оси) №4" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 101(Выравнивание флекс элементов по главной оси) №4" />
   </component>
 </project>
