@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 102(Выравнивание флекс элементов по главной оси) №6">
-      <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
-    </list>
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 102(Выравнивание флекс элементов по главной оси) №6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -295,14 +293,7 @@
       <workItem from="1689837879634" duration="3008000" />
       <workItem from="1689926744947" duration="2641000" />
       <workItem from="1690185989915" duration="3146000" />
-      <workItem from="1690269684879" duration="1015000" />
-    </task>
-    <task id="LOCAL-00615" summary=" урок 72(Особенности строчно-блочных элементов) №1">
-      <created>1689237644680</created>
-      <option name="number" value="00615" />
-      <option name="presentableId" value="LOCAL-00615" />
-      <option name="project" value="LOCAL" />
-      <updated>1689237644680</updated>
+      <workItem from="1690269684879" duration="1793000" />
     </task>
     <task id="LOCAL-00616" summary=" урок 73(Выравнивание блочных элементов на CSS) №1">
       <created>1689320925434</created>
@@ -640,7 +631,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690270653895</updated>
     </task>
-    <option name="localTasksCounter" value="664" />
+    <task id="LOCAL-00664" summary=" урок 102(Выравнивание флекс элементов по главной оси) №6">
+      <created>1690270887942</created>
+      <option name="number" value="00664" />
+      <option name="presentableId" value="LOCAL-00664" />
+      <option name="project" value="LOCAL" />
+      <updated>1690270887942</updated>
+    </task>
+    <option name="localTasksCounter" value="665" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
