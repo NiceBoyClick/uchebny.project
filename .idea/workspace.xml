@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 102(Выравнивание флекс элементов по главной оси) №1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment=" урок 102(Выравнивание флекс элементов по главной оси) №2">
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,28 +39,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/WebstormProjects/erp-front&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.typescriptcompiler&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/WebstormProjects/uchebny.project",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.typescriptcompiler",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Node.js.App.js">
     <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="App.js" working-dir="$PROJECT_DIR$/my-app/src">
       <method v="2" />
@@ -296,13 +295,7 @@
       <workItem from="1689837879634" duration="3008000" />
       <workItem from="1689926744947" duration="2641000" />
       <workItem from="1690185989915" duration="3146000" />
-    </task>
-    <task id="LOCAL-00610" summary=" урок 66(Несколько значений в свойстве padding) №1">
-      <created>1689146964026</created>
-      <option name="number" value="00610" />
-      <option name="presentableId" value="LOCAL-00610" />
-      <option name="project" value="LOCAL" />
-      <updated>1689146964026</updated>
+      <workItem from="1690269684879" duration="271000" />
     </task>
     <task id="LOCAL-00611" summary=" урок 66(Несколько значений в свойстве padding) №2">
       <created>1689147025462</created>
@@ -640,7 +633,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690187771277</updated>
     </task>
-    <option name="localTasksCounter" value="659" />
+    <task id="LOCAL-00659" summary=" урок 102(Выравнивание флекс элементов по главной оси) №2">
+      <created>1690269844336</created>
+      <option name="number" value="00659" />
+      <option name="presentableId" value="LOCAL-00659" />
+      <option name="project" value="LOCAL" />
+      <updated>1690269844336</updated>
+    </task>
+    <option name="localTasksCounter" value="660" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -675,7 +675,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 79(Относительное позиционирование элементов на CSS) №1" />
     <MESSAGE value=" урок 80(Позиционирование относительно родителя на CSS) №1" />
     <MESSAGE value=" урок 80(Позиционирование относительно родителя на CSS) №2" />
     <MESSAGE value=" урок 83(Центрирование через абсолют на CSS) №1" />
@@ -700,6 +699,7 @@
     <MESSAGE value=" урок 101(Выравнивание флекс элементов по главной оси) №3" />
     <MESSAGE value=" урок 101(Выравнивание флекс элементов по главной оси) №4" />
     <MESSAGE value=" урок 101(Выравнивание флекс элементов по главной оси) №5" />
-    <option name="LAST_COMMIT_MESSAGE" value=" урок 101(Выравнивание флекс элементов по главной оси) №5" />
+    <MESSAGE value=" урок 102(Выравнивание флекс элементов по главной оси) №2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" урок 102(Выравнивание флекс элементов по главной оси) №2" />
   </component>
 </project>
