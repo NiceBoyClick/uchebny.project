@@ -1,7 +1,7 @@
 .parent {
     display: flex;
-    flex-direction: row-reverse;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: flex-end;
     align-items: center;
     border: 1px solid red;
     width: 700px;
@@ -10,7 +10,7 @@
 }
 .child {
 
-    width: 70px;
+    width: 100px;
     height: 50px;
     border: 1px solid green;
     font-size: 12px;
