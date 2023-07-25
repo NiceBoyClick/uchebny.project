@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 106(Выравнивание отдельного элемента в flex модели) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 106(Выравнивание отдельного элемента в flex модели) №2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
     </list>
@@ -296,14 +296,7 @@
       <workItem from="1689837879634" duration="3008000" />
       <workItem from="1689926744947" duration="2641000" />
       <workItem from="1690185989915" duration="3146000" />
-      <workItem from="1690269684879" duration="5166000" />
-    </task>
-    <task id="LOCAL-00636" summary=" урок 80(Позиционирование относительно родителя на CSS) №2">
-      <created>1689579381070</created>
-      <option name="number" value="00636" />
-      <option name="presentableId" value="LOCAL-00636" />
-      <option name="project" value="LOCAL" />
-      <updated>1689579381070</updated>
+      <workItem from="1690269684879" duration="5391000" />
     </task>
     <task id="LOCAL-00637" summary=" урок 83(Центрирование через абсолют на CSS) №1">
       <created>1689579890711</created>
@@ -641,7 +634,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690274956708</updated>
     </task>
-    <option name="localTasksCounter" value="685" />
+    <task id="LOCAL-00685" summary="урок 106(Выравнивание отдельного элемента в flex модели) №2">
+      <created>1690275080738</created>
+      <option name="number" value="00685" />
+      <option name="presentableId" value="LOCAL-00685" />
+      <option name="project" value="LOCAL" />
+      <updated>1690275080738</updated>
+    </task>
+    <option name="localTasksCounter" value="686" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -676,7 +676,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 101(Выравнивание флекс элементов по главной оси) №5" />
     <MESSAGE value=" урок 102(Выравнивание флекс элементов по главной оси) №2" />
     <MESSAGE value=" урок 102(Выравнивание флекс элементов по главной оси) №3" />
     <MESSAGE value=" урок 102(Выравнивание флекс элементов по главной оси) №4" />
@@ -701,6 +700,7 @@
     <MESSAGE value="урок 105(Практика на выравнивание по осям) №8" />
     <MESSAGE value="урок 105(Практика на выравнивание по осям) №9" />
     <MESSAGE value="урок 106(Выравнивание отдельного элемента в flex модели) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 106(Выравнивание отдельного элемента в flex модели) №1" />
+    <MESSAGE value="урок 106(Выравнивание отдельного элемента в flex модели) №2" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 106(Выравнивание отдельного элемента в flex модели) №2" />
   </component>
 </project>

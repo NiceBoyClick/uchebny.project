@@ -1,8 +1,8 @@
 .parent {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
-    align-items: stretch;
+    align-items: flex-start;
     border: 1px solid red;
     width: 700px;
     height: 350px;
@@ -10,7 +10,7 @@
 }
 .child {
     width: 100px;
-    /*height: 50px;*/
+    height: 50px;
     border: 1px solid green;
     font-size: 12px;
 }
