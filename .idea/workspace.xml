@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 103(Значение center свойства align-items) №6">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 104(Значение stretch свойства align-items) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
     </list>
@@ -296,14 +296,7 @@
       <workItem from="1689837879634" duration="3008000" />
       <workItem from="1689926744947" duration="2641000" />
       <workItem from="1690185989915" duration="3146000" />
-      <workItem from="1690269684879" duration="2501000" />
-    </task>
-    <task id="LOCAL-00623" summary=" урок 75(Выравнивание строчных элементов) №4">
-      <created>1689323495242</created>
-      <option name="number" value="00623" />
-      <option name="presentableId" value="LOCAL-00623" />
-      <option name="project" value="LOCAL" />
-      <updated>1689323495242</updated>
+      <workItem from="1690269684879" duration="2564000" />
     </task>
     <task id="LOCAL-00624" summary=" урок 75(Выравнивание строчных элементов) №5">
       <created>1689323561919</created>
@@ -641,7 +634,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690272106060</updated>
     </task>
-    <option name="localTasksCounter" value="672" />
+    <task id="LOCAL-00672" summary="урок 104(Значение stretch свойства align-items) №1">
+      <created>1690272312376</created>
+      <option name="number" value="00672" />
+      <option name="presentableId" value="LOCAL-00672" />
+      <option name="project" value="LOCAL" />
+      <updated>1690272312376</updated>
+    </task>
+    <option name="localTasksCounter" value="673" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -676,7 +676,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 96(Свойство float для блоков) №1" />
     <MESSAGE value=" урок 97(Свойство float и несколько блоков) №1" />
     <MESSAGE value=" урок 98(Свойство float и родитель без текста) №1" />
     <MESSAGE value=" урок 98(Свойство float и родитель без текста) №2" />
@@ -701,6 +700,7 @@
     <MESSAGE value="урок 103(Значение center свойства align-items) №4" />
     <MESSAGE value="урок 103(Значение center свойства align-items) №5" />
     <MESSAGE value="урок 103(Значение center свойства align-items) №6" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 103(Значение center свойства align-items) №6" />
+    <MESSAGE value="урок 104(Значение stretch свойства align-items) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 104(Значение stretch свойства align-items) №1" />
   </component>
 </project>
