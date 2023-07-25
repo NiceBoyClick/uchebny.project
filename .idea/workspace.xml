@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 105(Практика на выравнивание по осям) №5">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 105(Практика на выравнивание по осям) №7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
     </list>
@@ -296,21 +296,7 @@
       <workItem from="1689837879634" duration="3008000" />
       <workItem from="1689926744947" duration="2641000" />
       <workItem from="1690185989915" duration="3146000" />
-      <workItem from="1690269684879" duration="3190000" />
-    </task>
-    <task id="LOCAL-00631" summary=" урок 78(Абсолютное позиционирование элементов на CSS) №2">
-      <created>1689575934749</created>
-      <option name="number" value="00631" />
-      <option name="presentableId" value="LOCAL-00631" />
-      <option name="project" value="LOCAL" />
-      <updated>1689575934749</updated>
-    </task>
-    <task id="LOCAL-00632" summary=" урок 78(Абсолютное позиционирование элементов на CSS) №3">
-      <created>1689576102194</created>
-      <option name="number" value="00632" />
-      <option name="presentableId" value="LOCAL-00632" />
-      <option name="project" value="LOCAL" />
-      <updated>1689576102194</updated>
+      <workItem from="1690269684879" duration="3521000" />
     </task>
     <task id="LOCAL-00633" summary=" урок 78(Абсолютное позиционирование элементов на CSS) №4">
       <created>1689576248262</created>
@@ -641,7 +627,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690272961560</updated>
     </task>
-    <option name="localTasksCounter" value="680" />
+    <task id="LOCAL-00680" summary="урок 105(Практика на выравнивание по осям) №5">
+      <created>1690273002512</created>
+      <option name="number" value="00680" />
+      <option name="presentableId" value="LOCAL-00680" />
+      <option name="project" value="LOCAL" />
+      <updated>1690273002512</updated>
+    </task>
+    <task id="LOCAL-00681" summary="урок 105(Практика на выравнивание по осям) №7">
+      <created>1690273306105</created>
+      <option name="number" value="00681" />
+      <option name="presentableId" value="LOCAL-00681" />
+      <option name="project" value="LOCAL" />
+      <updated>1690273306105</updated>
+    </task>
+    <option name="localTasksCounter" value="682" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -676,7 +676,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 101(Размещение флекс элементов в ряд или колонку) №1" />
     <MESSAGE value=" урок 101(Выравнивание флекс элементов по главной оси) №2" />
     <MESSAGE value=" урок 101(Выравнивание флекс элементов по главной оси) №3" />
     <MESSAGE value=" урок 101(Выравнивание флекс элементов по главной оси) №4" />
@@ -701,6 +700,7 @@
     <MESSAGE value="урок 105(Практика на выравнивание по осям) №3" />
     <MESSAGE value="урок 105(Практика на выравнивание по осям) №4" />
     <MESSAGE value="урок 105(Практика на выравнивание по осям) №5" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 105(Практика на выравнивание по осям) №5" />
+    <MESSAGE value="урок 105(Практика на выравнивание по осям) №7" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 105(Практика на выравнивание по осям) №7" />
   </component>
 </project>
