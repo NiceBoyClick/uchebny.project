@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 106(Выравнивание отдельного элемента в flex модели) №3">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 109(Простые одноколоночные макеты сайтов) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый стиль.css" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый стиль.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced.js" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,14 +46,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/user/WebstormProjects/uchebny.project",
+    "last_opened_file_path": "C:/Users/user/WebstormProjects/erp-front",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.typescriptcompiler",
+    "settings.editor.selected.configurable": "preferences.sourceCode.JavaScript",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   },
@@ -302,14 +302,10 @@
       <workItem from="1690443993539" duration="599000" />
       <workItem from="1690532204707" duration="60000" />
       <workItem from="1690532266798" duration="794000" />
-      <workItem from="1690570412780" duration="744000" />
-    </task>
-    <task id="LOCAL-00638" summary=" урок 83(Центрирование через абсолют на CSS) №2">
-      <created>1689579948198</created>
-      <option name="number" value="00638" />
-      <option name="presentableId" value="LOCAL-00638" />
-      <option name="project" value="LOCAL" />
-      <updated>1689579948198</updated>
+      <workItem from="1690570412780" duration="798000" />
+      <workItem from="1690793726598" duration="13000" />
+      <workItem from="1690822538794" duration="1460000" />
+      <workItem from="1690826219651" duration="503000" />
     </task>
     <task id="LOCAL-00639" summary=" урок 84(Отрицательные значения при позиционировании) №1">
       <created>1689665867204</created>
@@ -647,7 +643,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690275304727</updated>
     </task>
-    <option name="localTasksCounter" value="687" />
+    <task id="LOCAL-00687" summary="урок 109(Простые одноколоночные макеты сайтов) №1">
+      <created>1690571210015</created>
+      <option name="number" value="00687" />
+      <option name="presentableId" value="LOCAL-00687" />
+      <option name="project" value="LOCAL" />
+      <updated>1690571210016</updated>
+    </task>
+    <option name="localTasksCounter" value="688" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -682,7 +685,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 102(Выравнивание флекс элементов по главной оси) №3" />
     <MESSAGE value=" урок 102(Выравнивание флекс элементов по главной оси) №4" />
     <MESSAGE value=" урок 102(Выравнивание флекс элементов по главной оси) №5" />
     <MESSAGE value=" урок 102(Выравнивание флекс элементов по главной оси) №6" />
@@ -707,6 +709,7 @@
     <MESSAGE value="урок 106(Выравнивание отдельного элемента в flex модели) №1" />
     <MESSAGE value="урок 106(Выравнивание отдельного элемента в flex модели) №2" />
     <MESSAGE value="урок 106(Выравнивание отдельного элемента в flex модели) №3" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 106(Выравнивание отдельного элемента в flex модели) №3" />
+    <MESSAGE value="урок 109(Простые одноколоночные макеты сайтов) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 109(Простые одноколоночные макеты сайтов) №1" />
   </component>
 </project>

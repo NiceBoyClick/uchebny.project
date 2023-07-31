@@ -1,12 +1,11 @@
 'use Strict';
-
-let num = 10;
-
-nextPrime:
-    for (let i = 2; i <= num; i++) {
-
-        for (let j = 2; j < i; j++) {
-            if (i % j === 0) continue nextPrime;
-        }
-        console.log(i);
-    }
+if (browser === 'Edge') {
+    alert("You've got the Edge!");
+} else if (browser === 'Chrome'
+    || browser === 'Firefox'
+    || browser === 'Safari'
+    || browser === 'Opera') {
+    alert( 'Okay we support these browsers too' );
+} else {
+    alert( 'We hope that this page looks ok!' );
+}
