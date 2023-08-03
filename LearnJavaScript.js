@@ -1,5 +1,9 @@
 'use Strict';
 
-function checkAge(age) {
-   return (age > 18) ? true : confirm('Родители разрешили?');
+function min(a,b) {
+return  a < b ? a : b;
 }
+
+let res = min(1, 1);
+
+console.log(res);
