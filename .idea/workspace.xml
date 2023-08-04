@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Функции) №3">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Функции) №5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LearnJavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJavaScript.js" afterDir="false" />
     </list>
@@ -307,14 +307,8 @@
       <workItem from="1690826219651" duration="767000" />
       <workItem from="1690874645177" duration="1853000" />
       <workItem from="1690962192753" duration="2303000" />
-      <workItem from="1691076062643" duration="2021000" />
-    </task>
-    <task id="LOCAL-00643" summary=" урок 86(Наложение элементов по оси Z) №3">
-      <created>1689752644223</created>
-      <option name="number" value="00643" />
-      <option name="presentableId" value="LOCAL-00643" />
-      <option name="project" value="LOCAL" />
-      <updated>1689752644223</updated>
+      <workItem from="1691076062643" duration="2848000" />
+      <workItem from="1691135494252" duration="693000" />
     </task>
     <task id="LOCAL-00644" summary=" урок 87(Введение в свойство float) №1">
       <created>1689753161760</created>
@@ -652,7 +646,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691078072392</updated>
     </task>
-    <option name="localTasksCounter" value="692" />
+    <task id="LOCAL-00692" summary="learn javaScript(Функции) №5">
+      <created>1691078759431</created>
+      <option name="number" value="00692" />
+      <option name="presentableId" value="LOCAL-00692" />
+      <option name="project" value="LOCAL" />
+      <updated>1691078759431</updated>
+    </task>
+    <option name="localTasksCounter" value="693" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -687,7 +688,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" урок 103(Значение center свойства align-items) №1" />
     <MESSAGE value=" урок 103(Значение center свойства align-items) №2" />
     <MESSAGE value="урок 103(Значение center свойства align-items) №3" />
     <MESSAGE value="урок 103(Значение center свойства align-items) №4" />
@@ -712,6 +712,7 @@
     <MESSAGE value="learn javaScript(Конструкция &quot;switch&quot;) №2" />
     <MESSAGE value="learn javaScript(Функции) №2" />
     <MESSAGE value="learn javaScript(Функции) №3" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn javaScript(Функции) №3" />
+    <MESSAGE value="learn javaScript(Функции) №5" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn javaScript(Функции) №5" />
   </component>
 </project>
