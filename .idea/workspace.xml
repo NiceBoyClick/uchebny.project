@@ -4,6 +4,7 @@
     <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="learn javaScript(Функции) №5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LearnJavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJavaScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -309,6 +310,7 @@
       <workItem from="1690962192753" duration="2303000" />
       <workItem from="1691076062643" duration="2848000" />
       <workItem from="1691135494252" duration="693000" />
+      <workItem from="1691392531391" duration="2847000" />
     </task>
     <task id="LOCAL-00644" summary=" урок 87(Введение в свойство float) №1">
       <created>1689753161760</created>

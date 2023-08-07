@@ -1,9 +1,7 @@
 'use Strict';
 
-let par = document.querySelector('p');
-let isRed = true;
+let num = prompt("Введите число", '');
 
-// setInterval(function() {
-//  par.classList.add('red')
-//  par.classList.toggle('green')
-//   }, 1000);
+(+num > 0) ?
+    alert("вы ввели положительное число") :
+    alert("вы ввели отрицательное число");
