@@ -1,7 +1,5 @@
 'use Strict';
 
-let num = prompt("Введите число", '');
+let str = prompt("Назовите слово", '');
 
-(+num > 0) ?
-    alert("вы ввели положительное число") :
-    alert("вы ввели отрицательное число");
+alert(str.length);
