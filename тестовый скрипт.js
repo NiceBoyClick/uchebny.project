@@ -1,5 +1,6 @@
 'use Strict';
 
-let str = prompt("Назовите слово", '');
+let str = "Кошка";
+let last = str[4];
 
-alert(str.length);
+console.log(last);
