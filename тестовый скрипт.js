@@ -1,6 +1,7 @@
 'use Strict';
 
-let str = "Кошка";
-let last = str[4];
+let num = 34;
 
-console.log(last);
+(num % 2 == 0) ?
+    console.log("чётное") :
+    console.log("нечётное");
