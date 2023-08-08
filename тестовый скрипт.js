@@ -1,7 +1,8 @@
 'use Strict';
 
-let num = 34;
+let first = "первое";
+let second = "полдник";
 
-(num % 2 == 0) ?
-    console.log("чётное") :
-    console.log("нечётное");
+(first[0] === second[0]) ?
+console.log("совпадают") :
+console.log("несовпадают");
