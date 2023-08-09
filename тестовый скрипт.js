@@ -1,11 +1,15 @@
 'use Strict';
 
-function showLastLetter(number) {
+function func(number) {
     let arr = number.split('');
+    let quantity = 0;
 
-    return (+arr[0] + +arr[arr.length - 1]);
+    for (let i = 0; i <= arr.length; i++) {
+        quantity = i;
+    }
+    return (quantity);
 }
 
-let result = showLastLetter("486");
+let result = func('4456');
 
-console.log(+result);
+console.log(result);
