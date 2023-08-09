@@ -3,9 +3,9 @@
 function showLastLetter(number) {
     let arr = number.split('');
 
-    return (arr[arr.length - 1]);
+    return (+arr[0] + +arr[arr.length - 1]);
 }
 
-let result = showLastLetter("48");
+let result = showLastLetter("486");
 
 console.log(+result);
