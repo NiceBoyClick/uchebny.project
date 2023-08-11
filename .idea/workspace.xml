@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="задачник(уровень1.2) №3">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="задачник(уровень1.2) №5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnJavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJavaScript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -313,13 +312,8 @@
       <workItem from="1691392531391" duration="3364000" />
       <workItem from="1691476465266" duration="5451000" />
       <workItem from="1691563603197" duration="2588000" />
-    </task>
-    <task id="LOCAL-00653" summary=" урок 99(Размещение флекс элементов в ряд или колонку) №4">
-      <created>1690186873803</created>
-      <option name="number" value="00653" />
-      <option name="presentableId" value="LOCAL-00653" />
-      <option name="project" value="LOCAL" />
-      <updated>1690186873803</updated>
+      <workItem from="1691740500484" duration="26000" />
+      <workItem from="1691771290653" duration="303000" />
     </task>
     <task id="LOCAL-00654" summary=" урок 101(Размещение флекс элементов в ряд или колонку) №1">
       <created>1690187639341</created>
@@ -657,7 +651,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691569023215</updated>
     </task>
-    <option name="localTasksCounter" value="702" />
+    <task id="LOCAL-00702" summary="задачник(уровень1.2) №5">
+      <created>1691691780344</created>
+      <option name="number" value="00702" />
+      <option name="presentableId" value="LOCAL-00702" />
+      <option name="project" value="LOCAL" />
+      <updated>1691691780345</updated>
+    </task>
+    <option name="localTasksCounter" value="703" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -692,7 +693,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="урок 105(Практика на выравнивание по осям) №2" />
     <MESSAGE value="урок 105(Практика на выравнивание по осям) №3" />
     <MESSAGE value="урок 105(Практика на выравнивание по осям) №4" />
     <MESSAGE value="урок 105(Практика на выравнивание по осям) №5" />
@@ -717,6 +717,7 @@
     <MESSAGE value="задачник(уровень1.1) №6" />
     <MESSAGE value="задачник(уровень1.2) №2" />
     <MESSAGE value="задачник(уровень1.2) №3" />
-    <option name="LAST_COMMIT_MESSAGE" value="задачник(уровень1.2) №3" />
+    <MESSAGE value="задачник(уровень1.2) №5" />
+    <option name="LAST_COMMIT_MESSAGE" value="задачник(уровень1.2) №5" />
   </component>
 </project>
