@@ -1,12 +1,11 @@
 'use Strict';
 
-function func(str) {
-    let arr = str.split('');
-    if (arr.length > 1) {
-        return arr[arr.length - 2];
+function func(num1, num2) {
+    if (num1 % num2 === 0) {
+        return 'делится без остатка';
     };
-    return 'строка из одного символа';
+    return 'делится с остатком';
 }
 
-let result = func('hello');
-console.log(result);
+console.log(func(40, 20));
+
