@@ -1,7 +1,7 @@
-'use Strict';
-
-let user = {};
-user.name = "John";
-user.surname = "Smith";
-user.name = "Pete";
-delete user.name;
+// 'use Strict';
+//
+// let user = {};
+// user.name = "John";
+// user.surname = "Smith";
+// user.name = "Pete";
+// delete user.name;
