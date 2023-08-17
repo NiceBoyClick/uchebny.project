@@ -1,9 +1,11 @@
 'use Strict';
 
-function func(num1, num2) {
-    let res = num1 % num2;
-   return res;
+function func(str) {
+   let arr = str.split('').reverse();
+    for (let elem of arr) {
+        console.log(elem);
+    }
 }
 
-console.log(func(32, 3));
+func('stroke');
 
