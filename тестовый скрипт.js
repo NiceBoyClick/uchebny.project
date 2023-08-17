@@ -1,11 +1,11 @@
 'use Strict';
 
-let array = [22, 33, 44, 55, -66, -77, -88];
+let array = [2, 33, 4, 55, -66, 7, -88];
 
 function func(arr) {
     let sum = 0;
     for (let elem of arr) {
-        if (elem > 0) {
+        if (elem > 0 && elem < 10) {
             sum += elem;
         }
     }
