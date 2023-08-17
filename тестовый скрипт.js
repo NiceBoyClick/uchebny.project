@@ -1,15 +1,9 @@
 'use Strict';
 
-function func() {
-    let sum = 0;
-    for (let i = 1; i <= 100; i++) {
-        if(i % 2 !== 0) {
-            sum += i;
-        }
-        continue;
-    }
-    return sum;
+function func(num1, num2) {
+    let res = num1 % num2;
+   return res;
 }
 
-console.log(func());
+console.log(func(32, 3));
 
