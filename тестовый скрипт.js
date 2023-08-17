@@ -1,11 +1,17 @@
 'use Strict';
 
-function func(str) {
-   let arr = str.split('').reverse();
+let array = [2, 3, 4, 5, 6, 7, 8];
+
+function func(arr) {
+    let sum = 0;
+    let square = 0;
     for (let elem of arr) {
-        console.log(elem);
+        square = elem * elem;
+        sum += square;
     }
+    return sum;
 }
 
-func('stroke');
+
+console.log(func(array));
 
