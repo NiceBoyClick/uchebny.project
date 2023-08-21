@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="задачник(уровень1.6) №3">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="задачник(уровень1.6) №4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LearnJavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJavaScript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -319,14 +319,8 @@
       <workItem from="1692087098403" duration="3718000" />
       <workItem from="1692194422819" duration="3397000" />
       <workItem from="1692263084382" duration="9000" />
-      <workItem from="1692265078424" duration="1770000" />
-    </task>
-    <task id="LOCAL-00672" summary="урок 104(Значение stretch свойства align-items) №1">
-      <created>1690272312376</created>
-      <option name="number" value="00672" />
-      <option name="presentableId" value="LOCAL-00672" />
-      <option name="project" value="LOCAL" />
-      <updated>1690272312376</updated>
+      <workItem from="1692265078424" duration="2394000" />
+      <workItem from="1692613499590" duration="597000" />
     </task>
     <task id="LOCAL-00673" summary="урок 104(Значение stretch свойства align-items) №2">
       <created>1690272385031</created>
@@ -664,7 +658,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692266805760</updated>
     </task>
-    <option name="localTasksCounter" value="721" />
+    <task id="LOCAL-00721" summary="задачник(уровень1.6) №4">
+      <created>1692266880956</created>
+      <option name="number" value="00721" />
+      <option name="presentableId" value="LOCAL-00721" />
+      <option name="project" value="LOCAL" />
+      <updated>1692266880956</updated>
+    </task>
+    <option name="localTasksCounter" value="722" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -699,7 +700,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="задачник(уровень1.1) №3" />
     <MESSAGE value="задачник(уровень1.1) №4" />
     <MESSAGE value="задачник(уровень1.1) №5" />
     <MESSAGE value="задачник(уровень1.1) №6" />
@@ -724,6 +724,7 @@
     <MESSAGE value="задачник(уровень1.6) №1" />
     <MESSAGE value="задачник(уровень1.6) №2" />
     <MESSAGE value="задачник(уровень1.6) №3" />
-    <option name="LAST_COMMIT_MESSAGE" value="задачник(уровень1.6) №3" />
+    <MESSAGE value="задачник(уровень1.6) №4" />
+    <option name="LAST_COMMIT_MESSAGE" value="задачник(уровень1.6) №4" />
   </component>
 </project>
