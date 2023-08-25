@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="задачник(уровень1.8) №1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LearnJavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJavaScript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый скрипт.js" afterDir="false" />
     </list>
@@ -322,14 +323,7 @@
       <workItem from="1692265078424" duration="2394000" />
       <workItem from="1692613499590" duration="1264000" />
       <workItem from="1692788525546" duration="1372000" />
-      <workItem from="1692973203720" duration="318000" />
-    </task>
-    <task id="LOCAL-00678" summary="урок 105(Практика на выравнивание по осям) №4">
-      <created>1690272934442</created>
-      <option name="number" value="00678" />
-      <option name="presentableId" value="LOCAL-00678" />
-      <option name="project" value="LOCAL" />
-      <updated>1690272934442</updated>
+      <workItem from="1692973203720" duration="998000" />
     </task>
     <task id="LOCAL-00679" summary="урок 105(Практика на выравнивание по осям) №5">
       <created>1690272961560</created>
@@ -667,7 +661,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692973463718</updated>
     </task>
-    <option name="localTasksCounter" value="727" />
+    <task id="LOCAL-00727" summary="задачник(уровень1.8) №1">
+      <created>1692973548109</created>
+      <option name="number" value="00727" />
+      <option name="presentableId" value="LOCAL-00727" />
+      <option name="project" value="LOCAL" />
+      <updated>1692973548109</updated>
+    </task>
+    <option name="localTasksCounter" value="728" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

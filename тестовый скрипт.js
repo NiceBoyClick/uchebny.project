@@ -1,11 +1,15 @@
 'use Strict';
 
-let arr = [];
+let arr = [1.456, 2.125, 3.32, 4.1, 5.34];
 
-for (let i = 1; i <= 100; i++) {
-    if(i % 2 === 0) {
-    arr.push(i);
+function func() {
+    let arr2 = [];
+    for (let elem of arr) {
+        elem = elem.toFixed(1);
+        arr2.push(elem);
     }
+    return arr2;
 }
-console.log(arr);
+
+console.log(func(arr));
 
