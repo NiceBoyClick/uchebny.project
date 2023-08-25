@@ -1,17 +1,9 @@
 'use Strict';
 
-let num = 12345;
-let str = String(num);
+let arr = [];
 
-function func() {
-    let sum = 0;
-    let arr = str.split('');
-    for (let elem of arr){
-        sum += +elem;
-    }
-    return sum;
+for (let i = 1; i <= 10; i++) {
+    arr.push(i);
 }
-
-console.log(func());
-
+console.log(arr);
 
