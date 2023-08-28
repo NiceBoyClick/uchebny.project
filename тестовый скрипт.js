@@ -1,15 +1,16 @@
 'use Strict';
 
-let arr = [1.456, 2.125, 3.32, 4.1, 5.34];
+let arr = [
+    'dfgdf',
+    'http://return',
+   'dfgfdg',
+    'http://false',
+    'sogfjhf',
+];
 
-function func() {
-    let arr2 = [];
-    for (let elem of arr) {
-        elem = elem.toFixed(1);
-        arr2.push(elem);
-    }
-    return arr2;
-}
+const httpUrls = arr.filter(function(url) {
+    return url.startsWith("http://");
+});
 
-console.log(func(arr));
+console.log(httpUrls);
 
