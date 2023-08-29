@@ -1,15 +1,15 @@
 'use Strict';
 
 let arr = [
-    'dfgdf',
+    'dfgdf.html',
     'http://return',
-   'dfgfdg',
+    'dfgfdg.html',
     'http://false',
-    'sogfjhf',
+    '.htmlsogfjhf',
 ];
 
-const httpUrls = arr.filter(function(url) {
-    return url.startsWith("http://");
+const httpUrls = arr.filter(function (url) {
+    return url.endsWith(".html");
 });
 
 console.log(httpUrls);
