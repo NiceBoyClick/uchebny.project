@@ -1,13 +1,16 @@
 'use Strict';
 
-let obj = {a: 1, b: 2, c: 3};
+let arr = [1, 3, 3];
 
 let sym = Symbol();
 
-obj[sym] = function () {
-    let date = new Date();
-    console.log(date.getHours() + ':' + date.getMinutes());
+arr[sym] = function () {
+    let sum = 0;
+    for (let elem of this) {
+      sum += elem;
+    }
+    return sum;
 };
 
-obj[sym]();
-console.log(obj);
+let sum = arr[sym]();
+console.log(sum);

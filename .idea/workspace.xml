@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 54(Перебор объекта с символами в JavaScript) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 55(Функция в объекте в JavaScript) №1">
       <change beforePath="$PROJECT_DIR$/Учебник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Учебник.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -328,14 +328,7 @@
       <workItem from="1693385493523" duration="17000" />
       <workItem from="1693814252967" duration="600000" />
       <workItem from="1693844419292" duration="1576000" />
-      <workItem from="1693903371627" duration="2117000" />
-    </task>
-    <task id="LOCAL-00687" summary="урок 109(Простые одноколоночные макеты сайтов) №1">
-      <created>1690571210015</created>
-      <option name="number" value="00687" />
-      <option name="presentableId" value="LOCAL-00687" />
-      <option name="project" value="LOCAL" />
-      <updated>1690571210016</updated>
+      <workItem from="1693903371627" duration="2497000" />
     </task>
     <task id="LOCAL-00688" summary="learn javaScript(Конструкция &quot;switch&quot;) №1">
       <created>1690826763825</created>
@@ -673,7 +666,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693908182161</updated>
     </task>
-    <option name="localTasksCounter" value="736" />
+    <task id="LOCAL-00736" summary="урок 55(Функция в объекте в JavaScript) №1">
+      <created>1693908732172</created>
+      <option name="number" value="00736" />
+      <option name="presentableId" value="LOCAL-00736" />
+      <option name="project" value="LOCAL" />
+      <updated>1693908732172</updated>
+    </task>
+    <option name="localTasksCounter" value="737" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -703,7 +703,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="задачник(уровень1.4) №5" />
     <MESSAGE value="задачник(уровень1.5) №1" />
     <MESSAGE value="задачник(уровень1.5) №2" />
     <MESSAGE value="learn.javascript(Объекты) #5" />
@@ -728,6 +727,7 @@
     <MESSAGE value="урок 53(Символы ключи объектов в JavaScript) №1" />
     <MESSAGE value="урок 53(Символы ключи объектов в JavaScript) №2" />
     <MESSAGE value="урок 54(Перебор объекта с символами в JavaScript) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 54(Перебор объекта с символами в JavaScript) №1" />
+    <MESSAGE value="урок 55(Функция в объекте в JavaScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 55(Функция в объекте в JavaScript) №1" />
   </component>
 </project>
