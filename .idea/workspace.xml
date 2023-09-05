@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="задачник(уровень1.10) №1">
-      <change afterPath="$PROJECT_DIR$/Задачник.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Учебник.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnJavaScript.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/учебник TypeScript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/учебник TypeScript.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый скрипт.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 54(Перебор объекта с символами в JavaScript) №1">
+      <change beforePath="$PROJECT_DIR$/Учебник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Учебник.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -335,28 +328,7 @@
       <workItem from="1693385493523" duration="17000" />
       <workItem from="1693814252967" duration="600000" />
       <workItem from="1693844419292" duration="1576000" />
-      <workItem from="1693903371627" duration="1578000" />
-    </task>
-    <task id="LOCAL-00684" summary="урок 106(Выравнивание отдельного элемента в flex модели) №1">
-      <created>1690274956708</created>
-      <option name="number" value="00684" />
-      <option name="presentableId" value="LOCAL-00684" />
-      <option name="project" value="LOCAL" />
-      <updated>1690274956708</updated>
-    </task>
-    <task id="LOCAL-00685" summary="урок 106(Выравнивание отдельного элемента в flex модели) №2">
-      <created>1690275080738</created>
-      <option name="number" value="00685" />
-      <option name="presentableId" value="LOCAL-00685" />
-      <option name="project" value="LOCAL" />
-      <updated>1690275080738</updated>
-    </task>
-    <task id="LOCAL-00686" summary="урок 106(Выравнивание отдельного элемента в flex модели) №3">
-      <created>1690275304727</created>
-      <option name="number" value="00686" />
-      <option name="presentableId" value="LOCAL-00686" />
-      <option name="project" value="LOCAL" />
-      <updated>1690275304727</updated>
+      <workItem from="1693903371627" duration="2117000" />
     </task>
     <task id="LOCAL-00687" summary="урок 109(Простые одноколоночные макеты сайтов) №1">
       <created>1690571210015</created>
@@ -680,7 +652,28 @@
       <option name="project" value="LOCAL" />
       <updated>1693845999031</updated>
     </task>
-    <option name="localTasksCounter" value="733" />
+    <task id="LOCAL-00733" summary="урок 53(Символы ключи объектов в JavaScript) №1">
+      <created>1693908012002</created>
+      <option name="number" value="00733" />
+      <option name="presentableId" value="LOCAL-00733" />
+      <option name="project" value="LOCAL" />
+      <updated>1693908012002</updated>
+    </task>
+    <task id="LOCAL-00734" summary="урок 53(Символы ключи объектов в JavaScript) №2">
+      <created>1693908053618</created>
+      <option name="number" value="00734" />
+      <option name="presentableId" value="LOCAL-00734" />
+      <option name="project" value="LOCAL" />
+      <updated>1693908053618</updated>
+    </task>
+    <task id="LOCAL-00735" summary="урок 54(Перебор объекта с символами в JavaScript) №1">
+      <created>1693908182161</created>
+      <option name="number" value="00735" />
+      <option name="presentableId" value="LOCAL-00735" />
+      <option name="project" value="LOCAL" />
+      <updated>1693908182161</updated>
+    </task>
+    <option name="localTasksCounter" value="736" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -710,9 +703,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="learn.javascript(Объекты) #1" />
-    <MESSAGE value="задачник(уровень1.4) №3" />
-    <MESSAGE value="задачник(уровень1.4) №4" />
     <MESSAGE value="задачник(уровень1.4) №5" />
     <MESSAGE value="задачник(уровень1.5) №1" />
     <MESSAGE value="задачник(уровень1.5) №2" />
@@ -735,6 +725,9 @@
     <MESSAGE value="задачник(уровень1.9) №2" />
     <MESSAGE value="задачник(уровень1.9) №3" />
     <MESSAGE value="задачник(уровень1.10) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="задачник(уровень1.10) №1" />
+    <MESSAGE value="урок 53(Символы ключи объектов в JavaScript) №1" />
+    <MESSAGE value="урок 53(Символы ключи объектов в JavaScript) №2" />
+    <MESSAGE value="урок 54(Перебор объекта с символами в JavaScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 54(Перебор объекта с символами в JavaScript) №1" />
   </component>
 </project>
