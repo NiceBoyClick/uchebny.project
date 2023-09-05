@@ -12,5 +12,7 @@ arr[sym] = function () {
     return sum;
 };
 
+arr.push(4, 4);
+
 let sum = arr[sym]();
 console.log(sum);
