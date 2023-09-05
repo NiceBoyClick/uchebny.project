@@ -1,18 +1,20 @@
 'use Strict';
 
-let arr = [1, 3, 3];
+let obj1 = {key1: 1, key2: 1, key3: 1};
+let obj2 = {key1: 5, key2: 5, key3: 5};
 
-let sym = Symbol();
+let sym = Symbol.for('sum');
 
-arr[sym] = function () {
+function calculateSum() {
     let sum = 0;
-    for (let elem of this) {
-      sum += elem;
+    for (let key in this) {
+        sum += this[key];
     }
     return sum;
-};
+}
 
-arr.push(4, 4);
+obj1[sym] = calculateSum;
+obj2[sym] = calculateSum;
 
-let sum = arr[sym]();
-console.log(sum);
+console.log(obj1[sym]());
+console.log(obj2[sym]());
