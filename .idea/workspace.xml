@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 56(Операции с объектами в функции в JavaScript) №3">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 57(Глобальные символы в JavaScript) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Задачник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Задачник.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Учебник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Учебник.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/WebstormProjects/uchebny.project&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/WebstormProjects/erp-front&quot;,
     &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
@@ -329,14 +330,11 @@
       <workItem from="1693385493523" duration="17000" />
       <workItem from="1693814252967" duration="600000" />
       <workItem from="1693844419292" duration="1576000" />
-      <workItem from="1693903371627" duration="4954000" />
-    </task>
-    <task id="LOCAL-00690" summary="learn javaScript(Функции) №2">
-      <created>1691077599754</created>
-      <option name="number" value="00690" />
-      <option name="presentableId" value="LOCAL-00690" />
-      <option name="project" value="LOCAL" />
-      <updated>1691077599755</updated>
+      <workItem from="1693903371627" duration="5209000" />
+      <workItem from="1694006740543" duration="595000" />
+      <workItem from="1694070872354" duration="1167000" />
+      <workItem from="1694156424039" duration="608000" />
+      <workItem from="1694160207611" duration="636000" />
     </task>
     <task id="LOCAL-00691" summary="learn javaScript(Функции) №3">
       <created>1691078072391</created>
@@ -674,7 +672,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693909195376</updated>
     </task>
-    <option name="localTasksCounter" value="739" />
+    <task id="LOCAL-00739" summary="урок 57(Глобальные символы в JavaScript) №1">
+      <created>1693911499935</created>
+      <option name="number" value="00739" />
+      <option name="presentableId" value="LOCAL-00739" />
+      <option name="project" value="LOCAL" />
+      <updated>1693911499935</updated>
+    </task>
+    <option name="localTasksCounter" value="740" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -704,7 +709,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="learn.javascript(Объекты) #5" />
     <MESSAGE value="learn.javascript(Объекты) #6" />
     <MESSAGE value="задачник(уровень1.5) №3" />
     <MESSAGE value="задачник(уровень1.5) №4" />
@@ -729,6 +733,7 @@
     <MESSAGE value="урок 55(Функция в объекте в JavaScript) №1" />
     <MESSAGE value="урок 56(Операции с объектами в функции в JavaScript) №1" />
     <MESSAGE value="урок 56(Операции с объектами в функции в JavaScript) №3" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 56(Операции с объектами в функции в JavaScript) №3" />
+    <MESSAGE value="урок 57(Глобальные символы в JavaScript) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 57(Глобальные символы в JavaScript) №1" />
   </component>
 </project>
