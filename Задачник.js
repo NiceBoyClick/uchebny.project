@@ -1,9 +1,6 @@
 'use Strict';
 
-let arr = [1, 2, 3, 4, 5, 6];
-let sub = arr.slice(0, 2);
-let sub2 = arr.slice(2, 4);
-let sub3 = arr.slice(4, 6);
-console.log(sub);
-console.log(sub2);
-console.log(sub3);
+let arr1 = [1, 2, 3];
+let arr2 = [4, 5, 6];
+let res = arr1.concat(arr2);
+console.log(res);
