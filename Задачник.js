@@ -1,6 +1,9 @@
 'use Strict';
 
-let arr1 = [1, 2, 3];
-let arr2 = [4, 5, 6];
-let res = arr1.concat(arr2);
+let str = '456750456470';
+
+let arr = str.split('');
+let res = arr.indexOf('0');
 console.log(res);
+
+
