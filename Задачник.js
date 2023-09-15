@@ -1,10 +1,15 @@
 'use Strict';
 
-for (let i = 1; i < 1000; i++) {
-    let arr = String(i).split('');
-    if (+arr[0] + +arr[1] == 5) {
-        console.log(i)
-    }
-}
+let arr = [1, 2, 3, 1, 2, 3];
+
+let overArr = arr.filter(function (elem){
+   if (elem !== 2) {
+      return true;
+   } else {
+      return false;
+   }
+})
+
+console.log(overArr);
 
 
