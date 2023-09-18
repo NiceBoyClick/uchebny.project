@@ -1,15 +1,10 @@
 'use Strict';
 
-let arr = [1, 2, 3, 1, 2, 3];
+let arr = [1, 2, 3, 4, 5, 6];
+let res = arr[0] + arr[1] + arr[2];
+console.log(res);
 
-let overArr = arr.filter(function (elem){
-   if (elem !== 2) {
-      return true;
-   } else {
-      return false;
-   }
-})
 
-console.log(overArr);
+
 
 
