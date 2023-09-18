@@ -1,17 +1,15 @@
 'use Strict';
 
 let arr = [1, -2, 3, -4, 5, -6];
-
-function func() {
-   let res = 0;
-   for (let elem of arr) {
-      if (elem < 0) {
-         res++
-      }
+let good = arr.filter(function (elem){
+   if (elem >= 0) {
+      return true;
+   } else {
+      return false;
    }
-   return res;
-}
-console.log(func(arr));
+});
+
+console.log(good);
 
 
 
