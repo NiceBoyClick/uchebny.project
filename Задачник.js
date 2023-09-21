@@ -1,15 +1,15 @@
 'use Strict';
 
-let arr = [1, -2, 3, -4, 5, -6];
-let good = arr.filter(function (elem){
-   if (elem >= 0) {
-      return true;
-   } else {
-      return false;
-   }
-});
+let str = 'stringg';
+let arr = str.split('')
+let res = arr.splice(5, 1);
+console.log(arr.join(''));
 
-console.log(good);
+
+
+
+
+
 
 
 
