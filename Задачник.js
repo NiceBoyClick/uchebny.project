@@ -1,14 +1,20 @@
 'use Strict';
 
-let word1 = "слово";
-let word2 = "олово";
+let str = "01230506780";
+let position = -1;
+let count = 0;
 
-let res1 = word1.charAt(4);
-let res2 = word2.charAt(0);
+for (let i = 0; i < str.length; i++) {
+    if (str[i] === '0') {
+        count++;
+        if (count === 3) {
+            position = i;
+            break;
+        }
+    }
+}
 
-(res1 === res2) ? console.log('равны') : console.log('неравны');
-
-
+console.log(position);
 
 
 
