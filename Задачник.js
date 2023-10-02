@@ -1,14 +1,14 @@
 'use Strict';
 
-let num = '12,34,56';
+let date = '2025-12-31';
 
-function getSum(num) {
-    let arr = num.split(',');
-    let sum = 0;
-    for (let elem of arr) {
-        sum += +elem;
-    }
-    return sum;
+function objDate() {
+    let obj = {};
+    let arrDate = date.split('-');
+    obj.year = arrDate[0];
+    obj.month = arrDate[1];
+    obj.day = arrDate[2];
+    return obj;
 }
 
-console.log(getSum(num));
+console.log(objDate(date));

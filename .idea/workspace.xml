@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 57(Глобальные символы в JavaScript) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="Задачник(уровень 2.3) №3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Задачник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Задачник.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Учебник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Учебник.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -335,13 +334,6 @@
       <workItem from="1694070872354" duration="1167000" />
       <workItem from="1694156424039" duration="608000" />
       <workItem from="1694160207611" duration="636000" />
-    </task>
-    <task id="LOCAL-00691" summary="learn javaScript(Функции) №3">
-      <created>1691078072391</created>
-      <option name="number" value="00691" />
-      <option name="presentableId" value="LOCAL-00691" />
-      <option name="project" value="LOCAL" />
-      <updated>1691078072392</updated>
     </task>
     <task id="LOCAL-00692" summary="learn javaScript(Функции) №5">
       <created>1691078759431</created>
@@ -679,7 +671,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693911499935</updated>
     </task>
-    <option name="localTasksCounter" value="740" />
+    <task id="LOCAL-00740" summary="Задачник(уровень 2.3) №3">
+      <created>1696231510923</created>
+      <option name="number" value="00740" />
+      <option name="presentableId" value="LOCAL-00740" />
+      <option name="project" value="LOCAL" />
+      <updated>1696231510923</updated>
+    </task>
+    <option name="localTasksCounter" value="741" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -709,7 +708,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="learn.javascript(Объекты) #6" />
     <MESSAGE value="задачник(уровень1.5) №3" />
     <MESSAGE value="задачник(уровень1.5) №4" />
     <MESSAGE value="задачник(уровень1.5) №5" />
@@ -734,6 +732,7 @@
     <MESSAGE value="урок 56(Операции с объектами в функции в JavaScript) №1" />
     <MESSAGE value="урок 56(Операции с объектами в функции в JavaScript) №3" />
     <MESSAGE value="урок 57(Глобальные символы в JavaScript) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 57(Глобальные символы в JavaScript) №1" />
+    <MESSAGE value="Задачник(уровень 2.3) №3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задачник(уровень 2.3) №3" />
   </component>
 </project>
