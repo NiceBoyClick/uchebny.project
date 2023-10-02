@@ -1,25 +1,14 @@
 'use Strict';
 
-let str = "01230506780";
-let position = -1;
-let count = 0;
+let num = '12,34,56';
 
-for (let i = 0; i < str.length; i++) {
-    if (str[i] === '0') {
-        count++;
-        if (count === 3) {
-            position = i;
-            break;
-        }
+function getSum(num) {
+    let arr = num.split(',');
+    let sum = 0;
+    for (let elem of arr) {
+        sum += +elem;
     }
+    return sum;
 }
 
-console.log(position);
-
-
-
-
-
-
-
-
+console.log(getSum(num));
