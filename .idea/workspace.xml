@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 32(Коллекции Map в JavaScript) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 32(Коллекции Map в JavaScript) №2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Учебник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Учебник.js" afterDir="false" />
     </list>
@@ -339,14 +339,7 @@
       <workItem from="1694070872354" duration="1167000" />
       <workItem from="1694156424039" duration="608000" />
       <workItem from="1694160207611" duration="636000" />
-      <workItem from="1696324877910" duration="1723000" />
-    </task>
-    <task id="LOCAL-00694" summary="задачник(уровень1.1) №2">
-      <created>1691398574556</created>
-      <option name="number" value="00694" />
-      <option name="presentableId" value="LOCAL-00694" />
-      <option name="project" value="LOCAL" />
-      <updated>1691398574556</updated>
+      <workItem from="1696324877910" duration="2360000" />
     </task>
     <task id="LOCAL-00695" summary="LearnJavascript(Советы по стилю кода) №1">
       <created>1691478333221</created>
@@ -684,7 +677,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696326293955</updated>
     </task>
-    <option name="localTasksCounter" value="743" />
+    <task id="LOCAL-00743" summary="урок 32(Коллекции Map в JavaScript) №2">
+      <created>1696326644935</created>
+      <option name="number" value="00743" />
+      <option name="presentableId" value="LOCAL-00743" />
+      <option name="project" value="LOCAL" />
+      <updated>1696326644935</updated>
+    </task>
+    <option name="localTasksCounter" value="744" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -714,7 +714,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="задачник(уровень1.5) №5" />
     <MESSAGE value="задачник(уровень1.6) №1" />
     <MESSAGE value="задачник(уровень1.6) №2" />
     <MESSAGE value="задачник(уровень1.6) №3" />
@@ -739,6 +738,7 @@
     <MESSAGE value="Задачник(уровень 2.3) №3" />
     <MESSAGE value="Задачник(уровень 2.3) №4" />
     <MESSAGE value="урок 32(Коллекции Map в JavaScript) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 32(Коллекции Map в JavaScript) №1" />
+    <MESSAGE value="урок 32(Коллекции Map в JavaScript) №2" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 32(Коллекции Map в JavaScript) №2" />
   </component>
 </project>
