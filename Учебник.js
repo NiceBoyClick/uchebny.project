@@ -1,7 +1,6 @@
 'use Strict';
 
 let map = new Map;
-let keys = map.keys();
 
 let arr1 = ['string1'];
 let arr2 = ['string2'];
@@ -15,6 +14,9 @@ map.set(key1, arr1);
 map.set(key2, arr2);
 map.set(key3, arr3);
 
-for (keys of map) {
-    console.log(keys);
+let values = map.values();
+
+
+for (let elem of values) {
+    console.log(elem);
 }
