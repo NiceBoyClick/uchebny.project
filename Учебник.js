@@ -1,22 +1,17 @@
 'use Strict';
 
-let map = new Map;
+document.addEventListener('DOMContentLoaded', function() {
+    let elems = document.querySelectorAll('input');
+    let map = new Map();
 
-let arr1 = ['string1'];
-let arr2 = ['string2'];
-let arr3 = ['string3'];
+    let i = 1;
+    for (let elem of elems) {
+        map.set(elem, i++);
+    }
 
-let key1 = {'key': 1};
-let key2 = {'key': 2};
-let key3 = {'key': 3};
-
-map.set(key1, arr1);
-map.set(key2, arr2);
-map.set(key3, arr3);
-
-let values = map.values();
-
-
-for (let elem of values) {
-    console.log(elem);
-}
+    for (let elem of elems) {
+        elem.addEventListener('click', function() {
+            this.value += map.get(this);
+        });
+    }
+});
