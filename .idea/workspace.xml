@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 35(Ключи и значения в коллекциях Map) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 36(Применение коллекций Map) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Задачник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Задачник.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Учебник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Учебник.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
@@ -342,14 +343,8 @@
       <workItem from="1694160207611" duration="636000" />
       <workItem from="1696324877910" duration="3159000" />
       <workItem from="1696406296801" duration="1679000" />
-      <workItem from="1696412275442" duration="732000" />
-    </task>
-    <task id="LOCAL-00697" summary="задачник(уровень1.1) №4">
-      <created>1691480861248</created>
-      <option name="number" value="00697" />
-      <option name="presentableId" value="LOCAL-00697" />
-      <option name="project" value="LOCAL" />
-      <updated>1691480861249</updated>
+      <workItem from="1696412275442" duration="4185000" />
+      <workItem from="1696507863413" duration="1907000" />
     </task>
     <task id="LOCAL-00698" summary="задачник(уровень1.1) №5">
       <created>1691481181984</created>
@@ -687,7 +682,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696327465829</updated>
     </task>
-    <option name="localTasksCounter" value="746" />
+    <task id="LOCAL-00746" summary="урок 36(Применение коллекций Map) №1">
+      <created>1696413269697</created>
+      <option name="number" value="00746" />
+      <option name="presentableId" value="LOCAL-00746" />
+      <option name="project" value="LOCAL" />
+      <updated>1696413269697</updated>
+    </task>
+    <option name="localTasksCounter" value="747" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -717,7 +719,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="задачник(уровень1.6) №3" />
     <MESSAGE value="задачник(уровень1.6) №4" />
     <MESSAGE value="задачник(уровень1.7) №1" />
     <MESSAGE value="задачник(уровень1.7) №2" />
@@ -742,6 +743,7 @@
     <MESSAGE value="урок 32(Коллекции Map в JavaScript) №2" />
     <MESSAGE value="урок 35(Ключи и значения в коллекциях Map) №1" />
     <MESSAGE value="урок 35(Ключи и значения в коллекциях Map) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 35(Ключи и значения в коллекциях Map) №2" />
+    <MESSAGE value="урок 36(Применение коллекций Map) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 36(Применение коллекций Map) №1" />
   </component>
 </project>
