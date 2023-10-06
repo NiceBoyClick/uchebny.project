@@ -1,17 +1,30 @@
-'use Strict';
+'use strict';
 
-document.addEventListener('DOMContentLoaded', function() {
-    let elems = document.querySelectorAll('input');
-    let map = new Map();
+let savedNumbers = new Map();
 
-    let i = 1;
-    for (let elem of elems) {
-        map.set(elem, i++);
+const inputs = document.querySelectorAll(".number-input");
+
+// Функция, вызываемая при нажатии Enter
+function handleEnter(event) {
+    if (event.key === "Enter") {
+        let value = parseFloat(event.target.value);
+        if (!isNaN(value)) {
+            if (!savedNumbers.has(event.target)) {
+                savedNumbers.set(event.target, []);
+            }
+            savedNumbers.get(event.target).push(value);
+            event.target.value = '';
+        }
     }
+}
 
-    for (let elem of elems) {
-        elem.addEventListener('click', function() {
-            this.value += map.get(this);
-        });
-    }
+// Функция, вызываемая при потере фокуса
+function handleBlur() {
+    console.log(savedNumbers);
+}
+
+inputs.forEach(input => {
+    input.addEventListener("keydown", handleEnter);
+    input.addEventListener("blur", handleBlur);
 });
+
