@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="Задачник(уровень 2.4) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="Задачник(уровень 2.4) №1"/>
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="Задачник(уровень 2.3) №2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задачник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Задачник.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Учебник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Учебник.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
@@ -51,10 +51,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/user/WebstormProjects/erp-front&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
@@ -383,6 +381,15 @@
       <option name="presentableId" value="LOCAL-00703" />
       <option name="project" value="LOCAL" />
       <updated>1691771730781</updated>
+      <workItem from="1694160207611" duration="1854000" />
+      <workItem from="1694590579108" duration="1580000" />
+      <workItem from="1694676864664" duration="1401000" />
+      <workItem from="1694771549571" duration="3294000" />
+      <workItem from="1694775480699" duration="20000" />
+      <workItem from="1695024126559" duration="3236000" />
+      <workItem from="1695290554908" duration="2428000" />
+      <workItem from="1695391365866" duration="2725000" />
+      <workItem from="1695629758296" duration="8000" />
     </task>
     <task id="LOCAL-00704" summary="задачник(уровень1.3) №2">
       <created>1691772053273</created>
@@ -693,6 +700,98 @@
       <updated>1696509904289</updated>
     </task>
     <option name="localTasksCounter" value="748" />
+    <task id="LOCAL-00740" summary="Задачник(уровень 1.10) №2">
+      <created>1694160852384</created>
+      <option name="number" value="00740" />
+      <option name="presentableId" value="LOCAL-00740" />
+      <option name="project" value="LOCAL" />
+      <updated>1694160852385</updated>
+    </task>
+    <task id="LOCAL-00741" summary="Задачник(уровень 1.10) №3">
+      <created>1694592111399</created>
+      <option name="number" value="00741" />
+      <option name="presentableId" value="LOCAL-00741" />
+      <option name="project" value="LOCAL" />
+      <updated>1694592111399</updated>
+    </task>
+    <task id="LOCAL-00742" summary="Задачник(уровень 1.10) №4">
+      <created>1694592233569</created>
+      <option name="number" value="00742" />
+      <option name="presentableId" value="LOCAL-00742" />
+      <option name="project" value="LOCAL" />
+      <updated>1694592233569</updated>
+    </task>
+    <task id="LOCAL-00743" summary="Задачник(уровень 2.1) №1">
+      <created>1694677314108</created>
+      <option name="number" value="00743" />
+      <option name="presentableId" value="LOCAL-00743" />
+      <option name="project" value="LOCAL" />
+      <updated>1694677314109</updated>
+    </task>
+    <task id="LOCAL-00744" summary="Задачник(уровень 2.1) №2">
+      <created>1694773591698</created>
+      <option name="number" value="00744" />
+      <option name="presentableId" value="LOCAL-00744" />
+      <option name="project" value="LOCAL" />
+      <updated>1694773591698</updated>
+    </task>
+    <task id="LOCAL-00745" summary="Задачник(уровень 2.1) №3">
+      <created>1694775451874</created>
+      <option name="number" value="00745" />
+      <option name="presentableId" value="LOCAL-00745" />
+      <option name="project" value="LOCAL" />
+      <updated>1694775451874</updated>
+    </task>
+    <task id="LOCAL-00746" summary="Задачник(уровень 2.1) №4">
+      <created>1695024913591</created>
+      <option name="number" value="00746" />
+      <option name="presentableId" value="LOCAL-00746" />
+      <option name="project" value="LOCAL" />
+      <updated>1695024913591</updated>
+    </task>
+    <task id="LOCAL-00747" summary="Задачник(уровень 2.2) №1">
+      <created>1695025110825</created>
+      <option name="number" value="00747" />
+      <option name="presentableId" value="LOCAL-00747" />
+      <option name="project" value="LOCAL" />
+      <updated>1695025110826</updated>
+    </task>
+    <task id="LOCAL-00748" summary="Задачник(уровень 2.2) №2">
+      <created>1695025301301</created>
+      <option name="number" value="00748" />
+      <option name="presentableId" value="LOCAL-00748" />
+      <option name="project" value="LOCAL" />
+      <updated>1695025301302</updated>
+    </task>
+    <task id="LOCAL-00749" summary="Задачник(уровень 2.2) №3">
+      <created>1695291405219</created>
+      <option name="number" value="00749" />
+      <option name="presentableId" value="LOCAL-00749" />
+      <option name="project" value="LOCAL" />
+      <updated>1695291405220</updated>
+    </task>
+    <task id="LOCAL-00750" summary="Задачник(уровень 2.2) №4">
+      <created>1695291642095</created>
+      <option name="number" value="00750" />
+      <option name="presentableId" value="LOCAL-00750" />
+      <option name="project" value="LOCAL" />
+      <updated>1695291642095</updated>
+    </task>
+    <task id="LOCAL-00751" summary="Задачник(уровень 2.3) №1">
+      <created>1695392551990</created>
+      <option name="number" value="00751" />
+      <option name="presentableId" value="LOCAL-00751" />
+      <option name="project" value="LOCAL" />
+      <updated>1695392551990</updated>
+    </task>
+    <task id="LOCAL-00752" summary="Задачник(уровень 2.3) №2">
+      <created>1695393513127</created>
+      <option name="number" value="00752" />
+      <option name="presentableId" value="LOCAL-00752" />
+      <option name="project" value="LOCAL" />
+      <updated>1695393513127</updated>
+    </task>
+    <option name="localTasksCounter" value="753" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -739,6 +838,20 @@
     <MESSAGE value="урок 56(Операции с объектами в функции в JavaScript) №1" />
     <MESSAGE value="урок 56(Операции с объектами в функции в JavaScript) №3" />
     <MESSAGE value="урок 57(Глобальные символы в JavaScript) №1" />
+    <MESSAGE value="Задачник(уровень 1.10) №2" />
+    <MESSAGE value="Задачник(уровень 1.10) №3" />
+    <MESSAGE value="Задачник(уровень 1.10) №4" />
+    <MESSAGE value="Задачник(уровень 2.1) №1" />
+    <MESSAGE value="Задачник(уровень 2.1) №2" />
+    <MESSAGE value="Задачник(уровень 2.1) №3" />
+    <MESSAGE value="Задачник(уровень 2.1) №4" />
+    <MESSAGE value="Задачник(уровень 2.2) №1" />
+    <MESSAGE value="Задачник(уровень 2.2) №2" />
+    <MESSAGE value="Задачник(уровень 2.2) №3" />
+    <MESSAGE value="Задачник(уровень 2.2) №4" />
+    <MESSAGE value="Задачник(уровень 2.3) №1" />
+    <MESSAGE value="Задачник(уровень 2.3) №2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задачник(уровень 2.3) №2" />
     <MESSAGE value="Задачник(уровень 2.3) №3" />
     <MESSAGE value="Задачник(уровень 2.3) №4" />
     <MESSAGE value="урок 32(Коллекции Map в JavaScript) №1" />
