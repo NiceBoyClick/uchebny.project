@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="Коллекции Set в JavaScript №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 39(Полезные возможности коллекций Set) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задачник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Задачник.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Учебник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Учебник.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -346,27 +345,6 @@
       <workItem from="1696578428123" duration="1390000" />
       <workItem from="1696583742669" duration="2318000" />
     </task>
-    <task id="LOCAL-00706" summary="задачник(уровень1.4) №2">
-      <created>1692003419236</created>
-      <option name="number" value="00706" />
-      <option name="presentableId" value="LOCAL-00706" />
-      <option name="project" value="LOCAL" />
-      <updated>1692003419236</updated>
-    </task>
-    <task id="LOCAL-00707" summary="learn.javascript(Объекты) #1">
-      <created>1692094683572</created>
-      <option name="number" value="00707" />
-      <option name="presentableId" value="LOCAL-00707" />
-      <option name="project" value="LOCAL" />
-      <updated>1692094683573</updated>
-    </task>
-    <task id="LOCAL-00708" summary="задачник(уровень1.4) №3">
-      <created>1692095107415</created>
-      <option name="number" value="00708" />
-      <option name="presentableId" value="LOCAL-00708" />
-      <option name="project" value="LOCAL" />
-      <updated>1692095107415</updated>
-    </task>
     <task id="LOCAL-00709" summary="задачник(уровень1.4) №4">
       <created>1692095348342</created>
       <option name="number" value="00709" />
@@ -689,7 +667,28 @@
       <option name="project" value="LOCAL" />
       <updated>1696832104151</updated>
     </task>
-    <option name="localTasksCounter" value="755" />
+    <task id="LOCAL-00755" summary="урок 38(Коллекции Set в JavaScript) №1">
+      <created>1696832342635</created>
+      <option name="number" value="00755" />
+      <option name="presentableId" value="LOCAL-00755" />
+      <option name="project" value="LOCAL" />
+      <updated>1696832342635</updated>
+    </task>
+    <task id="LOCAL-00756" summary="урок 38(Коллекции Set в JavaScript) №2">
+      <created>1696832409978</created>
+      <option name="number" value="00756" />
+      <option name="presentableId" value="LOCAL-00756" />
+      <option name="project" value="LOCAL" />
+      <updated>1696832409978</updated>
+    </task>
+    <task id="LOCAL-00757" summary="урок 39(Полезные возможности коллекций Set) №1">
+      <created>1696832570225</created>
+      <option name="number" value="00757" />
+      <option name="presentableId" value="LOCAL-00757" />
+      <option name="project" value="LOCAL" />
+      <updated>1696832570225</updated>
+    </task>
+    <option name="localTasksCounter" value="758" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -719,9 +718,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="задачник(уровень1.7) №3" />
-    <MESSAGE value="задачник(уровень1.7) №4" />
-    <MESSAGE value="задачник(уровень1.8) №1" />
     <MESSAGE value="задачник(уровень1.8) №3" />
     <MESSAGE value="задачник(уровень1.9) №1" />
     <MESSAGE value="задачник(уровень1.9) №2" />
@@ -756,6 +752,9 @@
     <MESSAGE value="урок 36(Применение коллекций Map) №1" />
     <MESSAGE value="Задачник(уровень 2.4) №1" />
     <MESSAGE value="Коллекции Set в JavaScript №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Коллекции Set в JavaScript №1" />
+    <MESSAGE value="урок 38(Коллекции Set в JavaScript) №1" />
+    <MESSAGE value="урок 38(Коллекции Set в JavaScript) №2" />
+    <MESSAGE value="урок 39(Полезные возможности коллекций Set) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 39(Полезные возможности коллекций Set) №1" />
   </component>
 </project>
