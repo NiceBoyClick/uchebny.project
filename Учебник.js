@@ -1,5 +1,9 @@
 'use strict';
 
-let arr = [3, 4, 9, 10];
-let set = new Set(arr);
-console.log(set);
+let arr = [3, 3, 9, 9, 4, 4];
+
+function func(arr) {
+    return [...new Set(arr)];
+}
+
+console.log(func(arr));

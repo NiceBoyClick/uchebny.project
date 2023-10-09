@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 40(Перебор коллекций Set циклом) №1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 41(Преобразование коллекций Set) №2">
       <change beforePath="$PROJECT_DIR$/Учебник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Учебник.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -345,20 +344,6 @@
       <workItem from="1696578428123" duration="1390000" />
       <workItem from="1696583742669" duration="2318000" />
     </task>
-    <task id="LOCAL-00711" summary="задачник(уровень1.5) №1">
-      <created>1692095769953</created>
-      <option name="number" value="00711" />
-      <option name="presentableId" value="LOCAL-00711" />
-      <option name="project" value="LOCAL" />
-      <updated>1692095769953</updated>
-    </task>
-    <task id="LOCAL-00712" summary="задачник(уровень1.5) №2">
-      <created>1692095892423</created>
-      <option name="number" value="00712" />
-      <option name="presentableId" value="LOCAL-00712" />
-      <option name="project" value="LOCAL" />
-      <updated>1692095892423</updated>
-    </task>
     <task id="LOCAL-00713" summary="learn.javascript(Объекты) #5">
       <created>1692195816969</created>
       <option name="number" value="00713" />
@@ -688,7 +673,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696832764146</updated>
     </task>
-    <option name="localTasksCounter" value="760" />
+    <task id="LOCAL-00760" summary="урок 41(Преобразование коллекций Set) №1">
+      <created>1696833153617</created>
+      <option name="number" value="00760" />
+      <option name="presentableId" value="LOCAL-00760" />
+      <option name="project" value="LOCAL" />
+      <updated>1696833153617</updated>
+    </task>
+    <task id="LOCAL-00761" summary="урок 41(Преобразование коллекций Set) №2">
+      <created>1696833278839</created>
+      <option name="number" value="00761" />
+      <option name="presentableId" value="LOCAL-00761" />
+      <option name="project" value="LOCAL" />
+      <updated>1696833278839</updated>
+    </task>
+    <option name="localTasksCounter" value="762" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -718,8 +717,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="задачник(уровень1.9) №2" />
-    <MESSAGE value="задачник(уровень1.9) №3" />
     <MESSAGE value="задачник(уровень1.10) №1" />
     <MESSAGE value="урок 53(Символы ключи объектов в JavaScript) №1" />
     <MESSAGE value="урок 53(Символы ключи объектов в JavaScript) №2" />
@@ -755,6 +752,8 @@
     <MESSAGE value="урок 39(Полезные возможности коллекций Set) №1" />
     <MESSAGE value="урок 39(Полезные возможности коллекций Set) №2" />
     <MESSAGE value="урок 40(Перебор коллекций Set циклом) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 40(Перебор коллекций Set циклом) №1" />
+    <MESSAGE value="урок 41(Преобразование коллекций Set) №1" />
+    <MESSAGE value="урок 41(Преобразование коллекций Set) №2" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 41(Преобразование коллекций Set) №2" />
   </component>
 </project>
