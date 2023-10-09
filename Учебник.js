@@ -1,10 +1,5 @@
 'use strict';
 
-let set = new Set;
-
-set.add(1);
-set.add(2);
-set.add(2);
-set.add(3);
-set.add(3);
+let arr = [1, 2, 3, 1, 3, 4];
+let set = new Set(arr);
 console.log(set);

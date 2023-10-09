@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="Задачник(уровень 2.4) №1"/>
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="Задачник(уровень 2.3) №2">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="Коллекции Set в JavaScript №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Задачник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Задачник.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Учебник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Учебник.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -347,64 +346,6 @@
       <workItem from="1696578428123" duration="1390000" />
       <workItem from="1696583742669" duration="2318000" />
     </task>
-    <task id="LOCAL-00699" summary="задачник(уровень1.1) №6">
-      <created>1691482221089</created>
-      <option name="number" value="00699" />
-      <option name="presentableId" value="LOCAL-00699" />
-      <option name="project" value="LOCAL" />
-      <updated>1691482221089</updated>
-    </task>
-    <task id="LOCAL-00700" summary="задачник(уровень1.2) №2">
-      <created>1691568892662</created>
-      <option name="number" value="00700" />
-      <option name="presentableId" value="LOCAL-00700" />
-      <option name="project" value="LOCAL" />
-      <updated>1691568892663</updated>
-    </task>
-    <task id="LOCAL-00701" summary="задачник(уровень1.2) №3">
-      <created>1691569023215</created>
-      <option name="number" value="00701" />
-      <option name="presentableId" value="LOCAL-00701" />
-      <option name="project" value="LOCAL" />
-      <updated>1691569023215</updated>
-    </task>
-    <task id="LOCAL-00702" summary="задачник(уровень1.2) №5">
-      <created>1691691780344</created>
-      <option name="number" value="00702" />
-      <option name="presentableId" value="LOCAL-00702" />
-      <option name="project" value="LOCAL" />
-      <updated>1691691780345</updated>
-    </task>
-    <task id="LOCAL-00703" summary="задачник(уровень1.3) №1">
-      <created>1691771730781</created>
-      <option name="number" value="00703" />
-      <option name="presentableId" value="LOCAL-00703" />
-      <option name="project" value="LOCAL" />
-      <updated>1691771730781</updated>
-      <workItem from="1694160207611" duration="1854000" />
-      <workItem from="1694590579108" duration="1580000" />
-      <workItem from="1694676864664" duration="1401000" />
-      <workItem from="1694771549571" duration="3294000" />
-      <workItem from="1694775480699" duration="20000" />
-      <workItem from="1695024126559" duration="3236000" />
-      <workItem from="1695290554908" duration="2428000" />
-      <workItem from="1695391365866" duration="2725000" />
-      <workItem from="1695629758296" duration="8000" />
-    </task>
-    <task id="LOCAL-00704" summary="задачник(уровень1.3) №2">
-      <created>1691772053273</created>
-      <option name="number" value="00704" />
-      <option name="presentableId" value="LOCAL-00704" />
-      <option name="project" value="LOCAL" />
-      <updated>1691772053273</updated>
-    </task>
-    <task id="LOCAL-00705" summary="задачник(уровень1.4) №1">
-      <created>1692003389326</created>
-      <option name="number" value="00705" />
-      <option name="presentableId" value="LOCAL-00705" />
-      <option name="project" value="LOCAL" />
-      <updated>1692003389326</updated>
-    </task>
     <task id="LOCAL-00706" summary="задачник(уровень1.4) №2">
       <created>1692003419236</created>
       <option name="number" value="00706" />
@@ -643,63 +584,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693911499935</updated>
     </task>
-    <task id="LOCAL-00740" summary="Задачник(уровень 2.3) №3">
-      <created>1696231510923</created>
-      <option name="number" value="00740" />
-      <option name="presentableId" value="LOCAL-00740" />
-      <option name="project" value="LOCAL" />
-      <updated>1696231510923</updated>
-    </task>
-    <task id="LOCAL-00741" summary="Задачник(уровень 2.3) №4">
-      <created>1696232519548</created>
-      <option name="number" value="00741" />
-      <option name="presentableId" value="LOCAL-00741" />
-      <option name="project" value="LOCAL" />
-      <updated>1696232519548</updated>
-    </task>
-    <task id="LOCAL-00742" summary="урок 32(Коллекции Map в JavaScript) №1">
-      <created>1696326293955</created>
-      <option name="number" value="00742" />
-      <option name="presentableId" value="LOCAL-00742" />
-      <option name="project" value="LOCAL" />
-      <updated>1696326293955</updated>
-    </task>
-    <task id="LOCAL-00743" summary="урок 32(Коллекции Map в JavaScript) №2">
-      <created>1696326644935</created>
-      <option name="number" value="00743" />
-      <option name="presentableId" value="LOCAL-00743" />
-      <option name="project" value="LOCAL" />
-      <updated>1696326644935</updated>
-    </task>
-    <task id="LOCAL-00744" summary="урок 35(Ключи и значения в коллекциях Map) №1">
-      <created>1696327282233</created>
-      <option name="number" value="00744" />
-      <option name="presentableId" value="LOCAL-00744" />
-      <option name="project" value="LOCAL" />
-      <updated>1696327282233</updated>
-    </task>
-    <task id="LOCAL-00745" summary="урок 35(Ключи и значения в коллекциях Map) №2">
-      <created>1696327465829</created>
-      <option name="number" value="00745" />
-      <option name="presentableId" value="LOCAL-00745" />
-      <option name="project" value="LOCAL" />
-      <updated>1696327465829</updated>
-    </task>
-    <task id="LOCAL-00746" summary="урок 36(Применение коллекций Map) №1">
-      <created>1696413269697</created>
-      <option name="number" value="00746" />
-      <option name="presentableId" value="LOCAL-00746" />
-      <option name="project" value="LOCAL" />
-      <updated>1696413269697</updated>
-    </task>
-    <task id="LOCAL-00747" summary="Задачник(уровень 2.4) №1">
-      <created>1696509904289</created>
-      <option name="number" value="00747" />
-      <option name="presentableId" value="LOCAL-00747" />
-      <option name="project" value="LOCAL" />
-      <updated>1696509904289</updated>
-    </task>
-    <option name="localTasksCounter" value="748" />
     <task id="LOCAL-00740" summary="Задачник(уровень 1.10) №2">
       <created>1694160852384</created>
       <option name="number" value="00740" />
@@ -791,7 +675,21 @@
       <option name="project" value="LOCAL" />
       <updated>1695393513127</updated>
     </task>
-    <option name="localTasksCounter" value="753" />
+    <task id="LOCAL-00753" summary="Коллекции Set в JavaScript №1">
+      <created>1696832096346</created>
+      <option name="number" value="00753" />
+      <option name="presentableId" value="LOCAL-00753" />
+      <option name="project" value="LOCAL" />
+      <updated>1696832096346</updated>
+    </task>
+    <task id="LOCAL-00754" summary="Коллекции Set в JavaScript №1">
+      <created>1696832104151</created>
+      <option name="number" value="00754" />
+      <option name="presentableId" value="LOCAL-00754" />
+      <option name="project" value="LOCAL" />
+      <updated>1696832104151</updated>
+    </task>
+    <option name="localTasksCounter" value="755" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -821,8 +719,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="задачник(уровень1.7) №1" />
-    <MESSAGE value="задачник(уровень1.7) №2" />
     <MESSAGE value="задачник(уровень1.7) №3" />
     <MESSAGE value="задачник(уровень1.7) №4" />
     <MESSAGE value="задачник(уровень1.8) №1" />
@@ -851,7 +747,6 @@
     <MESSAGE value="Задачник(уровень 2.2) №4" />
     <MESSAGE value="Задачник(уровень 2.3) №1" />
     <MESSAGE value="Задачник(уровень 2.3) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задачник(уровень 2.3) №2" />
     <MESSAGE value="Задачник(уровень 2.3) №3" />
     <MESSAGE value="Задачник(уровень 2.3) №4" />
     <MESSAGE value="урок 32(Коллекции Map в JavaScript) №1" />
@@ -860,6 +755,7 @@
     <MESSAGE value="урок 35(Ключи и значения в коллекциях Map) №2" />
     <MESSAGE value="урок 36(Применение коллекций Map) №1" />
     <MESSAGE value="Задачник(уровень 2.4) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задачник(уровень 2.4) №1" />
+    <MESSAGE value="Коллекции Set в JavaScript №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Коллекции Set в JavaScript №1" />
   </component>
 </project>
