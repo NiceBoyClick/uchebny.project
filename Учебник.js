@@ -1,9 +1,18 @@
 'use strict';
 
-let arr = [3, 3, 9, 9, 4, 4];
+let button = document.querySelector('button');
+let elems  = document.querySelectorAll('p');
 
-function func(arr) {
-    return [...new Set(arr)];
+let set = new Set;
+
+for (let elem of elems) {
+    elem.addEventListener('click', function() {
+        set.add(this);
+    });
 }
 
-console.log(func(arr));
+button.addEventListener('click', function() {
+    for (let elem of set) {
+        elem.textContent = elem.textContent + '!';
+    }
+});

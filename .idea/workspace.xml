@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 41(Преобразование коллекций Set) №2">
-      <change beforePath="$PROJECT_DIR$/Учебник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Учебник.js" afterDir="false" />
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 42(Удаление дублей из массива через Set) №1">
+      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -344,13 +344,6 @@
       <workItem from="1696578428123" duration="1390000" />
       <workItem from="1696583742669" duration="2318000" />
     </task>
-    <task id="LOCAL-00713" summary="learn.javascript(Объекты) #5">
-      <created>1692195816969</created>
-      <option name="number" value="00713" />
-      <option name="presentableId" value="LOCAL-00713" />
-      <option name="project" value="LOCAL" />
-      <updated>1692195816969</updated>
-    </task>
     <task id="LOCAL-00714" summary="learn.javascript(Объекты) #6">
       <created>1692197208763</created>
       <option name="number" value="00714" />
@@ -687,7 +680,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696833278839</updated>
     </task>
-    <option name="localTasksCounter" value="762" />
+    <task id="LOCAL-00762" summary="урок 42(Удаление дублей из массива через Set) №1">
+      <created>1696836666892</created>
+      <option name="number" value="00762" />
+      <option name="presentableId" value="LOCAL-00762" />
+      <option name="project" value="LOCAL" />
+      <updated>1696836666892</updated>
+    </task>
+    <option name="localTasksCounter" value="763" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -717,7 +717,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="задачник(уровень1.10) №1" />
     <MESSAGE value="урок 53(Символы ключи объектов в JavaScript) №1" />
     <MESSAGE value="урок 53(Символы ключи объектов в JavaScript) №2" />
     <MESSAGE value="урок 54(Перебор объекта с символами в JavaScript) №1" />
@@ -754,6 +753,7 @@
     <MESSAGE value="урок 40(Перебор коллекций Set циклом) №1" />
     <MESSAGE value="урок 41(Преобразование коллекций Set) №1" />
     <MESSAGE value="урок 41(Преобразование коллекций Set) №2" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 41(Преобразование коллекций Set) №2" />
+    <MESSAGE value="урок 42(Удаление дублей из массива через Set) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 42(Удаление дублей из массива через Set) №1" />
   </component>
 </project>
