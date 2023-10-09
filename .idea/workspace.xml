@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 39(Полезные возможности коллекций Set) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 40(Перебор коллекций Set циклом) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Учебник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Учебник.js" afterDir="false" />
     </list>
@@ -345,20 +345,6 @@
       <workItem from="1696578428123" duration="1390000" />
       <workItem from="1696583742669" duration="2318000" />
     </task>
-    <task id="LOCAL-00709" summary="задачник(уровень1.4) №4">
-      <created>1692095348342</created>
-      <option name="number" value="00709" />
-      <option name="presentableId" value="LOCAL-00709" />
-      <option name="project" value="LOCAL" />
-      <updated>1692095348342</updated>
-    </task>
-    <task id="LOCAL-00710" summary="задачник(уровень1.4) №5">
-      <created>1692095433566</created>
-      <option name="number" value="00710" />
-      <option name="presentableId" value="LOCAL-00710" />
-      <option name="project" value="LOCAL" />
-      <updated>1692095433566</updated>
-    </task>
     <task id="LOCAL-00711" summary="задачник(уровень1.5) №1">
       <created>1692095769953</created>
       <option name="number" value="00711" />
@@ -688,7 +674,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696832570225</updated>
     </task>
-    <option name="localTasksCounter" value="758" />
+    <task id="LOCAL-00758" summary="урок 39(Полезные возможности коллекций Set) №2">
+      <created>1696832612421</created>
+      <option name="number" value="00758" />
+      <option name="presentableId" value="LOCAL-00758" />
+      <option name="project" value="LOCAL" />
+      <updated>1696832612421</updated>
+    </task>
+    <task id="LOCAL-00759" summary="урок 40(Перебор коллекций Set циклом) №1">
+      <created>1696832764146</created>
+      <option name="number" value="00759" />
+      <option name="presentableId" value="LOCAL-00759" />
+      <option name="project" value="LOCAL" />
+      <updated>1696832764146</updated>
+    </task>
+    <option name="localTasksCounter" value="760" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -718,8 +718,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="задачник(уровень1.8) №3" />
-    <MESSAGE value="задачник(уровень1.9) №1" />
     <MESSAGE value="задачник(уровень1.9) №2" />
     <MESSAGE value="задачник(уровень1.9) №3" />
     <MESSAGE value="задачник(уровень1.10) №1" />
@@ -755,6 +753,8 @@
     <MESSAGE value="урок 38(Коллекции Set в JavaScript) №1" />
     <MESSAGE value="урок 38(Коллекции Set в JavaScript) №2" />
     <MESSAGE value="урок 39(Полезные возможности коллекций Set) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 39(Полезные возможности коллекций Set) №1" />
+    <MESSAGE value="урок 39(Полезные возможности коллекций Set) №2" />
+    <MESSAGE value="урок 40(Перебор коллекций Set циклом) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 40(Перебор коллекций Set циклом) №1" />
   </component>
 </project>
