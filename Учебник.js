@@ -1,5 +1,5 @@
 'use strict';
 
-let set = new Set([1, 2, 3]);
-let arr = [...set];
-console.log(arr);
+let arr = [3, 4, 9, 10];
+let set = new Set(arr);
+console.log(set);
