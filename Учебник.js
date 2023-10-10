@@ -1,13 +1,12 @@
 'use strict';
 
-let elems = document.querySelectorAll('p');
+let test = [
+    [1, 2, 3],
+    {a: 1, b: 2, c: 3},
+    [3, 4, 5],
+    {x: 1, y: 2, z: 3},
+];
 
-console.log(elems[0]);
-console.log(elems[1]);
-console.log(elems[2]);
-
-console.log(elems.length);
-
-for (let elem of elems) {
-    console.log(elem);
+for (let elem of test) {
+    console.log(Array.isArray(elem));
 }
