@@ -1,12 +1,31 @@
 'use strict';
 
-let test = [
-    [1, 2, 3],
-    {a: 1, b: 2, c: 3},
-    [3, 4, 5],
-    {x: 1, y: 2, z: 3},
-];
+let elems = document.querySelectorAll('p');
 
-for (let elem of test) {
-    console.log(Array.isArray(elem));
+
+// первый способ
+let arr = [];
+
+for (let elem of elems) {
+    arr.push(elem);
 }
+
+console.log(Array.isArray(arr));
+console.log(arr);
+
+
+// второй способ
+let arr1 = [...elems];
+
+console.log(Array.isArray(arr1));
+console.log(arr1);
+
+
+// третий способ
+let arr2 = Array.from(elems);
+
+console.log(Array.isArray(arr2));
+console.log(arr2);
+
+
+
