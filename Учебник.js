@@ -1,18 +1,13 @@
 'use strict';
 
-let button = document.querySelector('button');
-let elems  = document.querySelectorAll('p');
+let elems = document.querySelectorAll('p');
 
-let set = new Set;
+console.log(elems[0]);
+console.log(elems[1]);
+console.log(elems[2]);
+
+console.log(elems.length);
 
 for (let elem of elems) {
-    elem.addEventListener('click', function() {
-        set.add(this);
-    });
+    console.log(elem);
 }
-
-button.addEventListener('click', function() {
-    for (let elem of set) {
-        elem.textContent = elem.textContent + '!';
-    }
-});
