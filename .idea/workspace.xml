@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 48(Преобразование к массиву в JavaScript) №1">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 48(Преобразование к массиву в JavaScript) №2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Учебник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Учебник.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -343,14 +346,8 @@
       <workItem from="1696578122123" duration="188000" />
       <workItem from="1696578428123" duration="1390000" />
       <workItem from="1696583742669" duration="2318000" />
-      <workItem from="1696924188163" duration="1537000" />
-    </task>
-    <task id="LOCAL-00718" summary="задачник(уровень1.6) №1">
-      <created>1692266275031</created>
-      <option name="number" value="00718" />
-      <option name="presentableId" value="LOCAL-00718" />
-      <option name="project" value="LOCAL" />
-      <updated>1692266275031</updated>
+      <workItem from="1696924188163" duration="2143000" />
+      <workItem from="1697036600299" duration="2175000" />
     </task>
     <task id="LOCAL-00719" summary="задачник(уровень1.6) №2">
       <created>1692266686524</created>
@@ -688,7 +685,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696925905707</updated>
     </task>
-    <option name="localTasksCounter" value="767" />
+    <task id="LOCAL-00767" summary="урок 48(Преобразование к массиву в JavaScript) №2">
+      <created>1696926261420</created>
+      <option name="number" value="00767" />
+      <option name="presentableId" value="LOCAL-00767" />
+      <option name="project" value="LOCAL" />
+      <updated>1696926261420</updated>
+    </task>
+    <option name="localTasksCounter" value="768" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -718,7 +722,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="урок 56(Операции с объектами в функции в JavaScript) №1" />
     <MESSAGE value="урок 56(Операции с объектами в функции в JavaScript) №3" />
     <MESSAGE value="урок 57(Глобальные символы в JavaScript) №1" />
     <MESSAGE value="Задачник(уровень 1.10) №2" />
@@ -755,6 +758,7 @@
     <MESSAGE value="урок 45(Сходство псевдомассивов с массивами в JavaScript) №1" />
     <MESSAGE value="урок 47(Проверка на массив в JavaScript) №1" />
     <MESSAGE value="урок 48(Преобразование к массиву в JavaScript) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 48(Преобразование к массиву в JavaScript) №1" />
+    <MESSAGE value="урок 48(Преобразование к массиву в JavaScript) №2" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 48(Преобразование к массиву в JavaScript) №2" />
   </component>
 </project>
