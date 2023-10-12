@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 7(Введение в язык JSX в React) №3">
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 9(Правила возврата функцией при сносе тега вниз в JSX) №1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Учебник.js" beforeDir="false" afterPath="$PROJECT_DIR$/Учебник.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тестовый.html" beforeDir="false" afterPath="$PROJECT_DIR$/тестовый.html" afterDir="false" />
     </list>
@@ -348,20 +349,7 @@
       <workItem from="1696924188163" duration="2143000" />
       <workItem from="1697036600299" duration="2424000" />
       <workItem from="1697089568648" duration="87000" />
-    </task>
-    <task id="LOCAL-00722" summary="задачник(уровень1.7) №1">
-      <created>1692616968264</created>
-      <option name="number" value="00722" />
-      <option name="presentableId" value="LOCAL-00722" />
-      <option name="project" value="LOCAL" />
-      <updated>1692616968264</updated>
-    </task>
-    <task id="LOCAL-00723" summary="задачник(уровень1.7) №2">
-      <created>1692617108945</created>
-      <option name="number" value="00723" />
-      <option name="presentableId" value="LOCAL-00723" />
-      <option name="project" value="LOCAL" />
-      <updated>1692617108945</updated>
+      <workItem from="1697107345155" duration="946000" />
     </task>
     <task id="LOCAL-00724" summary="задачник(уровень1.7) №3">
       <created>1692617162039</created>
@@ -692,7 +680,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697050764604</updated>
     </task>
-    <option name="localTasksCounter" value="771" />
+    <task id="LOCAL-00771" summary="урок 8(Возврат вложенных тегов JSX функциями) №1">
+      <created>1697107587070</created>
+      <option name="number" value="00771" />
+      <option name="presentableId" value="LOCAL-00771" />
+      <option name="project" value="LOCAL" />
+      <updated>1697107587070</updated>
+    </task>
+    <task id="LOCAL-00772" summary="урок 9(Правила возврата функцией при сносе тега вниз в JSX) №1">
+      <created>1697107679293</created>
+      <option name="number" value="00772" />
+      <option name="presentableId" value="LOCAL-00772" />
+      <option name="project" value="LOCAL" />
+      <updated>1697107679293</updated>
+    </task>
+    <option name="localTasksCounter" value="773" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -722,8 +724,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задачник(уровень 1.10) №3" />
-    <MESSAGE value="Задачник(уровень 1.10) №4" />
     <MESSAGE value="Задачник(уровень 2.1) №1" />
     <MESSAGE value="Задачник(уровень 2.1) №2" />
     <MESSAGE value="Задачник(уровень 2.1) №3" />
@@ -759,6 +759,8 @@
     <MESSAGE value="урок 7(Введение в язык JSX в React) №1" />
     <MESSAGE value="урок 7(Введение в язык JSX в React) №2" />
     <MESSAGE value="урок 7(Введение в язык JSX в React) №3" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 7(Введение в язык JSX в React) №3" />
+    <MESSAGE value="урок 8(Возврат вложенных тегов JSX функциями) №1" />
+    <MESSAGE value="урок 9(Правила возврата функцией при сносе тега вниз в JSX) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 9(Правила возврата функцией при сносе тега вниз в JSX) №1" />
   </component>
 </project>
