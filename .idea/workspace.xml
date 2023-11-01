@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 15(Вставка массивов в JSX) №1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="a3409f71-23ec-44b2-9c24-8f2b4b9a1d31" name="Changes" comment="урок 17(Вставка переменных и констант в атрибуты тегов в JSX) №1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -355,7 +352,7 @@
       <workItem from="1697089568648" duration="87000" />
       <workItem from="1697107345155" duration="2111000" />
       <workItem from="1697794844847" duration="1332000" />
-      <workItem from="1698824661392" duration="976000" />
+      <workItem from="1698824661392" duration="1851000" />
     </task>
     <task id="LOCAL-00728" summary="задачник(уровень1.8) №3">
       <created>1692974382403</created>
@@ -700,7 +697,7 @@
       <option name="project" value="LOCAL" />
       <updated>1697109883280</updated>
     </task>
-    <option name="localTasksCounter" value="778" />
+    <option name="localTasksCounter" value="780" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -730,8 +727,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задачник(уровень 2.2) №2" />
-    <MESSAGE value="Задачник(уровень 2.2) №3" />
     <MESSAGE value="Задачник(уровень 2.2) №4" />
     <MESSAGE value="Задачник(уровень 2.3) №1" />
     <MESSAGE value="Задачник(уровень 2.3) №2" />
@@ -767,6 +762,8 @@
     <MESSAGE value="урок 12(Возврат функцией пустого тега в JSX) №1" />
     <MESSAGE value="урок 13(Вставка значений переменных и констант в JSX) №1" />
     <MESSAGE value="урок 15(Вставка массивов в JSX) №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 15(Вставка массивов в JSX) №1" />
+    <MESSAGE value="урок 16(Вставка объектов в JSX) №1" />
+    <MESSAGE value="урок 17(Вставка переменных и констант в атрибуты тегов в JSX) №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 17(Вставка переменных и констант в атрибуты тегов в JSX) №1" />
   </component>
 </project>
