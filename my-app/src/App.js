@@ -1,15 +1,11 @@
 import React from 'react';
 
 function App() {
-    const obj = {name: 'john', surname: 'smit'};
+    const attr = 'block';
 
-    return <>
-        <p>
-            name: {obj.name},
-            <br/>
-            surname: {obj.surname}
-        </p>
-    </>;
+    return <div id={attr}>
+        text
+    </div>;
 }
 
 export default App;
