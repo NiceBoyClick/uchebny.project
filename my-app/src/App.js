@@ -1,17 +1,20 @@
 import React from 'react';
 
 function App() {
-    const items = (
-        <>
-            <li>text1</li>
-            <li>text2</li>
-            <li>text3</li>
-        </>
-    );
-
-    return <ul>
-        {items}
-    </ul>
+    return <tbody>
+        <ul>
+            <li>text</li>
+            <li>text</li>
+            <li>text</li>
+            <li>text</li>
+            <li>text</li>
+            <li>text</li>
+            <li>text</li>
+            <li>text</li>
+            <li>text</li>
+            <li>text</li>
+        </ul>
+        </tbody>
 }
 
 export default App;
