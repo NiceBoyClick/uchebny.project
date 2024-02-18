@@ -1,10 +1,12 @@
 'use strict';
 
-let elems = document.querySelectorAll('p');
+function squareDigits(num){
+    let arr = String(num).split('');
+    let arr2 = [];
+    for(let elem of arr) {
+        arr2.push(Math.pow(+elem, 2));
+    }
+    return Number(arr2.join(''));
+}
 
-let arr = [...elems];
-
-console.log(arr.slice(1, 4));
-
-
-
+console.log(squareDigits(9119));
